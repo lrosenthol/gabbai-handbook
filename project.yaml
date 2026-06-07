@@ -1,0 +1,46 @@
+publication:
+  title: "Gabbai Handbook"
+  title_he: "מדריך הגבאי"
+  subtitle: "A Guide for Synagogue Officers"
+  author: "Author Name"
+  date: "5786 / 2026"
+  language: he        # primary language: "he" (Hebrew) or "en" (English)
+  direction: rtl      # primary text direction: "rtl" or "ltr"
+
+typography:
+  hebrew_font: "Shofar"
+  latin_font: "Source Sans 3"
+  latin_font_serif: "Source Serif 4"
+  code_font: "Source Code Pro"
+  body_size: "12pt"
+  heading_scale: 1.4   # multiplier for h1 relative to body size
+
+layout:
+  paper: "a4"
+  # For RTL books, "inner" is the right (binding) side.
+  # Typst uses inside/outside for two-sided layouts; here we use explicit sides.
+  top_margin: "2.5cm"
+  bottom_margin: "2.5cm"
+  right_margin: "3cm"    # inner/binding margin for RTL
+  left_margin: "2cm"     # outer margin for RTL
+  two_sided: true
+
+output:
+  filename: "publication.pdf"
+  draft: false
+
+# Ordered list of content files relative to the content/ directory.
+# title is optional; if omitted, the first H1 in the file is used.
+content:
+  - file: 00-cover.md
+  - file: 01-toc.md
+  - file: 00-introduction.md
+    title: "Introduction / מבוא"
+  - file: 01-sample-chapter.md
+    title: "Chapter One / פרק ראשון"
+  - folder: mishebairachs/
+    title: "Mishebairach / מי שבירך"
+    files:
+      - aliyot.md
+      - family.md
+      - cholim.md
