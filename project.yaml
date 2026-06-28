@@ -35,9 +35,9 @@ content:
   - file: 00-cover.md
   - file: 01-toc.md
   - file: 00-introduction.md
-    title: "Introduction / מבוא"
-  - file: 01-sample-chapter.md
-    title: "Chapter One / פרק ראשון"
+    title: "Introduction"
+  - file: Torah Reading.md
+    title: "Torah Reading / קְרִיאַת הַתּוֹרָה"
   - folder: mishebairachs/
     title: "Mishebairach / מי שבירך"
     files:
