@@ -82,6 +82,22 @@ DIV_WRAPPERS: dict[str, tuple[str, str]] = {
         '#block[\n  #set text(size: 16pt, weight: "bold", fill: purple, dir: rtl)\n',
         "\n]\n",
     ),
+    # Community-specific note boxes
+    "note-chabad": (
+        '#block(stroke: (left: 2pt + blue), inset: (left: 8pt), width: 100%)[\n'
+        '  #text(size: 9pt, fill: blue)[*Chabad / חב"ד*]\\\n',
+        "\n]\n",
+    ),
+    "note-sephardic": (
+        "#block(stroke: (left: 2pt + eastern), inset: (left: 8pt), width: 100%)[\n"
+        "  #text(size: 9pt, fill: eastern)[*Sephardic / ספרדי*]\\\n",
+        "\n]\n",
+    ),
+    "note-ashkenazic": (
+        "#block(stroke: (left: 2pt + maroon), inset: (left: 8pt), width: 100%)[\n"
+        "  #text(size: 9pt, fill: maroon)[*Ashkenazic / אשכנזי*]\\\n",
+        "\n]\n",
+    ),
 }
 
 

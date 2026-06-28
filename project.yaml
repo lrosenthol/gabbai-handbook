@@ -36,6 +36,10 @@ content:
   - file: 01-toc.md
   - file: 00-introduction.md
     title: "Introduction"
+  - file: gabbai-laws.md
+    title: "Laws of the Gabbai / הֲלָכוֹת הַגַּבַּאי"
+  - file: aliyot-laws.md
+    title: "Laws of Aliyot / הֲלָכוֹת עֲלִיַּת הַתּוֹרָה"
   - file: Torah Reading.md
     title: "Torah Reading / קְרִיאַת הַתּוֹרָה"
   - folder: mishebairachs/
