@@ -55,6 +55,14 @@ content:
       - new-member.md
       - soldier.md
       - vaad.md
+  - folder: kaddishim/
+    title: "Kaddishim / קדישים"
+    id: kaddishim   # anchor for cross-references ([text](#kaddishim))
+    files:
+      - mourners.md
+      - full.md
+      - rabbis.md
+      - half.md
   # Annexes: the laws behind the practical chapters.
   - file: aliyot-laws.md
     title: "Annex A: Laws of Aliyot / נִסְפָּח א: הֲלָכוֹת עֲלִיַּת הַתּוֹרָה"

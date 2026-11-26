@@ -173,7 +173,7 @@ A separate maftir is called on Shabbat morning, Yom Tov, Rosh Hashanah, and Yom 
 ### Before Calling the Maftir
 
 1. **Confirm the maftir before the service.**  Make sure he knows which haftarah is being read (watch for special haftarot on Rosh Chodesh, the Four Parshiyot, and other special Shabbatot) and that he is prepared to read it and say its blessings.
-2. **Half-Kaddish (*chatzi kaddish*).**  After the last required aliyah ends, the reader says half-Kaddish, and only then is the maftir called.  Because the maftir is not one of the required aliyot, the Kaddish marks the end of the obligatory reading.[^tr19]
+2. **Half-Kaddish (*chatzi kaddish*).**  After the last required aliyah ends, the reader says half-Kaddish, and only then is the maftir called.  Because the maftir is not one of the required aliyot, the Kaddish marks the end of the obligatory reading.[^tr19]  The text is in [Half Kaddish](#half-kaddish) in the [Kaddishim](#kaddishim) chapter.
 3. **When a second scroll is used.**  On Yom Tov, Shabbat Rosh Chodesh, Shabbat Chanukah, and the Four Parshiyot, the maftir is read from a second *sefer Torah*.[^tr20]  When three scrolls are used, the maftir reads from the last one.[^tr21]  For which days need two or three scrolls, and the order of kaddish, hagbah and gelilah with each, see [When More Than One Torah Is Read](#multiple-scrolls) below.
 4. **Call the maftir.**  For the wording, see [Maftir](#calling-maftir) and [A Bar Mitzvah](#calling-bar-mitzvah) under Calling an Oleh.
 
