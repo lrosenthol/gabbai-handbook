@@ -6,7 +6,7 @@ PROJECT    := project.yaml
 OUTPUT     := $(shell $(PYTHON) -c "import yaml; p=yaml.safe_load(open('$(PROJECT)')); print(p['output']['filename'])" 2>/dev/null || echo publication.pdf)
 
 # Source dependencies
-MD_FILES   := $(wildcard content/*.md)
+MD_FILES   := $(shell find content -name '*.md')
 TYP_FILES  := $(wildcard templates/*.typ)
 IMAGES     := $(wildcard images/*)
 FONTS      := $(wildcard fonts/*)
