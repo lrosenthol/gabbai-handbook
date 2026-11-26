@@ -48,3 +48,10 @@ content:
       - aliyot.md
       - family.md
       - cholim.md
+  - folder: kaddishim/
+    title: "Kaddishim / קדישים"
+    files:
+      - mourners.md
+      - full.md
+      - rabbis.md
+      - half.md
