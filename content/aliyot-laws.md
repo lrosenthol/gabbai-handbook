@@ -63,11 +63,7 @@ For the second (*Levi*):
 
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] הַלֵּוִי לַעֲלִיַּת שֵׁנִי
 
-The name of the oleh is announced using his Hebrew name and his father's Hebrew name.[^al20]
-
-If his father's name is unknown — such as a convert (*ger*), a foundling (*asuf*), or where the father is not Jewish — the name of the mother is used.[^al21] [^al24]. Alternatively, it is common to use בֶּן אַבְרָהָם (son of Abraham) or some (who?) have the minhag to use בֶּן אַבְרָהָם אָבִינוּ (son of Abraham our Father).
-
-NOTE: Some communities use the mother's name for all calls when a person is ill or when reciting a *mi sheberach* for healing; this is a later custom (*minhag acharonim*) without strict halachic requirement.[^al25]
+The name of the oleh is announced using his Hebrew name and his father's Hebrew name.[^al20] If his father's name is not known, see below.
 
 ::: note-sephardic
 **Sephardic custom:** Many Sephardic communities use the formula *ya'amod* followed only by the person's Hebrew name, without announcing the ordinal number of the aliyah. The aliyah number is considered already known to the congregation. Some communities also add the phrase *v'yevarech* ("and may he bless").[^al22]
@@ -76,6 +72,12 @@ NOTE: Some communities use the mother's name for all calls when a person is ill 
 ::: note-chabad
 **Chabad custom:** The Chabad announcement follows the Ashkenazic formula but typically adds *Yaamod* at the start and concludes *rishon / sheni / …* before *la'aliyah*. The precise wording was standardised in Chabad siddurim.[^al23]
 :::
+
+### When the Father's Name Is Not Used
+
+Under normal circumstances the father's name is used. A foundling (*asufi*) or a person whose father is unknown (*shetuki*) is called by the name of his maternal grandfather; if that too is unknown, he is called בֶּן אַבְרָהָם, as a convert is.[^al24]
+
+A convert (*ger*) is called בֶּן אַבְרָהָם (son of Abraham), since Abraham is regarded as the spiritual father of all converts.[^al24a] Some communities use the fuller form בֶּן אַבְרָהָם אָבִינוּ (son of Abraham our Father), which is the formula the Shulchan Aruch prescribes for a convert's name in a *get*.[^al24b]
 
 ### When a Kohen or Levi isn't present
 
@@ -159,11 +161,11 @@ A Kohen or Levi may receive maftir without displacing the regular sequence, sinc
 [^al18]: Talmud Bavli, *Gittin* 45b-46a; Shulchan Aruch, *Orach Chayyim* 135:14 (regarding Sefer Torah ownership, by extension).
 [^al19]: Shulchan Aruch, *Yoreh Deah* 334:2.
 [^al20]: Shulchan Aruch, *Orach Chayyim* 139:3.
-[^al21]: *Kaf HaChayyim* 139:18; *Mishnah Berurah* 139:11.
 [^al22]: *Ben Ish Chai*, *Parashat Toldot*, year 1, §9; *Kaf HaChayyim* 135:7.
 [^al23]: *Siddur Tehillat Hashem* (Chabad), laws of Torah reading; see also *Hayom Yom* 15 Tishrei.
-[^al24]: Shulchan Aruch, *Yoreh Deah* 268:3 (converts); *Mishnah Berurah* 139:11.
-[^al25]: *Magen Avraham* 139:4; *Mishnah Berurah* 139:11.
+[^al24]: *Rama*, *Orach Chayyim* 139:3; *Mishnah Berurah* 139:10–11. The *Taz* (139:1) and *Chayyei Adam*, cited in *Mishnah Berurah* 139:10, prefer בֶּן אַבְרָהָם even when the maternal grandfather is known.
+[^al24a]: *Rama*, *Orach Chayyim* 139:3; *Mishnah Berurah* 139:11, citing Genesis 17:5 ("for I have made you the father of a multitude of nations"); *Taz*, *Orach Chayyim* 139:1. See Talmud Yerushalmi, *Bikkurim* 1:4 (the baraita of R. Yehuda that a convert recites "our fathers" at bikkurim, ruled as halachah by R. Yehoshua ben Levi, against the Mishnah there); Rambam, *Hilchot Bikkurim* 4:3.
+[^al24b]: Shulchan Aruch, *Even HaEzer* 129:20.
 [^al26]: Shulchan Aruch, *Orach Chayyim* 141:1.
 [^al27]: Talmud Bavli, *Berachot* 6b; *Mishnah Berurah* 141:8.
 [^al28]: *Kitzur Shulchan Aruch* 23:3.
