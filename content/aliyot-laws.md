@@ -49,6 +49,8 @@ One placed under communal ban (*cherem*) should not receive an aliyah until the 
 
 ## Calling the Oleh — the Announcement Formula
 
+### Standard Aliyot
+
 The gabbai calls each person to the Torah with a standard Hebrew announcement. The traditional Ashkenazic formula is:
 
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לַעֲלִיַּת [שְׁנִי / שְׁלִישִׁי / …]
@@ -76,6 +78,18 @@ The name of the oleh is announced using his Hebrew name and his father's Hebrew 
 Under normal circumstances the father's name is used. A foundling (*asufi*) or a person whose father is unknown (*shetuki*) is called by the name of his maternal grandfather; if that too is unknown, he is called בֶּן אַבְרָהָם, as a convert is.[^al24]
 
 A convert (*ger*) is called בֶּן אַבְרָהָם (son of Abraham), since Abraham is regarded as the spiritual father of all converts.[^al24a] Some communities use the fuller form בֶּן אַבְרָהָם אָבִינוּ (son of Abraham our Father), which is the formula the Shulchan Aruch prescribes for a convert's name in a *get*.[^al24b]
+
+### When a Kohen or Levi isn't present
+
+**fill in**
+
+### Calling the Maftir
+
+**fill in**
+
+### Calling the Hagbah and Golel
+
+**fill in**
 
 ## The Aliyah Itself
 
