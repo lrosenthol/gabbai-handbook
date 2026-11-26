@@ -1,6 +1,3 @@
-::: pagebreak
-:::
-
 # Aliyot / עליות
 
 ::: prayer
