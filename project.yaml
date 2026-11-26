@@ -40,6 +40,8 @@ content:
     title: "Introduction"
   - file: torah-reading.md
     title: "Torah Reading / קְרִיאַת הַתּוֹרָה"
+  - file: haftarah-blessings.md
+    title: "Haftarah Blessings / בִּרְכוֹת הַהַפְטָרָה"
   - folder: mishebairachs/
     title: "Mishebairach / מִי שֶׁבֵּרַךְ"
     id: mi-sheberach   # anchor for cross-references ([text](#mi-sheberach))
