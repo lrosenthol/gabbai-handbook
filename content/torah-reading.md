@@ -151,7 +151,7 @@ After completing the final aliyah (including maftir), the torah is raised and th
 
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לִגְלִילָה
 
-The gabbai usually calls both people together, so the golel is already at the bimah when the scroll is lifted.  If the congregation recites a *mi sheberach* for them, see the hagbahah / gelilah texts in the *Mishebairach* chapter.
+The gabbai usually calls both people together, so the golel is already at the bimah when the scroll is lifted.  If the congregation recites a *mi sheberach* for them, see *Hagbah & Gelilah* in the *Mishebairach* chapter.
 
 ### Hagbah (the lifter)
 

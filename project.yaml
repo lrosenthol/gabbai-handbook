@@ -43,17 +43,12 @@ content:
   - file: torah-reading.md
     title: "Torah Reading / קְרִיאַת הַתּוֹרָה"
   - folder: mishebairachs/
-    title: "Mishebairach / מי שבירך"
+    title: "Mishebairach / מִי שֶׁבֵּרַךְ"
     files:
       - aliyot.md
-      - oleh-regular.md
-      - oleh-shabbat.md
-      - oleh-high-holidays.md
+      - hagbah-gelilah.md
       - cohen.md
-      - weekday.md
-      - minialia.md
       - family.md
-      - cholim.md
       - ill-one.md
       - ill-many.md
       - birth.md
