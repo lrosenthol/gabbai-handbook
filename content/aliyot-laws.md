@@ -89,7 +89,7 @@ The maftir is announced with the word *maftir* in place of the aliyah number. Fo
 
 ### Calling the Hagbah and Golel
 
-**fill in**
+After the reading, one person is called to lift the scroll (*hagbahah*) and another to roll and dress it (*gelilah*). When more than one scroll is read, each scroll has its own pair. For the announcement formulas and the order of honours, see *Calling Hagbah & Golel* in the *Torah Reading* chapter.
 
 ## The Aliyah Itself
 
