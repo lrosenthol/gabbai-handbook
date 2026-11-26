@@ -41,45 +41,51 @@ The gabbai usually calls both people together, so the golel is already at the bi
 
 ### Hagbah (the lifter)
 
-The magbiah opens the scroll so that at least three columns of writing show.  He lifts it high and turns to his right and left, and to the front and back, so that the whole congregation can see the writing.[^tr1]  The congregation stands and says:
+The magbiah opens the scroll about three columns wide (more if he can lift it safely).  He lifts it high and turns to his right and left, and to the front and back, so that the whole congregation can see the writing.[^tr1]  The congregation stands and says:
 
 וְזֹאת הַתּוֹרָה אֲשֶׁר שָׂם מֹשֶׁה לִפְנֵי בְּנֵי יִשְׂרָאֵל עַל פִּי ה' בְּיַד מֹשֶׁה
 
-Lifting a full, open scroll takes strength and practice.  The gabbai should only give hagbah to someone who can do it safely and is comfortable doing it.  A dropped Torah is a serious matter, so the gabbai should not offer hagbah to someone just to honour them if they cannot do it.[^tr2]  When the scroll is heavy or most of the parchment is wound on one side (for example, in Bereishit or late in Devarim), the gabbai should choose someone with experience.
+Many also add:
+
+תּוֹרַת ה' תְּמִימָה מְשִׁיבַת נָפֶשׁ
+
+Lifting a full, open scroll takes strength and practice.  The gabbai should only give hagbah to someone who can do it safely and is comfortable doing it.  The gabbai should not give hagbah to someone whose hands shake badly, or to someone elderly or weak who would have to sit down right away instead of holding the scroll up long enough for the congregation to see it.  Such a person should also decline the honour himself.[^tr2]  When the scroll is heavy or most of the parchment is wound on one side (for example, in Bereishit or late in Devarim), the gabbai should choose someone with experience.
 
 The magbiah then sits down holding the scroll, and the golel rolls it closed.
 
 ### Golel (the wrapper)
 
-The golel rolls the scroll closed and dresses it: the binder (*gartel*), the mantle, and then the breastplate, pointer (*yad*) and crown as the community does it.  The scroll should be rolled tight, with a seam between two sheets of parchment in the middle if possible.[^tr3]  The Talmud teaches that the golel receives the reward of everyone who read from the Torah.[^tr4]
+The golel rolls the scroll closed and dresses it: the binder (*gartel*), the mantle, and then the breastplate, pointer (*yad*) and crown as the community does it.  The scroll should be rolled tight and closed so that the two rollers meet at a seam between two sheets of parchment.  That way, if it ever tears, it tears at the seam.[^tr3]  The Talmud teaches that the golel receives a reward equal to that of all who read from the Torah.[^tr4]
 
-In many communities gelilah is given to a boy under bar mitzvah, which teaches children to love the mitzvah.[^tr5]  An adult should stand nearby to help, especially with a heavy scroll.
+Today one person lifts and another rolls, so the *magbiah* is considered the main golel.[^tr10]  This is one reason many communities treat hagbah as the more important of the two honours.
+
+In many communities gelilah is given to a boy under bar mitzvah, to train him in mitzvot (*chinuch*).  The boy should be old enough to understand that he is handling something holy.[^tr5]  An adult should stand nearby to help, especially with a heavy scroll.
 
 ::: note-sephardic
-**Sephardic custom:** In Sephardic communities (and some Chasidic ones) hagbahah is done *before* the reading, right after the scroll is placed on the bimah, rather than after it.  The scroll is usually kept in a hard case (*tik*) and lifted standing up inside it.  The gabbai calls the honour at that point instead of after maftir.[^tr6]
+**Sephardic custom:** In Sephardic communities (and some others) hagbahah is done *before* the reading, right after the scroll is placed on the bimah, rather than after it.  In many Sephardic communities the scroll is kept in a hard case (*tik*) and lifted standing up inside it.  The gabbai calls the honour at that point instead of after maftir.[^tr6]
 :::
 
 ### When More Than One Torah Is Read
 
-On some days the reading comes from two or three different places in the Torah.  The scroll is not rolled from one place to another in front of the congregation, because that would make them wait (*tircha de-tzibbura*).  So a separate scroll is prepared for each reading.[^tr7]  Each scroll gets its own hagbah and its own golel, so the gabbai needs to arrange **two or three pairs** of people before the service.
+On some days the reading comes from two or three different places in the Torah.  The scroll is not rolled from one place to another in front of the congregation, out of respect for the congregation (*kevod ha-tzibbur*).  So a separate scroll is prepared for each reading.  If the community has only one kosher scroll (for example, a small minyan, or a second scroll found to be *pasul*), the one scroll is rolled to the second reading in front of the congregation.[^tr7]  Each scroll gets its own hagbah and its own golel, so the gabbai needs to arrange **two or three pairs** of people before the service.
 
 | Number of Scrolls | Days                                                                                                                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2                 | Yom Tov (Pesach, Shavuot, Sukkot, Shemini Atzeret); Rosh Hashanah; Yom Kippur morning; Shabbat Chol Ha-Moed; Chol Ha-Moed Pesach (weekdays); Shabbat Rosh Chodesh; Shabbat Chanukah; Rosh Chodesh Tevet (weekday, during Chanukah); Shabbat Zachor and Shabbat Parah |
+| 2                 | Yom Tov (Pesach, Shavuot, Sukkot, Shemini Atzeret); Rosh Hashanah; Yom Kippur morning; Shabbat Chol Ha-Moed; Chol Ha-Moed Pesach (weekdays); Shabbat Rosh Chodesh; Shabbat Chanukah; Rosh Chodesh Tevet (weekday, during Chanukah); Shabbat Zachor and Shabbat Parah; Shabbat Shekalim and Shabbat Ha-Chodesh (when not on Rosh Chodesh) |
 | 3                 | Simchat Torah; Shabbat Rosh Chodesh Tevet (Chanukah); Shekalim on Shabbat Rosh Chodesh Adar; Ha-Chodesh on Shabbat Rosh Chodesh Nissan                                                |
 
-Shekalim and Ha-Chodesh use two scrolls when they do not fall on Rosh Chodesh.
+Note that weekday Chol Ha-Moed **Sukkot** uses only one scroll, unlike Chol Ha-Moed Pesach.
 
 **Prepare every scroll before the service.**  Each scroll should be rolled to its reading ahead of time, and it should be clearly marked which scroll is first, second and third.  The gabbai should check this before the service, since a wrong scroll means rolling in front of the congregation.
 
 #### Order with two scrolls
 
 1. The main aliyot are read from the first scroll.
-2. The second scroll is brought and placed on the bimah next to the first.  The bimah should never be left without a Torah on it between readings.[^tr8]
+2. The second scroll is brought and placed on the bimah next to the first.  The first scroll is not taken away until the second is on the bimah, so that no one's attention is taken off the mitzvah.[^tr8]
 3. Half-kaddish is recited, with both scrolls on the bimah.[^tr9]
-4. Hagbah and gelilah of the **first** scroll.  The magbiah sits holding it.
+4. Hagbah and gelilah of the **first** scroll.  The magbiah sits holding it.  The second scroll is not opened, and its cover is not removed, until the first has been rolled.[^tr11]
 5. Maftir (or the extra reading) is read from the second scroll.
-6. Hagbah and gelilah of the **second** scroll.  Then the haftarah.
+6. Hagbah and gelilah of the **second** scroll.  Then the haftarah.  The haftarah should not start until the golel has finished, so that he can listen to it.[^tr12]
 
 #### Order with three scrolls
 
@@ -87,7 +93,7 @@ Shekalim and Ha-Chodesh use two scrolls when they do not fall on Rosh Chodesh.
 2. The second scroll is placed on the bimah.  **No kaddish is said yet.**
 3. Hagbah and gelilah of the first scroll.
 4. The next aliyah is read from the second scroll.
-5. The third scroll is placed on the bimah, and half-kaddish is recited.[^tr9]
+5. The third scroll is placed on the bimah next to the second, and half-kaddish is recited over these two.  The first scroll does not need to be brought back.[^tr9]
 6. Hagbah and gelilah of the second scroll.
 7. Maftir is read from the third scroll.
 8. Hagbah and gelilah of the third scroll.  Then the haftarah.
@@ -108,12 +114,15 @@ The gabbai must follow the reading carefully in a *tikkun* (a printed book with 
 
 An error is considered significant (*me'akev*) if it changes the meaning of the text.  Minor mispronunciations that do not affect meaning need not be corrected publicly, though the gabbai may quietly guide the reader.
 
-[^tr1]: Shulchan Aruch, *Orach Chayyim* 134:2; *Mishnah Berurah* 134:8 (opening at least three columns).
-[^tr2]: See *Mishnah Berurah* 147:7 on choosing a capable person for hagbahah.
-[^tr3]: Shulchan Aruch, *Orach Chayyim* 147:4.
-[^tr4]: Talmud Bavli, *Megillah* 32a; Rema, *Orach Chayyim* 147:1.
-[^tr5]: Rema, *Orach Chayyim* 147:1.
-[^tr6]: See Shulchan Aruch, *Orach Chayyim* 134:2 (hagbahah before the reading), which is the Sephardic practice; the Ashkenazic practice of lifting after the reading follows *Mishnah Berurah* 134:8.
+[^tr1]: Shulchan Aruch, *Orach Chayyim* 134:2; *Mishnah Berurah* 134:8 (opening up to three columns, depending on the lifter's strength).
+[^tr2]: *Mishnah Berurah* 147:7, citing *Sha'arei Ephraim*.
+[^tr3]: Shulchan Aruch, *Orach Chayyim* 147:3.
+[^tr4]: Talmud Bavli, *Megillah* 32a; see also Shulchan Aruch, *Orach Chayyim* 147:1.
+[^tr5]: *Mishnah Berurah* 147:7, citing *Sha'arei Ephraim*.
+[^tr6]: *Mishnah Berurah* 134:8 (Sephardic practice: before the reading); Rema, *Orach Chayyim* 134:2 (Ashkenazic practice: after the reading).
 [^tr7]: Shulchan Aruch, *Orach Chayyim* 144:3; Talmud Bavli, *Yoma* 70a.
-[^tr8]: *Mishnah Berurah* 147:27.
+[^tr8]: Rema, *Orach Chayyim* 147:8; *Mishnah Berurah* 147:27.
 [^tr9]: Rema, *Orach Chayyim* 282:4; *Mishnah Berurah* 147:27.
+[^tr10]: Rema, *Orach Chayyim* 147:4.
+[^tr11]: Shulchan Aruch, *Orach Chayyim* 147:8.
+[^tr12]: Shulchan Aruch, *Orach Chayyim* 147:7.
