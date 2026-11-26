@@ -9,7 +9,8 @@ The maftir says one blessing before the haftarah and a set of blessings after it
 
 - **The first three blessings after the haftarah** (*Tzur kol ha-olamim*, *Rachem al Tziyon* and *Samchenu*) are the same every time.
 - **The fourth blessing** (*Al ha-Torah*) mentions the day.  There is one form for Shabbat, one for Yom Tov, one for Rosh Hashanah and one for Yom Kippur, and each of these has a Shabbat form.
-- **On a weekday** (fast-day *Mincha*, Tisha B'Av morning) and at Yom Kippur *Mincha*, the fourth blessing is left out.  The maftir ends with *Magen David*.[^hb2]
+- **On a weekday** (fast-day *Mincha*, Tisha B'Av morning and *Mincha*, Yom Kippur *Mincha*), the fourth blessing is left out.  The maftir ends with *Magen David*.[^hb2]
+- **Yom Kippur *Mincha* on Shabbat** is the exception: the fourth blessing is said in a shortened form that mentions only Shabbat and ends *mekadesh ha-Shabbat*.[^hb4]
 
 The congregation answers *Amen* after each blessing.  Many maftirim do not know which form to use, especially when Yom Tov falls on Shabbat.  The gabbai should check before the service that the maftir knows which form is needed and that the correct text is open in front of him.
 
@@ -25,18 +26,19 @@ The colours used below are:
 
 ## Which Form to Use
 
-| Day                                                      | After the haftarah                  |
-| -------------------------------------------------------- | ----------------------------------- |
-| Shabbat (including Shabbat Rosh Chodesh, Shabbat Chanukah, the Four Parshiyot, Shabbat Shuvah) | Three blessings + Shabbat           |
-| Shabbat Chol Ha-Moed (Pesach and Sukkot)                 | Three blessings + Shabbat           |
-| Yom Tov (Pesach, Shavuot, Sukkot, Shemini Atzeret / Simchat Torah) | Three blessings + Yom Tov           |
-| Yom Tov on Shabbat                                       | Three blessings + Yom Tov on Shabbat |
-| Rosh Hashanah                                            | Three blessings + Rosh Hashanah     |
-| Rosh Hashanah on Shabbat                                 | Three blessings + Rosh Hashanah on Shabbat |
-| Yom Kippur (morning)                                     | Three blessings + Yom Kippur        |
-| Yom Kippur on Shabbat (morning)                          | Three blessings + Yom Kippur on Shabbat |
-| Yom Kippur (*Mincha*), on a weekday or on Shabbat        | Three blessings only                |
-| Public fast days (*Mincha*) and Tisha B'Av (morning and *Mincha*) | Three blessings only                |
+| Day                                                      | After the haftarah                  | Closes with (*chatima*)             |
+| -------------------------------------------------------- | ----------------------------------- | ----------------------------------- |
+| Shabbat (including Shabbat Rosh Chodesh, Shabbat Chanukah, the Four Parshiyot, Shabbat Shuvah) | Three blessings + Shabbat | *mekadesh ha-Shabbat* |
+| Shabbat Chol Ha-Moed (Pesach and Sukkot)                 | Three blessings + Shabbat (festival not mentioned)[^hb3] | *mekadesh ha-Shabbat* |
+| Yom Tov (Pesach, Shavuot, Sukkot, Shemini Atzeret / Simchat Torah) | Three blessings + Yom Tov | *mekadesh Yisrael ve-ha-zemanim* |
+| Yom Tov on Shabbat                                       | Three blessings + Yom Tov on Shabbat | *mekadesh ha-Shabbat ve-Yisrael ve-ha-zemanim* |
+| Rosh Hashanah                                            | Three blessings + Rosh Hashanah     | *mekadesh Yisrael ve-yom ha-zikaron* |
+| Rosh Hashanah on Shabbat                                 | Three blessings + Rosh Hashanah on Shabbat | *mekadesh ha-Shabbat ve-Yisrael ve-yom ha-zikaron* |
+| Yom Kippur (morning)                                     | Three blessings + Yom Kippur        | *mekadesh Yisrael ve-yom ha-Kippurim* |
+| Yom Kippur on Shabbat (morning)                          | Three blessings + Yom Kippur on Shabbat | *mekadesh ha-Shabbat ve-Yisrael ve-yom ha-Kippurim* |
+| Yom Kippur (*Mincha*), weekday                           | Three blessings only                | *Magen David*                       |
+| Yom Kippur (*Mincha*) on Shabbat                         | Three blessings + shortened Shabbat blessing (no *al ha-Torah ve-al ha-avodah*) | *mekadesh ha-Shabbat* |
+| Public fast days (*Mincha*) and Tisha B'Av (morning haftarah and *Mincha*) | Three blessings only | *Magen David* |
 
 **Rosh Chodesh, Chanukah and Chol Ha-Moed on Shabbat are not mentioned.**  The maftir uses the regular Shabbat form and ends *mekadesh ha-Shabbat*.  Only Yom Tov itself (and Rosh Hashanah and Yom Kippur) is mentioned in the haftarah blessing.[^hb3]
 
@@ -52,7 +54,7 @@ Said on every day a haftarah is read.
 
 ### The First Three Blessings
 
-Said on every day a haftarah is read.  On a weekday and at Yom Kippur *Mincha*, the maftir stops after *Magen David*.
+Said on every day a haftarah is read.  On a weekday fast and at weekday Yom Kippur *Mincha*, the maftir stops after *Magen David*.
 
 ::: prayer
 בָּרוּךְ אַתָּה ה' אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, צוּר כָּל הָעוֹלָמִים, צַדִּיק בְּכָל הַדּוֹרוֹת, הָאֵל הַנֶּאֱמָן, הָאוֹמֵר וְעֹשֶׂה, הַמְדַבֵּר וּמְקַיֵּם, שֶׁכָּל דְּבָרָיו אֱמֶת וָצֶדֶק. נֶאֱמָן אַתָּה הוּא ה' אֱלֹהֵינוּ, וְנֶאֱמָנִים דְּבָרֶיךָ, וְדָבָר אֶחָד מִדְּבָרֶיךָ אָחוֹר לֹא יָשׁוּב רֵיקָם, כִּי אֵל מֶלֶךְ נֶאֱמָן וְרַחֲמָן אָתָּה. בָּרוּךְ אַתָּה ה', הָאֵל הַנֶּאֱמָן בְּכָל דְּבָרָיו.
@@ -64,7 +66,7 @@ Said on every day a haftarah is read.  On a weekday and at Yom Kippur *Mincha*, 
 
 ### Fast Days and Tisha B'Av
 
-On a public fast day (Tzom Gedaliah, Asarah b'Tevet, Ta'anit Esther, Shiv'ah Asar b'Tammuz) at *Mincha*, and on Tisha B'Av, the haftarah is read on a weekday.  The maftir says the blessing before the haftarah and the **first three blessings** after it, ending with *Magen David*.  There is no fourth blessing.[^hb2]
+On a public fast day (Tzom Gedaliah, Asarah b'Tevet, Ta'anit Esther, Shiv'ah Asar b'Tammuz) the haftarah (*Dirshu*) is read at *Mincha* only.  On Tisha B'Av there is a haftarah at both the morning service and *Mincha*.[^hb5]  The maftir says the blessing before the haftarah and the **first three blessings** after it, ending with *Magen David*.  There is no fourth blessing.[^hb2]
 
 A public fast that would fall on Shabbat is moved to a weekday (for example, Tisha B'Av is postponed to Sunday), so the same rule applies.  The only fast whose haftarah can be read on Shabbat is Yom Kippur (below).
 
@@ -74,7 +76,16 @@ A public fast that would fall on Shabbat is moved to a weekday (for example, Tis
 
 ### Yom Kippur Mincha
 
-At Yom Kippur *Mincha* the haftarah is the Book of Jonah.  The maftir says the blessing before the haftarah and the **first three blessings** after it, ending with *Magen David*.  This is so even when Yom Kippur falls on Shabbat, since there is no haftarah at Shabbat *Mincha*.[^hb4]
+At Yom Kippur *Mincha* the haftarah is the Book of Jonah, with the blessing before and after.[^hb4]
+
+- **On a weekday**, the maftir says the **first three blessings** after the haftarah and stops at *Magen David*.  There is no fourth blessing.
+- **On Shabbat**, the maftir says the first three blessings and then a **shortened fourth blessing**: Shabbat is mentioned and the blessing ends *mekadesh ha-Shabbat*.  Following the Rema, *al ha-Torah ve-al ha-avodah* is left out, because those words are not said at *Mincha*.
+
+::: prayer-shabbat
+עַל הַנְּבִיאִים, וְעַל יוֹם הַשַּׁבָּת הַזֶּה, שֶׁנָּתַתָּ לָּנוּ ה' אֱלֹהֵינוּ, לִקְדֻשָּׁה וְלִמְנוּחָה, לְכָבוֹד וּלְתִפְאָרֶת. עַל הַכֹּל ה' אֱלֹהֵינוּ, אֲנַחְנוּ מוֹדִים לָךְ, וּמְבָרְכִים אוֹתָךְ, יִתְבָּרַךְ שִׁמְךָ בְּפִי כָּל חַי תָּמִיד לְעוֹלָם וָעֶד. בָּרוּךְ אַתָּה ה', מְקַדֵּשׁ הַשַּׁבָּת.
+:::
+
+The exact wording of this shortened text varies among *machzorim*.  Check it against the congregation's *machzor* before Yom Kippur.
 
 ### Shabbat
 
@@ -147,7 +158,8 @@ The texts above follow the common Ashkenazic wording.  Siddurim and *machzorim* 
 
 ---
 
-[^hb1]: Talmud Bavli, *Shabbat* 24a–b; *Masechet Soferim* 13:9–14 (the text of the blessings); Shulchan Aruch, *Orach Chayyim* 284.
-[^hb2]: Talmud Bavli, *Shabbat* 24a (on a weekday there is no blessing that mentions the day); *Rama*, *Orach Chayyim* 566:1 (the fast-day haftarah).
-[^hb3]: Talmud Bavli, *Shabbat* 24a–b (Yom Tov on Shabbat is mentioned in the haftarah blessing; Rosh Chodesh on Shabbat is not); see Shulchan Aruch, *Orach Chayyim* 425:1 (Shabbat Rosh Chodesh), 490:9 (Shabbat Chol Ha-Moed Pesach) and 663:3 (Shabbat Chol Ha-Moed Sukkot).
-[^hb4]: Shulchan Aruch, *Orach Chayyim* 622:2.
+[^hb1]: Tur, *Orach Chayyim* 284 (one blessing before and four after the haftarah; the first three after end *Magen David*); *Masechet Soferim* 13:9–14 (the text of the blessings); Shulchan Aruch, *Orach Chayyim* 284.
+[^hb2]: Tur, *Orach Chayyim* 284 (the three blessings *Tzur*, *Rachem* and *Samchenu* end with *Magen David*; the fourth blessing is the one that mentions Shabbat or the festival, so it is not said on a weekday); *Rama*, *Orach Chayyim* 566:1 (the haftarah is read at fast-day *Mincha*).
+[^hb3]: Shulchan Aruch, *Orach Chayyim* 284:2 (on Shabbat Rosh Chodesh the maftir does not mention Rosh Chodesh; this is the accepted custom); 490:9, *Rema* (on Shabbat Chol Ha-Moed Pesach the haftarah blessing does not mention Pesach, neither in the body nor in the closing; the same applies on Shabbat Chol Ha-Moed Sukkot, whose haftarah, Ezekiel 38, is given in 663:3).
+[^hb4]: Shulchan Aruch, *Orach Chayyim* 622:2: the maftir reads Jonah and says the blessings before and after; "if [Yom Kippur] falls on Shabbat he mentions Shabbat in [the blessings] and concludes with the blessing of Shabbat."  The *Rema* adds that *al ha-Torah ve-al ha-avodah* is not said at *Mincha*.
+[^hb5]: *Rama*, *Orach Chayyim* 566:1 (at a fast-day *Mincha* the haftarah *Dirshu* is read; in the morning there is no haftarah except on Tisha B'Av).
