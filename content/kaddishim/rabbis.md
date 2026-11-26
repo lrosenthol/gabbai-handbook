@@ -3,7 +3,7 @@
 
 # Rabbis' Kaddish / קַדִּישׁ דְּרַבָּנָן
 
-Said after a passage of Torah learning from the Oral Law, such as the *Mishnah* or *Aggadah*: after *Korbanot* in the morning service, after *Bameh Madlikin* on Friday night, and after a *shiur* or the learning at a *siyum* or *shiva* house.  Commonly said by mourners.  It adds a prayer for the welfare of the rabbis, their students, and all who study Torah.  The lines in yellow replace the line above them during the Ten Days of Repentance (*Aseret Yemei Teshuvah*), from Rosh Hashanah through Yom Kippur.
+Said after a passage of Torah learning from the Oral Law, such as the *Mishnah* or *Aggadah*: after *Korbanot* in the morning service, after *Bameh Madlikin* on Friday night, and after a *shiur* or the learning at a *siyum* or *shiva* house.  Commonly said by mourners.  It adds a prayer for the welfare of the rabbis, their students, and all who study Torah.  The lines marked *Aseret Yemei Teshuvah* (in yellow) replace the line printed just above them during the Ten Days of Repentance (*Aseret Yemei Teshuvah*), from Rosh Hashanah through Yom Kippur.
 
 ::: prayer
 יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא. (קהל: אָמֵן)
@@ -17,16 +17,16 @@ Said after a passage of Torah learning from the Oral Law, such as the *Mishnah* 
 לְעֵלָּא מִן כָּל בִּרְכָתָא וְשִׁירָתָא, תֻּשְׁבְּחָתָא וְנֶחָמָתָא, דַּאֲמִירָן בְּעָלְמָא, וְאִמְרוּ אָמֵן.
 
 ::: prayer-high-holidays
-בעשי"ת: לְעֵלָּא לְעֵלָּא מִכָּל בִּרְכָתָא...
+בעשי״ת (replaces the line above / במקום השורה שלמעלה): לְעֵלָּא לְעֵלָּא מִכָּל בִּרְכָתָא וְשִׁירָתָא, תֻּשְׁבְּחָתָא וְנֶחָמָתָא, דַּאֲמִירָן בְּעָלְמָא, וְאִמְרוּ אָמֵן.
 :::
 
-עַל יִשְׂרָאֵל וְעַל רַבָּנָן, וְעַל תַלְמִידֵיהוֹן וְעַל כָּל תַּלְמִידֵי תַלְמִידֵיהוֹן, וְעַל כָּל מָאן דְּעָסְקִין בְּאוֹרַיְתָא, דִּי בְאַתְרָא הָדֵין וְדִי בְכָל אֲתַר וַאֲתַר, יְהֵא לְהוֹן וּלְכוֹן שְׁלָמָא רַבָּא, חִנָּא וְחִסְדָּא וְרַחֲמִין, וְחַיִּין אֲרִיכִין, וּמְזוֹנָא רְוִיחֵי, וּפוּרְקָנָא מִן קֳדָם אֲבוּהוֹן דְבִשְׁמַיָּא (וְאַרְעָא), וְאִמְרוּ אָמֵן.
+עַל יִשְׂרָאֵל וְעַל רַבָּנָן, וְעַל תַּלְמִידֵיהוֹן וְעַל כָּל תַּלְמִידֵי תַלְמִידֵיהוֹן, וְעַל כָּל מָאן דְּעָסְקִין בְּאוֹרַיְתָא, דִּי בְאַתְרָא הָדֵין וְדִי בְכָל אֲתַר וַאֲתַר, יְהֵא לְהוֹן וּלְכוֹן שְׁלָמָא רַבָּא, חִנָּא וְחִסְדָּא וְרַחֲמִין, וְחַיִּין אֲרִיכִין, וּמְזוֹנָא רְוִיחֵי, וּפוּרְקָנָא מִן קֳדָם אֲבוּהוֹן דְבִשְׁמַיָּא (וְאַרְעָא), וְאִמְרוּ אָמֵן.
 
 יְהֵא שְׁלָמָא רַבָּא מִן שְׁמַיָּא, וְחַיִּים עָלֵינוּ וְעַל כָּל יִשְׂרָאֵל, וְאִמְרוּ אָמֵן.
 
 עוֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו, הוּא יַעֲשֶׂה שָׁלוֹם עָלֵינוּ וְעַל כָּל יִשְׂרָאֵל, וְאִמְרוּ אָמֵן.
 
 ::: prayer-high-holidays
-בעשי"ת: עוֹשֶׂה הַשָּׁלוֹם בִּמְרוֹמָיו...
+בעשי״ת (replaces the line above / במקום השורה שלמעלה): עוֹשֶׂה הַשָּׁלוֹם בִּמְרוֹמָיו, הוּא יַעֲשֶׂה שָׁלוֹם עָלֵינוּ וְעַל כָּל יִשְׂרָאֵל, וְאִמְרוּ אָמֵן.
 :::
 :::
