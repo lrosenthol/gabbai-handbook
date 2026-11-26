@@ -107,6 +107,19 @@ $endif$
   below: 0.8em,
 )[#it]
 
+// ── Cross-references ─────────────────────────────────────────────────────────
+// Internal markdown links ([text](#heading-id)) become links to Typst labels.
+// Append the target's page number so the reference also works in print.
+
+#show link: it => {
+  if type(it.dest) == label {
+    it
+    context [ (p.~#counter(page).at(it.dest).first())]
+  } else {
+    it
+  }
+}
+
 // ── Body ──────────────────────────────────────────────────────────────────────
 
 $body$

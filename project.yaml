@@ -36,15 +36,17 @@ content:
   - file: 01-toc.md
   - file: 00-introduction.md
     title: "Introduction"
-  - file: gabbai-laws.md
-    title: "Laws of the Gabbai / הֲלָכוֹת הַגַּבַּאי"
-  - file: aliyot-laws.md
-    title: "Laws of Aliyot / הֲלָכוֹת עֲלִיַּת הַתּוֹרָה"
   - file: torah-reading.md
     title: "Torah Reading / קְרִיאַת הַתּוֹרָה"
   - folder: mishebairachs/
     title: "Mishebairach / מי שבירך"
+    id: mi-sheberach   # anchor for cross-references ([text](#mi-sheberach))
     files:
       - aliyot.md
       - family.md
       - cholim.md
+  # Annexes: the laws behind the practical chapters.
+  - file: aliyot-laws.md
+    title: "Annex A: Laws of Aliyot / נִסְפָּח א: הֲלָכוֹת עֲלִיַּת הַתּוֹרָה"
+  - file: gabbai-laws.md
+    title: "Annex B: Laws of the Gabbai / נִסְפָּח ב: הֲלָכוֹת הַגַּבַּאי"

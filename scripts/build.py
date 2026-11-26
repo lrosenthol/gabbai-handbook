@@ -94,8 +94,14 @@ def assemble_markdown(project: dict[str, Any]) -> Path:
         if "folder" in entry:
             folder_path = CONTENT / entry["folder"]
             folder_title = entry.get("title") or entry["folder"].rstrip("/").replace("-", " ").title()
+            heading = f"# {folder_title}"
+            if entry.get("id"):
+                heading += f" {{#{entry['id']}}}"
+            # Start the folder's section on a new page.
             parts.append("")
-            parts.append(f"# {folder_title}")
+            parts.append("::: pagebreak\n:::")
+            parts.append("")
+            parts.append(heading)
             for filename in entry.get("files", []):
                 md_path = folder_path / filename
                 if not md_path.exists():
