@@ -1,7 +1,7 @@
 ::: pagebreak
 :::
 
-# Half Kaddish / חֲצִי קַדִּישׁ
+# Half Kaddish / חֲצִי קַדִּישׁ {#half-kaddish}
 
 Said by the *shaliach tzibbur* to mark a transition within the service: before *Barchu*, before the *Amidah* at *Mincha* and *Maariv*, and at *Shacharit* after *Tachanun* or *Hallel*, before the Torah reading.[^kd6]  A minyan of ten adult men is required.[^kd3]  The lines marked *Aseret Yemei Teshuvah* (in yellow) replace the line printed just above them during the Ten Days of Repentance, from Rosh Hashanah through Yom Kippur.[^kd5]
 
@@ -11,7 +11,7 @@ Said by the *shaliach tzibbur* to mark a transition within the service: before *
 - **Weekdays, including Chol HaMoed (the maftir is one of the counted aliyot):** half-Kaddish follows the last aliyah, once the scroll has been returned to the ark.[^kd9]
 - **Shabbat and fast-day *Mincha*:** no Kaddish is said on the bimah after the reading.  The half-Kaddish is said at the *amud*, just before the *Amidah*.[^kd10]
 
-Customs differ on the exact order, so follow the practice of your congregation.  See *Calling the Maftir* (the Kaddish step) and *When More Than One Torah Is Read* in the *Torah Reading* chapter.
+Customs differ on the exact order, so follow the practice of your congregation.  See [Calling the Maftir](#maftir) (the Kaddish step) and [When More Than One Torah Is Read](#multiple-scrolls) in the *Torah Reading* chapter.
 
 ::: prayer
 יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא. (קהל: אָמֵן)
