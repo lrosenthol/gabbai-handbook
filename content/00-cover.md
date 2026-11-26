@@ -1,10 +1,10 @@
 ::: cover-page
 
-[מדריך הגבאי]{.cover-title-he}
+[מַדְרִיךְ לְגַּבַּאי]{.cover-title-he}
 
-[Gabbai Handbook]{.cover-title}
+[The Gabbai's Handbook]{.cover-title}
 
-[A Guide for Synagogue Officers]{.cover-subtitle}
+[A How-To Manual for Gabbi'im]{.cover-subtitle}
 
 [Rabbi Leonard Rosenthol]{.cover-author}
 

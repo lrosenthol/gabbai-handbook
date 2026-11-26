@@ -93,6 +93,12 @@ $endif$
 #set table(stroke: 0.5pt, inset: 6pt)
 #show table.header: set text(weight: "bold")
 
+// ── Horizontal rule ──────────────────────────────────────────────────────────
+
+#let horizontalrule = block(above: 1em, below: 1em)[
+  #line(length: 100%, stroke: 0.4pt)
+]
+
 // ── Block quotes ─────────────────────────────────────────────────────────────
 
 #show quote: it => block(
