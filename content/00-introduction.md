@@ -8,7 +8,7 @@ The gabbai occupies a central position in the synagogue service.  A well-prepare
 
 ## How to Use This Handbook
 
-The handbook is in two parts.  The practical chapters come first: *Torah Reading* follows the reading in the order of the service, from the number of aliyot and the wording for calling each oleh through hagbah, gelilah and correcting errors, and *Mishebairach* collects the blessings said for the olim and others.  The laws behind them are gathered at the back as annexes: *Annex A: Laws of Aliyot* (who may be called, in what order, and how the oleh conducts himself) and *Annex B: Laws of the Gabbai* (who may serve, appointment, conduct and fairness).
+The handbook is in two parts.  The practical chapters come first: *Torah Reading* follows the reading in the order of the service, from the number of aliyot and the wording for calling each oleh through hagbah, gelilah and correcting errors, and *Mishebairach* collects the blessings said for the olim and others.  The laws behind them are gathered at the back as annexes: *Annex A: Laws of Aliyot* (who may be called, in what order, and how the oleh conducts himself) and *Annex B: Laws of the Gabbai* (who may serve, conduct and fairness).
 
 Each topic is covered in one place.  Where a practical section depends on a law, or a law has a practical side, a cross-reference gives the section name and page number.  Hebrew terms are introduced alongside their English equivalents, since the practitioner will encounter both in synagogue use.
 
