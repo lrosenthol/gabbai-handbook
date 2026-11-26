@@ -85,7 +85,7 @@ If no Kohen is present, the first oleh is announced *bimkom Kohen*. If no Levi i
 
 ### Calling the Maftir
 
-**fill in**
+The maftir is announced with the word *maftir* in place of the aliyah number. For the laws of maftir, see *Maftir* below. For the announcement formula and the practical steps (half-Kaddish, a second scroll, the haftarah), see *Calling the Maftir* in the *Torah Reading* chapter.
 
 ### Calling the Hagbah and Golel
 
@@ -142,7 +142,7 @@ A Kohen or Levi may receive maftir without displacing the regular sequence, sinc
 ---
 
 [^al1]: Mishnah Berachot 3:3; Shulchan Aruch, *Orach Chayyim* 282:3.
-[^al2]: Shulchan Aruch, *Orach Chayyim* 282:3, and *Mishnah Berurah* 282:12.
+[^al2]: Shulchan Aruch, *Orach Chayyim* 284:4; *Rama*, *Orach Chayyim* 282:4.
 [^al3]: Shulchan Aruch, *Orach Chayyim* 139:2.
 [^al4]: *Mishnah Berurah* 139:6; Responsa *Igrot Moshe*, *Orach Chayyim* 4:23.
 [^al5]: Shulchan Aruch, *Orach Chayyim* 135:3; Talmud Bavli, *Gittin* 59b.
