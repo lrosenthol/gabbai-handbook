@@ -63,12 +63,11 @@ For the second (*Levi*):
 
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] הַלֵּוִי לַעֲלִיַּת שֵׁנִי
 
-The name of the oleh is announced using his Hebrew name and his father's Hebrew name.[^al20] 
+The name of the oleh is announced using his Hebrew name and his father's Hebrew name.[^al20]
 
 If his father's name is unknown — such as a convert (*ger*), a foundling (*asuf*), or where the father is not Jewish — the name of the mother is used.[^al21] [^al24]. Alternatively, it is common to use בֶּן אַבְרָהָם (son of Abraham) or some (who?) have the minhag to use בֶּן אַבְרָהָם אָבִינוּ (son of Abraham our Father).
 
 NOTE: Some communities use the mother's name for all calls when a person is ill or when reciting a *mi sheberach* for healing; this is a later custom (*minhag acharonim*) without strict halachic requirement.[^al25]
-
 
 ::: note-sephardic
 **Sephardic custom:** Many Sephardic communities use the formula *ya'amod* followed only by the person's Hebrew name, without announcing the ordinal number of the aliyah. The aliyah number is considered already known to the congregation. Some communities also add the phrase *v'yevarech* ("and may he bless").[^al22]
@@ -89,7 +88,6 @@ NOTE: Some communities use the mother's name for all calls when a person is ill 
 ### Calling the Hagbah and Golel
 
 **fill in**
-
 
 ## The Aliyah Itself
 
