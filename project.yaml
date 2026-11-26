@@ -40,7 +40,7 @@ content:
     title: "Laws of the Gabbai / הֲלָכוֹת הַגַּבַּאי"
   - file: aliyot-laws.md
     title: "Laws of Aliyot / הֲלָכוֹת עֲלִיַּת הַתּוֹרָה"
-  - file: Torah Reading.md
+  - file: torah-reading.md
     title: "Torah Reading / קְרִיאַת הַתּוֹרָה"
   - folder: mishebairachs/
     title: "Mishebairach / מי שבירך"
