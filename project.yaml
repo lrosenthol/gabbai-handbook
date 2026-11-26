@@ -42,6 +42,8 @@ content:
     title: "Laws of Aliyot / הֲלָכוֹת עֲלִיַּת הַתּוֹרָה"
   - file: torah-reading.md
     title: "Torah Reading / קְרִיאַת הַתּוֹרָה"
+  - file: haftarah-blessings.md
+    title: "Haftarah Blessings / בִּרְכוֹת הַהַפְטָרָה"
   - folder: mishebairachs/
     title: "Mishebairach / מי שבירך"
     files:

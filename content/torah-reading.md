@@ -139,6 +139,8 @@ A minor may be called for maftir, but Ashkenazic custom avoids calling a minor f
 
 After the maftir reading, the second (or only) scroll is lifted and wrapped (see below).  The maftir does not begin the haftarah until the wrapping is finished, so that the *golel* can also listen.[^tr23]
 
+For the text of the blessings before and after the haftarah, and which form to use on each day, see the *Haftarah Blessings* chapter.
+
 ::: note-sephardic
 **Sephardic custom:** Sephardic communities perform *hagbah* *before* the reading rather than after it.[^tr24]  So only the wrapping and the return of the scroll remain to be completed before the haftarah begins.
 :::
