@@ -79,9 +79,9 @@ Under normal circumstances the father's name is used. A foundling (*asufi*) or a
 
 A convert (*ger*) is called בֶּן אַבְרָהָם (son of Abraham), since Abraham is regarded as the spiritual father of all converts.[^al24a] Some communities use the fuller form בֶּן אַבְרָהָם אָבִינוּ (son of Abraham our Father), which is the formula the Shulchan Aruch prescribes for a convert's name in a *get*.[^al24b]
 
-### When a Kohen or Levi isn't present
+### When a Kohen or Levi Isn't Present
 
-**fill in**
+If no Kohen is present, the first oleh is announced *bimkom Kohen*. If no Levi is present, the Kohen is called again *bimkom Levi* (see *Kohen, Levi, and Yisrael* above). For the announcement formulas and the practical cases, see *When a Kohen or Levi Isn't Present* in the *Torah Reading* chapter.
 
 ### Calling the Maftir
 
