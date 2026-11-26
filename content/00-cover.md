@@ -1,13 +1,8 @@
+<!--
+The cover page is generated from the `publication:` block in project.yaml
+(title, title_he, subtitle, author, date).  Edit those values there, not here.
+Any paragraphs placed inside the div are rendered centred below the date.
+-->
+
 ::: cover-page
-
-[מַדְרִיךְ לְגַּבַּאי]{.cover-title-he}
-
-[The Gabbai's Handbook]{.cover-title}
-
-[A How-To Manual for Gabbi'im]{.cover-subtitle}
-
-[Rabbi Leonard Rosenthol]{.cover-author}
-
-[5786 / 2026]{.cover-date}
-
 :::

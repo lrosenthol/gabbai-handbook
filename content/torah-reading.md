@@ -100,7 +100,7 @@ After the reading, one person is called to lift the scroll (*hagbahah*) and anot
 
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לִגְלִילָה
 
-The gabbai usually calls both people together, so the golel is already at the bimah when the scroll is lifted.  If the congregation recites a *mi sheberach* for them, see the hagbahah / gelilah texts in the [Mishebairach](#mi-sheberach) chapter.
+The gabbai usually calls both people together, so the golel is already at the bimah when the scroll is lifted.  If the congregation recites a *mi sheberach* for them, see *Hagbah & Gelilah* in the [Mishebairach](#mi-sheberach) chapter.
 
 When more than one scroll is read, each scroll has its own pair (see [When More Than One Torah Is Read](#multiple-scrolls)).  When calling hagbah and gelilah for a second or third scroll, some gabbaim name which scroll it is so there is no confusion:
 
