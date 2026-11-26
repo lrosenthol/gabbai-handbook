@@ -8,6 +8,29 @@
 //   body-size, heading-scale, paper
 //   top-margin, bottom-margin, right-margin, left-margin, two-sided
 
+// ── PDF document properties ──────────────────────────────────────────────────
+// Title and author come from project.yaml (publication.title / .author), the
+// same values used for the cover page and running header.  Typst requires the
+// author as plain strings, so flatten the rendered content.
+
+#let _plain-text(it) = {
+  if type(it) == str { it }
+  else if it.has("text") { it.text }
+  else if it.has("children") { it.children.map(_plain-text).join() }
+  else if it.has("body") { _plain-text(it.body) }
+  else if it == [ ] { " " }
+  else { "" }
+}
+
+#set document(
+$if(title)$
+  title: [$title$],
+$endif$
+$if(author)$
+  author: ($for(author)$_plain-text([$author$]), $endfor$),
+$endif$
+)
+
 // ── Bidirectional text (auto-bidi) ────────────────────────────────────────────
 // auto-bidi detects RTL/LTR per paragraph automatically; no manual direction
 // wrappers are needed in the source text.

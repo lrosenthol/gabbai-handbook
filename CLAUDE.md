@@ -30,7 +30,7 @@ project.yaml  ──►  scripts/build.py
                                   → publication.pdf
 ```
 
-**`project.yaml`** is the single source of truth for metadata (title, fonts, margins, paper size) and content ordering. `build.py` reads it, injects all values as YAML front matter into the combined markdown, and pandoc substitutes them into the template via `$variable$` tokens.
+**`project.yaml`** is the single source of truth for metadata (title, Hebrew title, subtitle, author, date, fonts, margins, paper size) and content ordering. The cover page, running header and PDF document properties (title/author) are all generated from it. `build.py` reads it, injects all values as YAML front matter into the combined markdown, and pandoc substitutes them into the template via `$variable$` tokens.
 
 **`templates/pandoc-template.typ`** is a pandoc template (dollar-sign variable syntax), not a plain Typst file. Pandoc renders it into a complete `.typ` file. It imports `@preview/auto-bidi:0.1.0` for automatic per-paragraph RTL/LTR detection — no manual direction wrappers are needed in content.
 
@@ -44,13 +44,13 @@ processed by pandoc; only the wrapper changes.
 
 **Block divs** — use a fenced div with the class:
 
+The `cover-page` div is filled entirely from the `publication:` block of
+`project.yaml` (`title_he`, `title`, `subtitle`, `author`, `date`); do not put
+title text in `content/00-cover.md`. For RTL publications the Hebrew title is
+shown first. Any paragraphs inside the div are rendered centred below the date.
+
 ```markdown
 ::: cover-page
-[מדריך הגבאי]{.cover-title-he}
-[Gabbai Handbook]{.cover-title}
-[Subtitle]{.cover-subtitle}
-[Author]{.cover-author}
-[Date]{.cover-date}
 :::
 
 ::: typst-centered
