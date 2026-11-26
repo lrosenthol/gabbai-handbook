@@ -7,7 +7,7 @@ This annex sets out the laws behind the practical chapter [Torah Reading](#torah
 
 ## Who Is Eligible for an Aliyah
 
-Any male Jew who has reached the age of majority (*bar mitzvah*, thirteen years and one day) is eligible to receive an aliyah.[^al1] A minor may be called for *maftir* on Shabbat and Yom Tov in extenuating circumstances, but not for a numbered weekday aliyah.[^al2]
+Any male Jew who has reached the age of majority (*bar mitzvah*, thirteen years and one day) is eligible to receive an aliyah.[^al1] A minor may be called for *maftir*, but not for a numbered aliyah; the exceptions are in [Who Typically Receives Maftir](#who-receives-maftir).[^al2]
 
 A person who is deaf-mute (*cheresh*) in both hearing and speech, or who lacks mental capacity (*shoteh*), may not receive an aliyah because they cannot recite the blessings meaningfully.[^al3] One who is deaf but can speak, or mute but can hear, follows a lenient ruling in most communities.[^al4]
 
@@ -68,13 +68,13 @@ A Kohen or Levi may receive maftir without displacing the regular sequence, sinc
 
 For when a maftir is called and the order of the service around it, see [Calling the Maftir](#maftir).
 
-### Who Typically Receives Maftir
+### Who Typically Receives Maftir {#who-receives-maftir}
 
 Maftir is customarily given to a *bar mitzvah* boy on the Shabbat of his bar mitzvah (see [Precedence Among Yisraelim](#precedence)).  A mourner for a parent customarily takes maftir during the twelve months of mourning.[^al25]  Many communities also give maftir to someone observing a *yahrzeit*.
 
 Because the maftir also reads the haftarah, the gabbai must not, *lechatchilah*, call someone who cannot say it.  If such a person was called, another may say the haftarah in his place.[^al26]
 
-A minor may be called for maftir, but Ashkenazic custom avoids calling a minor for maftir, at least *lechatchilah*, for Parashat Zachor and Parashat Parah, on the first day of Shavuot, on the seventh day of Pesach, and on Shabbat Shuvah.[^al27]
+A minor may be called for maftir; indeed, where several scrolls are read, a minor reading the additional maftir is the normal custom.[^al2]  Ashkenazic custom nevertheless avoids calling a minor for maftir, at least *lechatchilah*, for Parashat Zachor and Parashat Parah, on the first day of Shavuot, on the seventh day of Pesach, and on Shabbat Shuvah.[^al27]
 
 ## The Aliyah Itself {#oleh-conduct}
 
@@ -129,9 +129,9 @@ The gabbai should not skip aliyot — for example, calling a third and fifth ali
 [^al7]: *Shulchan Aruch HaRav*, *Orach Chayyim* 135:4; see also *Likkutei Sichot* vol. 3, p. 898, and responsa of the Tzemach Tzedek.
 [^al8]: *Rama*, *Orach Chayyim* 282:3.
 [^al9]: Shulchan Aruch, *Orach Chayyim* 282:3.
-[^al10]: *Mishnah Berurah* 282:20; custom varies between communities — some give mourners priority on Shabbat, others do not.
+[^al10]: Custom varies between communities — some give mourners priority on Shabbat, others do not.  (Source not yet verified; the earlier *Mishnah Berurah* 282:20 citation concerns Kaddish before the maftir.)
 [^al11]: *Rama*, *Orach Chayyim* 282:3.
-[^al12]: *Mishnah Berurah* 282:21.
+[^al12]: Source not yet verified; the earlier *Mishnah Berurah* 282:21 citation could not be confirmed.
 [^al13]: Talmud Bavli, *Berachot* 54b; Shulchan Aruch, *Orach Chayyim* 219:1.
 [^al14]: *Igrot Moshe*, *Orach Chayyim* 1:23; *Tzitz Eliezer* 12:12; see *Mishnah Berurah* 55:46 regarding communal prayer.
 [^al15]: Shulchan Aruch, *Yoreh Deah* 340:5 (regarding mourning); for aliyot, cf. *Responsa* of Maharam Schick, *Orach Chayyim* 71.

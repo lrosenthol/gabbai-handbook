@@ -126,13 +126,13 @@ The laws of *gabbai tzedakah* are detailed in *Yoreh Deah* 256–259 and represe
 [^gb8]: Talmud Bavli, *Bava Batra* 8b; *Rambam*, *Hilchot Matnot Aniyim* 9:1.
 [^gb9]: Shulchan Aruch, *Choshen Mishpat* 231:28 regarding removal of communal officers; see also *Rama*, *Yoreh Deah* 245:22.
 [^gb10]: Shulchan Aruch, *Orach Chayyim* 139:3.
-[^gb11]: *Mishnah Berurah* 139:12; *Aruch HaShulchan*, *Orach Chayyim* 139:3.
+[^gb11]: *Aruch HaShulchan*, *Orach Chayyim* 139:3 (not yet verified).  The earlier *Mishnah Berurah* 139:12 citation concerns calling a blind person and did not support this point.
 [^gb12]: Shulchan Aruch, *Orach Chayyim* 135:1; 282:1.
 [^gb13]: Shulchan Aruch, *Orach Chayyim* 147:4; *Mishnah Berurah* 147:16.
 [^gb14]: *Kitzur Shulchan Aruch* 23:3.
 [^gb15]: Shulchan Aruch, *Orach Chayyim* 134:2 (hagbah and gelilah are honours); *Mishnah Berurah* 134:6.
 [^gb16]: *Aruch HaShulchan*, *Orach Chayyim* 282:8.
-[^gb17]: Shulchan Aruch, *Orach Chayyim* 282:3; *Mishnah Berurah* 282:20–21.
+[^gb17]: Shulchan Aruch, *Orach Chayyim* 282:3.  (The earlier *Mishnah Berurah* 282:20–21 citation did not support this point and was removed.)
 [^gb18]: Talmud Bavli, *Gittin* 59b–60a (principle of *darkei shalom*); Shulchan Aruch, *Orach Chayyim* 135:3.
 [^gb19]: *Rama*, *Orach Chayyim* 136:1; *Mishnah Berurah* 136:4.
 [^gb20]: *Shulchan Aruch HaRav*, *Orach Chayyim* 136; *Sefer HaMinhagim* (Chabad), Torah reading section.

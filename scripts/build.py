@@ -124,8 +124,23 @@ def assemble_markdown(project: dict[str, Any]) -> Path:
         parts.append(processed)
 
     combined_path = BUILD_DIR / "combined.md"
-    combined_path.write_text("\n".join(parts), encoding="utf-8")
+    text = "\n".join(parts)
+    check_internal_links(text)
+    combined_path.write_text(text, encoding="utf-8")
     return combined_path
+
+
+def check_internal_links(text: str) -> None:
+    """Fail early if a ](#id) link points at a heading id that does not exist.
+
+    A missing label would otherwise break the whole Typst compile.
+    """
+    import re
+    ids = set(re.findall(r"\{#([A-Za-z0-9_:.-]+)\}", text))
+    missing = sorted({t for t in re.findall(r"\]\(#([^)\s]+)\)", text) if t not in ids})
+    if missing:
+        print("Error: links to undefined ids: " + ", ".join(missing), file=sys.stderr)
+        sys.exit(1)
 
 
 # ── Pandoc step ───────────────────────────────────────────────────────────────

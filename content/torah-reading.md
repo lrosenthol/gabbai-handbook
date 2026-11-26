@@ -11,7 +11,9 @@ This chapter follows the reading in the order of the service.  The laws behind i
 
 ## The Number of Aliyot (עֲלִיּוֹת) {#number-of-aliyot}
 
-The number of Torah portions (*aliyot*) called varies by day. The following table documents the standard number of aliyot for the day/category.  It also notes (with +1) when the extra maftir/מַפְטִיר reading is added (for the person who will read the haftarah/הַפְטָרָה).  A gabbai may also call additional aliyot under certain circumstances ([TBD]).
+The number of Torah portions (*aliyot*) called varies by day. The following table documents the standard number of aliyot for the day/category.  It also notes (with +1) when the extra maftir/מַפְטִיר reading is added (for the person who will read the haftarah/הַפְטָרָה). 
+
+<!-- TODO: when a gabbai may add aliyot beyond the standard number. -->
 
 | Day                                  | Number of *Aliyot* |
 | ------------------------------------ | ------------------ |
@@ -28,11 +30,15 @@ The number of Torah portions (*aliyot*) called varies by day. The following tabl
 | Fast Days (Morning)                  | 3                  |
 | Fast Days (Afternoon)                | 2 + 1              |
 
+In the table, "+ 1" is the maftir.  On Yom Kippur and fast-day Mincha, "2 + 1" means three aliyot in all: the third oleh is the maftir and reads the haftarah (see [Calling the Maftir](#maftir)).
+
 NOTE: Fast Days refer to the public fasts: Tzom Gedaliah, Asarah b'Tevet, Ta'anit Esther, Shiv'ah Asar b'Tammuz and Tisha B'Av.
 
 ## Calling an *Oleh* {#calling-an-oleh}
 
-When calling a person to the Torah, the gabbai announces him in Hebrew by his own Hebrew name and his father's Hebrew name, joined by *ben* ("son of").  Every call opens with *ya'amod* ("let him stand"); only the ending changes.  All of the calling formulas are collected in this section, and the sections that follow refer back to them.
+When calling a person to the Torah, the gabbai announces him in Hebrew by his own Hebrew name and his father's Hebrew name, joined by *ben* ("son of").  Every call opens with *ya'amod* ("let him stand"); only the ending changes.  All of the calling formulas are collected in this section, and the sections that follow refer back to them.  The formulas assume a male oleh; the congregation's rabbi should be asked about the wording for a *bat* where women are called.
+
+<!-- Editors: the numbered formula is ya'amod … [ordinal] (e.g. שְׁלִישִׁי), deliberately without la'aliyat / לַעֲלִיָּה, which an earlier draft used. -->
 
 Which name to use for a convert, or for someone whose father is unknown, is covered under [Names Used When Calling an Oleh](#names-in-announcement) in Annex A.  Learning the names before the service is one of the gabbai's duties (see [Knowing the Names](#knowing-the-names) in Annex B).
 
@@ -56,9 +62,7 @@ If a Kohen or Levi is called for a later aliyah (for example, *acharon* or mafti
 **Sephardic custom:** Many Sephardic communities use the formula *ya'amod* followed only by the person's Hebrew name, without announcing the ordinal number of the aliyah.  The aliyah number is considered already known to the congregation.  Some communities also add the phrase *v'yevarech* ("and may he bless").[^tr1]
 :::
 
-::: note-chabad
-**Chabad custom:** Chabad congregations call the oleh with the wording printed in the Chabad siddur.  Where it differs from the formulas above, the siddur's wording is followed.[^tr2]
-:::
+<!-- Chabad wording for calling an oleh: removed until the actual wording is verified in Sefer HaMinhagim or the siddur (the earlier Hayom Yom citation did not check out). -->
 
 ### When There Is No Kohen or Levi {#calling-no-kohen-levi}
 
@@ -126,7 +130,7 @@ A different Kohen is never called for the second aliyah, and a Yisrael is not ca
 
 If the only Kohen present is reciting *Keriat Shema*, its blessings, or the *Amidah*, and may not interrupt, a Yisrael is called in his place.  The gabbai does not wait for him, and does not even delay taking out the Torah.[^tr11]  If the Kohen is between paragraphs (*bein ha-perakim*) and there is no other Kohen, he may be called.[^tr12]
 
-On a public fast day, a Kohen who is not fasting is not called.  A Yisrael is called instead, and ideally the Kohen leaves the room so no one wonders why he was passed over.[^tr13]
+On the fasts that follow Pesach and Sukkot (the *Vayechal* fasts), a Kohen who is not fasting is not called.  A Yisrael is called instead, and ideally the Kohen leaves the room so no one wonders why he was passed over.[^tr13]  (Whether the same applies on the other public fasts is not addressed in the sources cited here.)
 
 If the gabbai wants to give the first aliyah to someone else while a Kohen is in the room, the Kohen must first waive his right or leave the room (see [Kohen, Levi, and Yisrael](#kohen-levi-yisrael) in Annex A).
 
@@ -182,7 +186,7 @@ After the maftir reading, the second (or only) scroll is lifted and wrapped (see
 After completing the final aliyah (including maftir), the torah is raised and then "redressed".  The people that do this job are called the Hagbah (the lifter) and the Golel (wrapper).  For the wording used to call them, see [Hagbah and Gelilah](#calling-hagbah-gelilah) under Calling an Oleh.
 
 ::: note-sephardic
-**Sephardic custom:** In Sephardic communities (and some others) hagbahah is done *before* the reading, right after the scroll is placed on the bimah, rather than after it.  In many Sephardic communities the scroll is kept in a hard case (*tik*) and lifted standing up inside it.  The gabbai calls the honour at that point instead of after maftir, so after the maftir reading only the wrapping and the return of the scroll remain before the haftarah begins.[^tr23]
+**Sephardic custom:** In Sephardic communities (and some others) hagbahah is done *before* the reading, right after the scroll is placed on the bimah, rather than after it.   The gabbai calls the honour at that point instead of after maftir, so after the maftir reading only the wrapping and the return of the scroll remain before the haftarah begins.[^tr23]
 :::
 
 ### Hagbah (the lifter)
@@ -248,16 +252,13 @@ The gabbai must follow the reading carefully in a *tikkun* (a printed book with 
 
 An error is significant (*me'akev*) if it changes the meaning of the text.  The gabbai must know the text well enough to tell such an error from a minor mispronunciation.  Minor mispronunciations that do not affect meaning need not be corrected publicly, though the gabbai may quietly guide the reader.
 
-If the gabbai himself makes an error (for instance, failing to correct a mistake that should have been corrected), the congregation should inform him.[^tr34]
-
 ## Simchat Torah {#simchat-torah}
 
-*fill in details here*
+<!-- TODO: Simchat Torah details. -->
 
 ---
 
-[^tr1]: *Ben Ish Chai*, *Parashat Toldot*, year 1, §9; *Kaf HaChayyim* 135:7.
-[^tr2]: *Siddur Tehillat Hashem* (Chabad), laws of Torah reading; see also *Hayom Yom* 15 Tishrei.
+[^tr1]: *Ben Ish Chai*, *Parashat Toldot*, year 1, §9 (source not yet verified against the text).
 [^tr3]: Talmud Bavli, *Gittin* 59b; Shulchan Aruch, *Orach Chayyim* 135:6.
 [^tr4]: *Rama*, *Orach Chayyim* 135:6; *Mishnah Berurah* 135:24.
 [^tr5]: *Rama*, *Orach Chayyim* 135:6 (citing the *Tur*); *Mishnah Berurah* 135:25.
@@ -278,7 +279,7 @@ If the gabbai himself makes an error (for instance, failing to correct a mistake
 [^tr20]: Shulchan Aruch, *Orach Chayyim* 425:1 (Shabbat Rosh Chodesh); 488:3 (e.g., the first day of Pesach); 684:2–3 (Shabbat Chanukah); 685:1–4 (the Four Parshiyot).
 [^tr21]: *Rama*, *Orach Chayyim* 282:4 (the maftir reads from the last scroll); Shulchan Aruch, *Orach Chayyim* 684:3 (Rosh Chodesh Tevet), 685:1 (Shekalim on Rosh Chodesh Adar), and 669:1 (Simchat Torah).
 [^tr22]: Shulchan Aruch, *Orach Chayyim* 147:7; *Mishnah Berurah* 147:12.
-[^tr23]: Shulchan Aruch, *Orach Chayyim* 134:2, and *Rama* ad loc. (Ashkenazic custom is to perform hagbah after the reading); *Mishnah Berurah* 134:8 (Sephardic practice: before the reading).
+[^tr23]: *Shulchan Aruch*, *Orach Chayyim* 134:2 (the *mechaber* prescribes hagbah before the reading, the Sephardic practice); *Rama* ad loc. (records the Ashkenazic practice of hagbah after the reading); *Mishnah Berurah* 134:8.
 [^tr24]: Shulchan Aruch, *Orach Chayyim* 134:2; *Mishnah Berurah* 134:8 (opening up to three columns, depending on the lifter's strength).
 [^tr25]: *Mishnah Berurah* 147:7, citing *Sha'arei Ephraim*.
 [^tr26]: Shulchan Aruch, *Orach Chayyim* 147:3.
@@ -289,4 +290,3 @@ If the gabbai himself makes an error (for instance, failing to correct a mistake
 [^tr31]: Rema, *Orach Chayyim* 282:4; *Mishnah Berurah* 147:27.
 [^tr32]: Shulchan Aruch, *Orach Chayyim* 147:8.
 [^tr33]: Shulchan Aruch, *Orach Chayyim* 142:1; *Mishnah Berurah* 142:4.
-[^tr34]: *Mishnah Berurah* 142:6.
