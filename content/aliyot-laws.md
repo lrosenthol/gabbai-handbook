@@ -10,7 +10,7 @@ A person who is deaf-mute (*cheresh*) in both hearing and speech, or who lacks m
 
 The first aliyah is given to a *Kohen*, the second to a *Levi*, and all remaining aliyot to *Yisraelim*.[^al5] This order maintains the honour of the Torah and reflects the biblical distinctions of the priestly and levitical classes.
 
-If no Kohen is present, a Levi may receive the first aliyah, or alternatively a Yisrael may be called and announced as though no Kohen is present (*ein kan Kohen*). A Levi should not receive the first aliyah in place of an absent Kohen unless it is announced; otherwise it would appear a slight to the Kohanic dignity.[^al6]
+If no Kohen is present, a Yisrael is called for the first aliyah in place of the Kohen (*bimkom Kohen*). A Levi may be called first instead, unless a Yisrael of greater standing is present. Either way the gabbai announces *bimkom Kohen*, so that no one mistakes the oleh for a Kohen. A Levi is not then called for the second aliyah, since people would assume the first oleh had been a Kohen.[^al6] See *Torah Reading* for the practical details.
 
 If no Levi is present, the Kohen who received the first aliyah repeats for the second, announced as *b'makom Levi*.[^al7]
 
@@ -49,6 +49,8 @@ One placed under communal ban (*cherem*) should not receive an aliyah until the 
 
 ## Calling the Oleh — the Announcement Formula
 
+### Standard Aliyot
+
 The gabbai calls each person to the Torah with a standard Hebrew announcement. The traditional Ashkenazic formula is:
 
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לַעֲלִיַּת [שְׁנִי / שְׁלִישִׁי / …]
@@ -61,7 +63,7 @@ For the second (*Levi*):
 
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] הַלֵּוִי לַעֲלִיַּת שֵׁנִי
 
-The name of the oleh is announced using his Hebrew name and his father's Hebrew name.[^al20] If his father's name is unknown, the name of the mother is used.[^al21]
+The name of the oleh is announced using his Hebrew name and his father's Hebrew name.[^al20] If his father's name is not known, see below.
 
 ::: note-sephardic
 **Sephardic custom:** Many Sephardic communities use the formula *ya'amod* followed only by the person's Hebrew name, without announcing the ordinal number of the aliyah. The aliyah number is considered already known to the congregation. Some communities also add the phrase *v'yevarech* ("and may he bless").[^al22]
@@ -71,11 +73,23 @@ The name of the oleh is announced using his Hebrew name and his father's Hebrew 
 **Chabad custom:** The Chabad announcement follows the Ashkenazic formula but typically adds *Yaamod* at the start and concludes *rishon / sheni / …* before *la'aliyah*. The precise wording was standardised in Chabad siddurim.[^al23]
 :::
 
-### Using the Mother's Name in the Announcement
+### When the Father's Name Is Not Used
 
-Under normal circumstances the father's name is used. In cases where the father's name is not known — such as a convert (*ger*), a foundling (*asuf*), or where the father is not Jewish — the mother's name is used.[^al24]
+Under normal circumstances the father's name is used. A foundling (*asufi*) or a person whose father is unknown (*shetuki*) is called by the name of his maternal grandfather; if that too is unknown, he is called בֶּן אַבְרָהָם, as a convert is.[^al24]
 
-Some communities use the mother's name for all calls when a person is ill or when reciting a *mi sheberach* for healing; this is a later custom (*minhag acharonim*) without strict halachic requirement.[^al25]
+A convert (*ger*) is called בֶּן אַבְרָהָם (son of Abraham), since Abraham is regarded as the spiritual father of all converts.[^al24a] Some communities use the fuller form בֶּן אַבְרָהָם אָבִינוּ (son of Abraham our Father), which is the formula the Shulchan Aruch prescribes for a convert's name in a *get*.[^al24b]
+
+### When a Kohen or Levi Isn't Present
+
+If no Kohen is present, the first oleh is announced *bimkom Kohen*. If no Levi is present, the Kohen is called again *bimkom Levi* (see *Kohen, Levi, and Yisrael* above). For the announcement formulas and the practical cases, see *When a Kohen or Levi Isn't Present* in the *Torah Reading* chapter.
+
+### Calling the Maftir
+
+The maftir is announced with the word *maftir* in place of the aliyah number. For the laws of maftir, see *Maftir* below. For the announcement formula and the practical steps (half-Kaddish, a second scroll, the haftarah), see *Calling the Maftir* in the *Torah Reading* chapter.
+
+### Calling the Hagbah and Golel
+
+After the reading, one person is called to lift the scroll (*hagbahah*) and another to roll and dress it (*gelilah*). When more than one scroll is read, each scroll has its own pair. For the announcement formulas and the order of honours, see *Calling Hagbah & Golel* in the *Torah Reading* chapter.
 
 ## The Aliyah Itself
 
@@ -128,12 +142,12 @@ A Kohen or Levi may receive maftir without displacing the regular sequence, sinc
 ---
 
 [^al1]: Mishnah Berachot 3:3; Shulchan Aruch, *Orach Chayyim* 282:3.
-[^al2]: Shulchan Aruch, *Orach Chayyim* 282:3, and *Mishnah Berurah* 282:12.
+[^al2]: Shulchan Aruch, *Orach Chayyim* 284:4; *Rama*, *Orach Chayyim* 282:4.
 [^al3]: Shulchan Aruch, *Orach Chayyim* 139:2.
 [^al4]: *Mishnah Berurah* 139:6; Responsa *Igrot Moshe*, *Orach Chayyim* 4:23.
 [^al5]: Shulchan Aruch, *Orach Chayyim* 135:3; Talmud Bavli, *Gittin* 59b.
-[^al6]: Shulchan Aruch, *Orach Chayyim* 135:6; *Mishnah Berurah* 135:24.
-[^al7]: Shulchan Aruch, *Orach Chayyim* 135:8.
+[^al6]: Talmud Bavli, *Gittin* 59b; Shulchan Aruch, *Orach Chayyim* 135:6; *Rama* ad loc.; *Mishnah Berurah* 135:23–25.
+[^al7]: Talmud Bavli, *Gittin* 59b; Shulchan Aruch, *Orach Chayyim* 135:8; *Mishnah Berurah* 135:28.
 [^al8]: Shulchan Aruch, *Orach Chayyim* 135:4; *Rama* ad loc.
 [^al9]: *Shulchan Aruch HaRav*, *Orach Chayyim* 135:4; see also *Likkutei Sichot* vol. 3, p. 898, and responsa of the Tzemach Tzedek.
 [^al10]: *Rama*, *Orach Chayyim* 282:3.
@@ -147,11 +161,11 @@ A Kohen or Levi may receive maftir without displacing the regular sequence, sinc
 [^al18]: Talmud Bavli, *Gittin* 45b-46a; Shulchan Aruch, *Orach Chayyim* 135:14 (regarding Sefer Torah ownership, by extension).
 [^al19]: Shulchan Aruch, *Yoreh Deah* 334:2.
 [^al20]: Shulchan Aruch, *Orach Chayyim* 139:3.
-[^al21]: *Kaf HaChayyim* 139:18; *Mishnah Berurah* 139:11.
 [^al22]: *Ben Ish Chai*, *Parashat Toldot*, year 1, §9; *Kaf HaChayyim* 135:7.
 [^al23]: *Siddur Tehillat Hashem* (Chabad), laws of Torah reading; see also *Hayom Yom* 15 Tishrei.
-[^al24]: Shulchan Aruch, *Yoreh Deah* 268:3 (converts); *Mishnah Berurah* 139:11.
-[^al25]: *Magen Avraham* 139:4; *Mishnah Berurah* 139:11.
+[^al24]: *Rama*, *Orach Chayyim* 139:3; *Mishnah Berurah* 139:10–11. The *Taz* (139:1) and *Chayyei Adam*, cited in *Mishnah Berurah* 139:10, prefer בֶּן אַבְרָהָם even when the maternal grandfather is known.
+[^al24a]: *Rama*, *Orach Chayyim* 139:3; *Mishnah Berurah* 139:11, citing Genesis 17:5 ("for I have made you the father of a multitude of nations"); *Taz*, *Orach Chayyim* 139:1. See Talmud Yerushalmi, *Bikkurim* 1:4 (the baraita of R. Yehuda that a convert recites "our fathers" at bikkurim, ruled as halachah by R. Yehoshua ben Levi, against the Mishnah there); Rambam, *Hilchot Bikkurim* 4:3.
+[^al24b]: Shulchan Aruch, *Even HaEzer* 129:20.
 [^al26]: Shulchan Aruch, *Orach Chayyim* 141:1.
 [^al27]: Talmud Bavli, *Berachot* 6b; *Mishnah Berurah* 141:8.
 [^al28]: *Kitzur Shulchan Aruch* 23:3.
