@@ -3,7 +3,7 @@
 
 # Rabbis' Kaddish / קַדִּישׁ דְּרַבָּנָן
 
-Said after a passage of Torah learning from the Oral Law, such as the *Mishnah* or *Aggadah*: after *Korbanot* in the morning service, after *Bameh Madlikin* on Friday night, and after a *shiur* or the learning at a *siyum* or *shiva* house.  Commonly said by mourners.  It adds a prayer for the welfare of the rabbis, their students, and all who study Torah.  The lines marked *Aseret Yemei Teshuvah* (in yellow) replace the line printed just above them during the Ten Days of Repentance (*Aseret Yemei Teshuvah*), from Rosh Hashanah through Yom Kippur.
+Said after learning a passage of the Oral Law that includes some *aggadah* (non-legal teaching): after *Korbanot* in the morning service, after *Bameh Madlikin* on Friday night, and after a *shiur* or the learning at a *siyum* or *shiva* house.[^kd13]  Commonly said by mourners.  It adds a prayer for the welfare of the rabbis, their students, and all who study Torah.  The lines marked *Aseret Yemei Teshuvah* (in yellow) replace the line printed just above them during the Ten Days of Repentance, from Rosh Hashanah through Yom Kippur.[^kd5]
 
 ::: prayer
 יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא. (קהל: אָמֵן)
@@ -30,3 +30,6 @@ Said after a passage of Torah learning from the Oral Law, such as the *Mishnah* 
 בעשי״ת (replaces the line above / במקום השורה שלמעלה): עוֹשֶׂה הַשָּׁלוֹם בִּמְרוֹמָיו, הוּא יַעֲשֶׂה שָׁלוֹם עָלֵינוּ וְעַל כָּל יִשְׂרָאֵל, וְאִמְרוּ אָמֵן.
 :::
 :::
+
+[^kd13]: *Mishnah Berurah* 54:9 (Rabbis' Kaddish may be said after learning Oral Law, but only if some *aggadah* was also said, since the Kaddish was instituted for *aggadah*; hence the custom after *Pirkei Avot* and *Bameh Madlikin*, and a concluding aggadic passage such as *R. Chanina ben Akashya* or *Amar R. Elazar* when learning *Mishnah*).  *Mishnah Berurah* 55:2 (Rabbis' Kaddish also requires a minyan).
+
