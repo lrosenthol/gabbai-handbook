@@ -45,8 +45,16 @@ content:
   - file: torah-reading.md
     title: "Torah Reading / קְרִיאַת הַתּוֹרָה"
   - folder: mishebairachs/
-    title: "Mishebairach / מי שבירך"
+    title: "Mishebairach / מִי שֶׁבֵּרַךְ"
     files:
       - aliyot.md
+      - hagbah-gelilah.md
       - family.md
-      - cholim.md
+      - ill-one.md
+      - ill-many.md
+      - birth.md
+      - barmitzvah.md
+      - chatan.md
+      - new-member.md
+      - soldier.md
+      - vaad.md

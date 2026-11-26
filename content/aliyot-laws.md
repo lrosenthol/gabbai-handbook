@@ -107,6 +107,32 @@ The oleh recites the blessing before the reading (*brachah rishonah*) and the bl
 
 If the oleh began reciting the blessing before the scroll was pointed to the correct place, he does not repeat the blessing.[^al31]
 
+#### The Blessings / בִּרְכוֹת הַתּוֹרָה
+
+::: prayer
+*(העולה יחזיק בשתי ידיות הספר ויאמר בקול רם:)*
+
+בָּרְכוּ אֶת יהוה הַמְבֹרָךְ.
+
+*(הקהל עונה:)*
+
+בָּרוּךְ יהוה הַמְבֹרָךְ לְעוֹלָם וָעֶד.
+
+*(העולה חוזר:)*
+
+בָּרוּךְ יהוה הַמְבֹרָךְ לְעוֹלָם וָעֶד.
+
+בָּרוּךְ אַתָּה יהוה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם,
+אֲשֶׁר בָּחַר-בָּנוּ מִכָּל הָעַמִּים, וְנָתַן-לָנוּ אֶת-תּוֹרָתוֹ.
+בָּרוּךְ אַתָּה יהוה נוֹתֵן הַתּוֹרָה.
+
+*(אחרי הקריאה, העולה יחזיק בשתי ידיות הספר ויאמר:)*
+
+בָּרוּךְ אַתָּה יהוה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם,
+אֲשֶׁר נָתַן-לָנוּ תּוֹרַת אֱמֶת, וְחַיֵּי עוֹלָם נָטַע בְּתוֹכֵנוּ.
+בָּרוּךְ אַתָּה יהוה נוֹתֵן הַתּוֹרָה.
+:::
+
 ### Remaining at the Bimah
 
 After his portion is read, the oleh must remain standing at the bimah until the next oleh has finished his opening blessing.[^al32] He should not return to his seat until the next oleh's blessing is complete, as it would appear as though he is walking away from the Torah disrespectfully.
