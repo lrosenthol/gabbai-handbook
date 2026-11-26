@@ -75,6 +75,8 @@ The name of the oleh is announced using his Hebrew name and his father's Hebrew 
 
 Under normal circumstances the father's name is used. In cases where the father's name is not known — such as a convert (*ger*), a foundling (*asuf*), or where the father is not Jewish — the mother's name is used.[^al24]
 
+Alternatively, it is common to use בֶּן אַבְרָהָם (son of Abraham), since Abraham is regarded as the spiritual father of all converts.[^al24a] Many communities follow the *Rama*, who gives the fuller formula בֶּן אַבְרָהָם אָבִינוּ (son of Abraham our Father) for calling a convert to the Torah; the same formula is used when writing a convert's name in a *get*.[^al24b]
+
 Some communities use the mother's name for all calls when a person is ill or when reciting a *mi sheberach* for healing; this is a later custom (*minhag acharonim*) without strict halachic requirement.[^al25]
 
 ## The Aliyah Itself
@@ -151,6 +153,8 @@ A Kohen or Levi may receive maftir without displacing the regular sequence, sinc
 [^al22]: *Ben Ish Chai*, *Parashat Toldot*, year 1, §9; *Kaf HaChayyim* 135:7.
 [^al23]: *Siddur Tehillat Hashem* (Chabad), laws of Torah reading; see also *Hayom Yom* 15 Tishrei.
 [^al24]: Shulchan Aruch, *Yoreh Deah* 268:3 (converts); *Mishnah Berurah* 139:11.
+[^al24a]: Talmud Yerushalmi, *Bikkurim* 1:4; Rambam, *Hilchot Bikkurim* 4:3 (Abraham as *av hamon goyim*, "father of a multitude of nations").
+[^al24b]: *Rama*, *Orach Chayyim* 139:3; Shulchan Aruch, *Even HaEzer* 129:20 (names in a *get*).
 [^al25]: *Magen Avraham* 139:4; *Mishnah Berurah* 139:11.
 [^al26]: Shulchan Aruch, *Orach Chayyim* 141:1.
 [^al27]: Talmud Bavli, *Berachot* 6b; *Mishnah Berurah* 141:8.
