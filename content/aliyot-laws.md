@@ -10,7 +10,7 @@ A person who is deaf-mute (*cheresh*) in both hearing and speech, or who lacks m
 
 The first aliyah is given to a *Kohen*, the second to a *Levi*, and all remaining aliyot to *Yisraelim*.[^al5] This order maintains the honour of the Torah and reflects the biblical distinctions of the priestly and levitical classes.
 
-If no Kohen is present, a Levi may receive the first aliyah, or alternatively a Yisrael may be called and announced as though no Kohen is present (*ein kan Kohen*). A Levi should not receive the first aliyah in place of an absent Kohen unless it is announced; otherwise it would appear a slight to the Kohanic dignity.[^al6]
+If no Kohen is present, a Yisrael is called for the first aliyah in place of the Kohen (*bimkom Kohen*). A Levi may be called first instead, unless a Yisrael of greater standing is present. Either way the gabbai announces *bimkom Kohen*, so that no one mistakes the oleh for a Kohen. A Levi is not then called for the second aliyah, since people would assume the first oleh had been a Kohen.[^al6] See *Torah Reading* for the practical details.
 
 If no Levi is present, the Kohen who received the first aliyah repeats for the second, announced as *b'makom Levi*.[^al7]
 
@@ -132,8 +132,8 @@ A Kohen or Levi may receive maftir without displacing the regular sequence, sinc
 [^al3]: Shulchan Aruch, *Orach Chayyim* 139:2.
 [^al4]: *Mishnah Berurah* 139:6; Responsa *Igrot Moshe*, *Orach Chayyim* 4:23.
 [^al5]: Shulchan Aruch, *Orach Chayyim* 135:3; Talmud Bavli, *Gittin* 59b.
-[^al6]: Shulchan Aruch, *Orach Chayyim* 135:6; *Mishnah Berurah* 135:24.
-[^al7]: Shulchan Aruch, *Orach Chayyim* 135:8.
+[^al6]: Talmud Bavli, *Gittin* 59b; Shulchan Aruch, *Orach Chayyim* 135:6; *Rama* ad loc.; *Mishnah Berurah* 135:23–25.
+[^al7]: Talmud Bavli, *Gittin* 59b; Shulchan Aruch, *Orach Chayyim* 135:8; *Mishnah Berurah* 135:28.
 [^al8]: Shulchan Aruch, *Orach Chayyim* 135:4; *Rama* ad loc.
 [^al9]: *Shulchan Aruch HaRav*, *Orach Chayyim* 135:4; see also *Likkutei Sichot* vol. 3, p. 898, and responsa of the Tzemach Tzedek.
 [^al10]: *Rama*, *Orach Chayyim* 282:3.
