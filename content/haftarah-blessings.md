@@ -1,7 +1,7 @@
 ::: pagebreak
 :::
 
-# Haftarah Blessings / בִּרְכוֹת הַהַפְטָרָה
+# Haftarah Blessings / בִּרְכוֹת הַהַפְטָרָה {#haftarah-blessings}
 
 ## Overview
 
@@ -71,7 +71,7 @@ On a public fast day (Tzom Gedaliah, Asarah b'Tevet, Ta'anit Esther, Shiv'ah Asa
 A public fast that would fall on Shabbat is moved to a weekday (for example, Tisha B'Av is postponed to Sunday), so the same rule applies.  The only fast whose haftarah can be read on Shabbat is Yom Kippur (below).
 
 ::: note-sephardic
-**Sephardic custom:** Many Sephardic communities read no haftarah at *Mincha* on an ordinary fast day (see *When There Is a Maftir* in the *Torah Reading* chapter), so these blessings are said only on Tisha B'Av.  Follow the established custom of the congregation.
+**Sephardic custom:** Many Sephardic communities read no haftarah at *Mincha* on an ordinary fast day (see [When There Is a Maftir](#when-there-is-a-maftir) in the *Torah Reading* chapter), so these blessings are said only on Tisha B'Av.  Follow the established custom of the congregation.
 :::
 
 ### Yom Kippur Mincha

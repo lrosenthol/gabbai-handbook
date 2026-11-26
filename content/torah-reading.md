@@ -162,7 +162,7 @@ If everyone present is a Kohen, Kohanim are called one after another.  No one dr
 
 The *maftir* is the person called to the final, additional reading, who then reads (or chants) the *haftarah*/הַפְטָרָה from the Prophets.  For who may receive maftir and who customarily does, see [Laws of Maftir](#laws-of-maftir) in Annex A.
 
-### When There Is a Maftir
+### When There Is a Maftir {#when-there-is-a-maftir}
 
 A separate maftir is called on Shabbat morning, Yom Tov, Rosh Hashanah, and Yom Kippur morning, i.e., whenever a haftarah follows the reading.  At *Mincha* on a public fast day (see the list under [The Number of Aliyot](#number-of-aliyot)), at Yom Kippur *Mincha*, and on Tisha B'Av morning, there is no extra aliyah.  The third oleh is the maftir and reads the haftarah after his aliyah.[^tr18]
 
@@ -181,11 +181,11 @@ A separate maftir is called on Shabbat morning, Yom Tov, Rosh Hashanah, and Yom 
 
 After the maftir reading, the second (or only) scroll is lifted and wrapped (see [Hagbah and Gelilah](#hagbah-gelilah) below).  The maftir does not begin the haftarah until the wrapping is finished, so that the *golel* can also listen.[^tr22]
 
+For the text of the blessings before and after the haftarah, and which form to use on each day, see the [Haftarah Blessings](#haftarah-blessings) chapter.
+
 ## Hagbah and Gelilah {#hagbah-gelilah}
 
 After completing the final aliyah (including maftir), the torah is raised and then "redressed".  The people that do this job are called the Hagbah (the lifter) and the Golel (wrapper).  For the wording used to call them, see [Hagbah and Gelilah](#calling-hagbah-gelilah) under Calling an Oleh.
-
-For the text of the blessings before and after the haftarah, and which form to use on each day, see the *Haftarah Blessings* chapter.
 
 ::: note-sephardic
 **Sephardic custom:** In Sephardic communities (and some others) hagbahah is done *before* the reading, right after the scroll is placed on the bimah, rather than after it.   The gabbai calls the honour at that point instead of after maftir, so after the maftir reading only the wrapping and the return of the scroll remain before the haftarah begins.[^tr23]
