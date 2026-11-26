@@ -128,7 +128,7 @@ A Kohen or Levi may receive maftir without displacing the regular sequence, sinc
 ---
 
 [^al1]: Mishnah Berachot 3:3; Shulchan Aruch, *Orach Chayyim* 282:3.
-[^al2]: Shulchan Aruch, *Orach Chayyim* 282:3, and *Mishnah Berurah* 282:12.
+[^al2]: Shulchan Aruch, *Orach Chayyim* 284:4; *Rama*, *Orach Chayyim* 282:4.
 [^al3]: Shulchan Aruch, *Orach Chayyim* 139:2.
 [^al4]: *Mishnah Berurah* 139:6; Responsa *Igrot Moshe*, *Orach Chayyim* 4:23.
 [^al5]: Shulchan Aruch, *Orach Chayyim* 135:3; Talmud Bavli, *Gittin* 59b.
