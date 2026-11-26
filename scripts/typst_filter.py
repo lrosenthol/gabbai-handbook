@@ -161,58 +161,72 @@ def _handle_toc(blocks, classes, kvs, meta):
     return [RawBlock("typst", typst)]
 
 
+def _meta_text(meta, key):
+    """Return a metadata value as plain text ('' if missing).
+
+    Lists (e.g. several authors) are joined with ", ".
+    """
+    v = meta.get(key)
+    if v is None:
+        return ""
+    if v.get("t") == "MetaList":
+        return ", ".join(t for t in (stringify(item).strip() for item in v["c"]) if t)
+    return stringify(v).strip()
+
+
+def _typst_str(text):
+    """Quote text as a Typst string literal (no markup interpretation)."""
+    return '"' + text.replace("\\", "\\\\").replace('"', '\\"') + '"'
+
+
 def _handle_cover_page(blocks, classes, kvs, meta):
     """Render a .cover-page div as a centred Typst title page.
 
-    Expected paragraph content (each as its own paragraph using span classes):
+    All cover text comes from the document metadata, which build.py fills
+    from the `publication:` block of project.yaml — that file is the single
+    source of truth:
 
-        [Hebrew title]{.cover-title-he}
-        [English title]{.cover-title}
-        [Subtitle]{.cover-subtitle}
-        [Author]{.cover-author}
-        [Date]{.cover-date}
+        title-he  ← publication.title_he
+        title     ← publication.title
+        subtitle  ← publication.subtitle
+        author    ← publication.author
+        date      ← publication.date
 
-    Any paragraph not carrying one of these span classes is rendered as plain
-    centred text so arbitrary notes or epigraphs still work.
+    For RTL publications the Hebrew title comes first; for LTR the English
+    title does.  Empty fields are omitted.  Any paragraphs written inside the
+    div are rendered as plain centred text below the date (for notes or
+    epigraphs).
     """
-    SPAN_MAP = {
-        "cover-title-he": '#text(size: 2em,  weight: "bold")[{text}]',
-        "cover-title":    '#text(size: 1.5em, weight: "bold")[{text}]',
-        "cover-subtitle": '#text(size: 1.2em)[{text}]',
-        "cover-author":   '#text(size: 1.1em)[{text}]',
-        "cover-date":     '#text(size: 1em)[{text}]',
-    }
-    SPAN_SPACING = {
-        "cover-title-he": "#v(0.4em)",
-        "cover-title":    "#v(3em)",
-        "cover-subtitle": "#v(1em)",
-        "cover-author":   "#v(0.5em)",
-        "cover-date":     "",
-    }
+    rtl = _meta_bool(meta, "rtl")
+
+    # (text, typst size/weight args, spacing after)
+    title_he = (_meta_text(meta, "title-he"), 'size: 2em, weight: "bold"')
+    title_en = (_meta_text(meta, "title"),    'size: 1.5em, weight: "bold"')
+    first, second = (title_he, title_en) if rtl else (title_en, title_he)
+    items = [
+        (*first,  "#v(0.4em)"),
+        (*second, "#v(3em)"),
+        (_meta_text(meta, "subtitle"), "size: 1.2em", "#v(1em)"),
+        (_meta_text(meta, "author"),   "size: 1.1em", "#v(0.5em)"),
+        (_meta_text(meta, "date"),     "size: 1em",   ""),
+    ]
 
     lines = []
-    for block in blocks:
-        if block["t"] != "Para":
+    for text, args, spacing in items:
+        if not text:
             continue
-        inlines = block["c"]
-        # Single span with a known class → styled text
-        if len(inlines) == 1 and inlines[0]["t"] == "Span":
-            span_attrs, span_inlines = inlines[0]["c"]
-            _, span_classes, _ = span_attrs
-            text = stringify(span_inlines)
-            for cls in span_classes:
-                if cls in SPAN_MAP:
-                    lines.append(SPAN_MAP[cls].format(text=text))
-                    if SPAN_SPACING[cls]:
-                        lines.append(SPAN_SPACING[cls])
-                    break
-            else:
-                # Span with unknown class: fall through to plain text
-                lines.append(stringify(inlines))
-        else:
-            lines.append(stringify(inlines))
+        lines.append(f"#text({args}, {_typst_str(text)})")
+        if spacing:
+            lines.append(spacing)
 
-    inner = "\n".join(lines)
+    for block in blocks:
+        if block["t"] == "Para":
+            extra = stringify(block["c"]).strip()
+            if extra:
+                lines.append("#v(1em)")
+                lines.append(f"#text({_typst_str(extra)})")
+
+    inner = "\n    ".join(lines)
     typst = (
         "#page(numbering: none)[\n"
         "  #v(1fr)\n"
