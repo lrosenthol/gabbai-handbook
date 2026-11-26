@@ -49,6 +49,8 @@ One placed under communal ban (*cherem*) should not receive an aliyah until the 
 
 ## Calling the Oleh — the Announcement Formula
 
+### Standard Aliyot
+
 The gabbai calls each person to the Torah with a standard Hebrew announcement. The traditional Ashkenazic formula is:
 
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לַעֲלִיַּת [שְׁנִי / שְׁלִישִׁי / …]
@@ -61,7 +63,11 @@ For the second (*Levi*):
 
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] הַלֵּוִי לַעֲלִיַּת שֵׁנִי
 
-The name of the oleh is announced using his Hebrew name and his father's Hebrew name.[^al20] If his father's name is unknown, the name of the mother is used.[^al21]
+The name of the oleh is announced using his Hebrew name and his father's Hebrew name.[^al20]
+
+If his father's name is unknown — such as a convert (*ger*), a foundling (*asuf*), or where the father is not Jewish — the name of the mother is used.[^al21] [^al24]. Alternatively, it is common to use בֶּן אַבְרָהָם (son of Abraham) or some (who?) have the minhag to use בֶּן אַבְרָהָם אָבִינוּ (son of Abraham our Father).
+
+NOTE: Some communities use the mother's name for all calls when a person is ill or when reciting a *mi sheberach* for healing; this is a later custom (*minhag acharonim*) without strict halachic requirement.[^al25]
 
 ::: note-sephardic
 **Sephardic custom:** Many Sephardic communities use the formula *ya'amod* followed only by the person's Hebrew name, without announcing the ordinal number of the aliyah. The aliyah number is considered already known to the congregation. Some communities also add the phrase *v'yevarech* ("and may he bless").[^al22]
@@ -71,11 +77,17 @@ The name of the oleh is announced using his Hebrew name and his father's Hebrew 
 **Chabad custom:** The Chabad announcement follows the Ashkenazic formula but typically adds *Yaamod* at the start and concludes *rishon / sheni / …* before *la'aliyah*. The precise wording was standardised in Chabad siddurim.[^al23]
 :::
 
-### Using the Mother's Name in the Announcement
+### When a Kohen or Levi isn't present
 
-Under normal circumstances the father's name is used. In cases where the father's name is not known — such as a convert (*ger*), a foundling (*asuf*), or where the father is not Jewish — the mother's name is used.[^al24]
+**fill in**
 
-Some communities use the mother's name for all calls when a person is ill or when reciting a *mi sheberach* for healing; this is a later custom (*minhag acharonim*) without strict halachic requirement.[^al25]
+### Calling the Maftir
+
+**fill in**
+
+### Calling the Hagbah and Golel
+
+**fill in**
 
 ## The Aliyah Itself
 
