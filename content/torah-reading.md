@@ -13,13 +13,20 @@ The number of Torah portions (*aliyot*) called varies by day. The following tabl
 
 | Day                                  | Number of *Aliyot* |
 | ------------------------------------ | ------------------ |
-| Shabbat Morning                      | 7 + 1              |
-| Yom Kippur Morning                   | 6 + 1              |
-| Yom Tov (three Pilgrimage Festivals) | 5                  |
-| Rosh Hashanah                        | 5                  |
-| Rosh Chodesh / Chol Ha-Moed          | 4                  |
 | Monday / Thursday / Shabbat Mincha   | 3                  |
-| Yom Kippur Mincha                    | 2 + 1              |
+| Shabbat Morning                      | 7 + 1              |
+| Rosh Chodesh / Chol Ha-Moed          | 4                  |
+| Rosh Chodesh on Shabbat              | 7 + 1              |
+| Yom Tov (three Pilgrimage Festivals) | 5 + 1              |
+| Yom Tov on Shabbat                   | 7 + 1              |
+| Rosh Hashanah                        | 5 + 1              |
+| Rosh Hashanah on Shabbat             | 7 + 1              |
+| Yom Kippur (Morning)                 | 6 + 1              |
+| Yom Kippur (Afternoon)               | 2 + 1              |
+| Fast Days (Morning)                  | 3                  |
+| Fast Days (Afternoon)                | 2 + 1              |
+
+NOTE: Fast Days refer to the public fasts: Tzom Gedaliah, Asarah b'Tevet, Ta'anit Esther, Shiv'ah Asar b'Tammuz and Tisha B'Av.
 
 ## Calling an *Oleh* 
 
@@ -110,3 +117,7 @@ After completing the final aliyah (including maftir), the torah is raised and th
 The gabbai must follow the reading carefully in a *tikkun* (a printed book with both the vowelised and unvowelised text side by side) and correct any significant error (*taut*) by the reader (*ba'al korei*).
 
 An error is considered significant (*me'akev*) if it changes the meaning of the text.  Minor mispronunciations that do not affect meaning need not be corrected publicly, though the gabbai may quietly guide the reader.
+
+## Simchat Torah
+
+*fill in details here*
