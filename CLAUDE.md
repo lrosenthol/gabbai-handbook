@@ -120,6 +120,13 @@ must be copied from a reliable source, never reconstructed.
   Sheberach, haftarah, holiday readings). Good for explanatory prose and for
   checking common practice. Note that it reflects Chabad custom, so mention
   where other communities differ.
+- **[Chabadpedia](https://chabadpedia.com)**: a wiki of Chabad customs
+  (minhagim), practice and Chabad literature. Use it to look up a specific
+  Chabad custom and to find the primary source it rests on (e.g. the Alter
+  Rebbe's Shulchan Aruch or the Rebbe's *Hayom Yom*). It is a wiki, so verify
+  claims against the cited source before relying on them, and label the
+  result as Chabad custom. Check its Terms of Use before copying any text;
+  paraphrase by default.
 - **[OpenSiddur](https://opensiddur.org/)**: freely licensed siddur texts and
   translations. Its source repository
   ([github.com/opensiddur/opensiddur](https://github.com/opensiddur/opensiddur))
