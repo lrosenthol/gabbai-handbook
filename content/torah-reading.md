@@ -9,9 +9,9 @@ The public reading of the Torah (*keriat ha-Torah*) is performed from a handwrit
 
 This chapter follows the reading in the order of the service.  The laws behind it are collected in the two annexes at the back of the book: [Annex A: Laws of Aliyot](#annex-a) and [Annex B: Laws of the Gabbai](#annex-b).
 
-## The Number of Aliyot (עֲלִיּוֹת) {#number-of-aliyot}
+## The Number of Aliyot  {#number-of-aliyot}
 
-The number of Torah portions (*aliyot*) called varies by day. The following table documents the standard number of aliyot for the day/category.  It also notes (with +1) when the extra maftir/מַפְטִיר reading is added (for the person who will read the haftarah/הַפְטָרָה). 
+The number of Torah portions (*aliyot*, עֲלִיּוֹת) called varies by day. The following table documents the standard number of aliyot for the day/category.  It also notes (with +1) when the extra maftir/מַפְטִיר reading is added (for the person who will read the haftarah/הַפְטָרָה). 
 
 <!-- TODO: when a gabbai may add aliyot beyond the standard number. -->
 

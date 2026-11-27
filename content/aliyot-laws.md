@@ -1,7 +1,7 @@
 ::: pagebreak
 :::
 
-# Annex A: Laws of Aliyot / נִסְפָּח א: הֲלָכוֹת עֲלִיַּת הַתּוֹרָה {#annex-a}
+# Annex A: Laws of Aliyot {#annex-a}
 
 This annex sets out the laws behind the practical chapter [Torah Reading](#torah-reading): who may be called, in what order, and how the oleh conducts himself.  The wording the gabbai uses to call each oleh is in [Calling an Oleh](#calling-an-oleh).
 
@@ -97,15 +97,15 @@ If the oleh began reciting the blessing before the scroll was pointed to the cor
 The complete text and the congregation's responses are collected in [Torah and Gomel Blessings](#torah-and-gomel-blessings).
 
 ::: prayer
-*(העולה יחזיק בשתי ידיות הספר ויאמר בקול רם:)*
+*(הָעוֹלֶה יַחֲזִיק בִּשְׁתֵּי יְדִיוֹת הַסֵּפֶר וְיֹאמַר בְּקוֹל רָם:)*
 
 בָּרְכוּ אֶת יהוה הַמְבֹרָךְ.
 
-*(הקהל עונה:)*
+*(הַקָּהָל עוֹנֶה:)*
 
 בָּרוּךְ יהוה הַמְבֹרָךְ לְעוֹלָם וָעֶד.
 
-*(העולה חוזר:)*
+*(הָעוֹלֶה חוֹזֵר:)*
 
 בָּרוּךְ יהוה הַמְבֹרָךְ לְעוֹלָם וָעֶד.
 
@@ -113,7 +113,7 @@ The complete text and the congregation's responses are collected in [Torah and G
 אֲשֶׁר בָּחַר-בָּנוּ מִכָּל הָעַמִּים, וְנָתַן-לָנוּ אֶת-תּוֹרָתוֹ.
 בָּרוּךְ אַתָּה יהוה נוֹתֵן הַתּוֹרָה.
 
-*(אחרי הקריאה, העולה יחזיק בשתי ידיות הספר ויאמר:)*
+*(אַחֲרֵי הַקְּרִיאָה, הָעוֹלֶה יַחֲזִיק בִּשְׁתֵּי יְדִיוֹת הַסֵּפֶר וְיֹאמַר:)*
 
 בָּרוּךְ אַתָּה יהוה אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם,
 אֲשֶׁר נָתַן-לָנוּ תּוֹרַת אֱמֶת, וְחַיֵּי עוֹלָם נָטַע בְּתוֹכֵנוּ.
