@@ -119,6 +119,46 @@ at the end of the TOC, so the Introduction is page 1.  Pages created with
 - Images go in `images/` and are referenced as `![alt](images/foo.png)` or `![alt](../images/foo.png)` — preprocess normalises paths.
 - Fonts go in `fonts/`; names used in `project.yaml` must match the font's internal name exactly.
 
+## Researching and sourcing content
+
+When adding or checking halachic content, prayer texts or citations, use these
+references rather than relying on memory. Hebrew liturgical text in particular
+must be copied from a reliable source, never reconstructed.
+
+- **[Sefaria](https://www.sefaria.org/)**: the main source for primary texts:
+  Tanakh, Talmud, Mishnah Berurah, Shulchan Aruch, Kitzur Shulchan Aruch,
+  siddurim and commentaries, in Hebrew with English translations. Use it to
+  check citations (e.g. `Shulchan Aruch, Orach Chayim 135–149` for Torah reading
+  laws) and to get exact Hebrew wording. Its public API returns text as JSON,
+  e.g. `https://www.sefaria.org/api/v3/texts/Shulchan_Arukh,_Orach_Chayim.135`.
+- **[Chabad.org Knowledge Base](https://www.chabad.org/search/default_cdo/aid/67250/jewish/Knowledge-Base.htm)**:
+  plain-language explanations of practice and custom (aliyot, Kaddish, Mi
+  Sheberach, haftarah, holiday readings). Good for explanatory prose and for
+  checking common practice. Note that it reflects Chabad custom, so mention
+  where other communities differ.
+- **[Chabadpedia](https://chabadpedia.com)**: a wiki of Chabad customs
+  (minhagim), practice and Chabad literature. Use it to look up a specific
+  Chabad custom and to find the primary source it rests on (e.g. the Alter
+  Rebbe's Shulchan Aruch or the Rebbe's *Hayom Yom*). It is a wiki, so verify
+  claims against the cited source before relying on them, and label the
+  result as Chabad custom. Check its Terms of Use before copying any text;
+  paraphrase by default.
+- **[OpenSiddur](https://opensiddur.org/)**: freely licensed siddur texts and
+  translations. Its source repository
+  ([github.com/opensiddur/opensiddur](https://github.com/opensiddur/opensiddur))
+  holds the texts in machine-readable form. Use it for prayer passages when
+  Sefaria's version isn't suitable, or to compare versions (nusach).
+
+Guidelines:
+
+- Cite the primary source (book, siman, se'if) in the content where it helps the
+  gabbai. Don't cite a website as the authority.
+- Check the licence before copying a translation. Many Sefaria and OpenSiddur
+  texts are CC-BY or CC-BY-SA and need attribution. Chabad.org content is
+  copyrighted, so paraphrase it rather than copying it.
+- When sources disagree on nusach (Ashkenaz, Sefard, Edot HaMizrach), say which
+  one the text follows.
+
 ## Key variables passed through the template
 
 Boolean `rtl` (derived from `direction: rtl` in `project.yaml`) controls title-page order (Hebrew title first vs. English first) and binding side.
