@@ -138,27 +138,30 @@ $endif$
   h3 * calc.pow($heading-scale$, (3 - level) / 2)
 }
 
-#show heading.where(level: 1): it => context block(above: 2em, below: 0.9em)[
+#let heading-above(level) = heading-size(level) * 1.1
+#let heading-below(level) = heading-size(level) * 0.6
+
+#show heading.where(level: 1): it => context block(above: heading-above(1), below: heading-below(1))[
   #set text(size: heading-size(1), ..heading-text)
   #it.body
 ]
-#show heading.where(level: 2): it => context block(above: 1.6em, below: 0.7em)[
+#show heading.where(level: 2): it => context block(above: heading-above(2), below: heading-below(2))[
   #set text(size: heading-size(2), ..heading-text)
   #it.body
 ]
-#show heading.where(level: 3): it => context block(above: 1.2em, below: 0.5em)[
+#show heading.where(level: 3): it => context block(above: heading-above(3), below: heading-below(3))[
   #set text(size: heading-size(3), ..heading-text)
   #it.body
 ]
-#show heading.where(level: 4): it => block(above: 1em, below: 0.4em)[
+#show heading.where(level: 4): it => block(above: heading-above(4), below: heading-below(4))[
   #set text(size: heading-size(4), ..heading-text)
   #it.body
 ]
-#show heading.where(level: 5): it => block(above: 1em, below: 0.4em)[
+#show heading.where(level: 5): it => block(above: heading-above(5), below: heading-below(5))[
   #set text(size: heading-size(5), weight: "semibold", style: "italic")
   #it.body
 ]
-#show heading.where(level: 6): it => block(above: 1em, below: 0.4em)[
+#show heading.where(level: 6): it => block(above: heading-above(6), below: heading-below(6))[
   #set text(size: heading-size(6), weight: "semibold", style: "italic")
   #it.body
 ]

@@ -15,7 +15,7 @@ FONTS      := $(wildcard fonts/*)
 
 all: $(OUTPUT)
 
-$(OUTPUT): $(PROJECT) $(MD_FILES) $(TYP_FILES) $(IMAGES) $(FONTS) scripts/build.py scripts/preprocess.py
+$(OUTPUT): $(PROJECT) $(MD_FILES) $(TYP_FILES) $(IMAGES) $(FONTS) scripts/build.py scripts/preprocess.py scripts/typst_filter.py
 	$(PYTHON) scripts/build.py $(PROJECT)
 
 # ── Utility targets ───────────────────────────────────────────────────────────
