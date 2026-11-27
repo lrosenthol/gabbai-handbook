@@ -44,6 +44,8 @@ content:
     title: "Introduction"
   - file: torah-reading.md
     title: "Torah Reading / קְרִיאַת הַתּוֹרָה"
+  - file: torah-blessings.md
+    title: "Torah and Gomel Blessings / בִּרְכוֹת הַתּוֹרָה וְהַגּוֹמֵל"
   - file: haftarah-blessings.md
     title: "Haftarah Blessings / בִּרְכוֹת הַהַפְטָרָה"
   - folder: mishebairachs/

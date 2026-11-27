@@ -94,6 +94,8 @@ If the oleh began reciting the blessing before the scroll was pointed to the cor
 
 #### The Blessings / בִּרְכוֹת הַתּוֹרָה
 
+The complete text and the congregation's responses are collected in [Torah and Gomel Blessings](#torah-and-gomel-blessings).
+
 ::: prayer
 *(העולה יחזיק בשתי ידיות הספר ויאמר בקול רם:)*
 
