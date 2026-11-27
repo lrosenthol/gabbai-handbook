@@ -274,7 +274,7 @@ An error is significant (*me'akev*) if it changes the meaning of the text.  The 
 [^tr6]: Shulchan Aruch, *Orach Chayyim* 135:6 (the Rambam's wording, "a Levi does not go up after him"); *Taz*, *Orach Chayyim* 135:6; *Kaf HaChaim*, *Orach Chayyim* 135:40 (also citing the *Bach*, who advises not calling the Levi at all, since that satisfies every opinion). The Shulchan Aruch follows the first explanation in Rashi, *Gittin* 59b, s.v. *nitperdah chavilah* (the Levi "is not called at all"); the *Rama*, in allowing the Levi to go first, draws on the second (there is no set order between a Levi and a Yisrael).
 [^tr7]: *Kitzur Shulchan Aruch* 23:9, where the announcement opens *im ein kan Kohen* ("if there is no Kohen here").
 [^tr8]: Shulchan Aruch, *Orach Chayyim* 135:6; *Mishnah Berurah* 135:23.
-[^tr9]: Shulchan Aruch, *Orach Chayyim* 135:9; *Mishnah Berurah* 135:23.
+[^tr9]: Shulchan Aruch, *Orach Chayyim* 135:9 (two Leviim are not called one after the other); *Mishnah Berurah* 135:30 (the concern is that people will suspect one of them is disqualified).
 [^tr10]: Talmud Bavli, *Gittin* 59b; Shulchan Aruch, *Orach Chayyim* 135:8.
 [^tr11]: *Levush*, *Orach Chayyim* 135:8; *Kaf HaChaim*, *Orach Chayyim* 135:46; *Kitzur Shulchan Aruch* 23:9.
 [^tr12]: Shulchan Aruch, *Orach Chayyim* 135:8; *Mishnah Berurah* 135:28.
