@@ -5,6 +5,8 @@
 
 Said by the *shaliach tzibbur* to mark a transition within the service: before *Barchu*, before the *Amidah* at *Mincha* and *Maariv*, and at *Shacharit* after *Tachanun* or *Hallel*, before the Torah reading.[^kd6]  A minyan of ten adult men is required.[^kd3]  The lines marked *Aseret Yemei Teshuvah* (in yellow) replace the line printed just above them during the Ten Days of Repentance, from Rosh Hashanah through Yom Kippur.[^kd5]
 
+**Nusach Chabad variant:** After *וְיַמְלִיךְ מַלְכוּתֵהּ* in the opening paragraph, add *וְיַצְמַח פֻּרְקָנֵהּ וִיקָרֵב מְשִׁיחֵהּ* ("may He grow the redemption and bring His anointed close").[^kd14]
+
 **At the Torah reading**, the order depends on the day:
 
 - **Shabbat and Yom Tov morning:** half-Kaddish is said after the last required aliyah and *before* the maftir is called, so that everyone knows the maftir is not one of the required aliyot.[^kd7]  With one scroll, the maftir is read from the same scroll and hagbah and gelilah follow the maftir.  With a second scroll, half-Kaddish is said with both scrolls on the bimah, then hagbah and gelilah of the first scroll, then the maftir.[^kd8]
