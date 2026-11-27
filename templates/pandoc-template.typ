@@ -5,7 +5,7 @@
 // Variables set by build.py via YAML front matter:
 //   title, title-he, subtitle, author, date
 //   rtl (bool), hebrew-font, latin-font, code-font
-//   body-size, heading-scale, paper
+//   body-size, prayer-size, prayer-hebrew-size, heading-scale, paper
 //   top-margin, bottom-margin, right-margin, left-margin, two-sided
 
 // ── PDF document properties ──────────────────────────────────────────────────
@@ -55,8 +55,13 @@ $endif$
 $if(two-sided)$
   binding: $if(rtl)$right$else$left$endif$,
 $endif$
+  // Page numbers run consecutively through the whole book: the counter is
+  // reset once, after the table of contents, and never per chapter.  Pages
+  // set with `numbering: none` (cover, TOC, `typst-page-unnumbered`) get no
+  // running header.  The footer is disabled so the number appears only here.
+  numbering: "1",
   header: context {
-    if counter(page).get().first() > 1 [
+    if here().page-numbering() != none [
       #set text(size: 0.85em)
       #if calc.odd(counter(page).get().first()) [
         #grid(columns: (1fr, 1fr),
@@ -85,24 +90,76 @@ $endif$
 
 // ── Paragraph style ───────────────────────────────────────────────────────────
 
+// Paragraphs are separated by vertical space only — no first-line indent.
 #set par(
   justify:           true,
   leading:           0.75em,
-  first-line-indent: 1.2em,
+  first-line-indent: 0em,
 )
 
 // ── Headings ──────────────────────────────────────────────────────────────────
 
-#show heading.where(level: 1): it => block(above: 2em, below: 0.9em)[
-  #set text(size: $heading-scale$em, weight: "bold")
+// Rule: H1–H3 must never LOOK smaller than any running text.  The largest
+// running text is prayer text (Hebrew at prayer-hebrew-size, Latin at
+// prayer-size).  Point size alone is not enough because the scripts differ: Shofar's Hebrew letters stand taller per
+// em than Source Sans lowercase.  So we measure, at render time, the ink
+// height of a Hebrew letter and of a Latin x-height in the configured fonts,
+// and size H3 so that its smallest-looking glyphs are at least as tall as the
+// biggest-looking glyphs in prayer text.  H2 and H1 then step up
+// geometrically, H1 = heading-scale x H3.
+//
+// H4 and deeper may be smaller than prayer text; they use body size and are
+// distinguished by weight/style only.
+//
+// Shofar registers its bold face with an expanded stretch (112.5%), and
+// Typst matches stretch before weight, so "bold" alone silently selects the
+// regular face.  Headings request that stretch so Hebrew renders in bold too;
+// Latin fonts without an expanded face fall back to their normal width.
+
+#let prayer-size = $prayer-size$
+#let prayer-hebrew-size = $prayer-hebrew-size$
+#let heading-text = (weight: "bold", stretch: 112.5%)
+
+// Ink height (baseline to top of glyph) at 100pt.  Requires context.
+#let _ink(font, glyph) = measure(text(
+  font: font, size: 100pt, top-edge: "bounds", bottom-edge: "baseline",
+  ..heading-text, glyph,
+)).height
+
+#let heading-size(level) = {
+  if level >= 4 { return $body-size$ }
+  let hebrew = _ink("$hebrew-font$", "ה")
+  let latin  = _ink("$latin-font$", "x")
+  // Make the smallest heading glyph match the largest prayer glyph.  The
+  // ink heights are at 100pt, so scale each by its prayer size / 100pt.
+  let prayer-ink = calc.max(hebrew * (prayer-hebrew-size / 100pt),
+                            latin  * (prayer-size / 100pt))
+  let h3 = 100pt * (prayer-ink / calc.min(hebrew, latin))
+  h3 * calc.pow($heading-scale$, (3 - level) / 2)
+}
+
+#show heading.where(level: 1): it => context block(above: 2em, below: 0.9em)[
+  #set text(size: heading-size(1), ..heading-text)
   #it.body
 ]
-#show heading.where(level: 2): it => block(above: 1.6em, below: 0.7em)[
-  #set text(size: calc.sqrt($heading-scale$) * 1em, weight: "bold")
+#show heading.where(level: 2): it => context block(above: 1.6em, below: 0.7em)[
+  #set text(size: heading-size(2), ..heading-text)
   #it.body
 ]
-#show heading.where(level: 3): it => block(above: 1.2em, below: 0.5em)[
-  #set text(size: 1.05em, weight: "bold")
+#show heading.where(level: 3): it => context block(above: 1.2em, below: 0.5em)[
+  #set text(size: heading-size(3), ..heading-text)
+  #it.body
+]
+#show heading.where(level: 4): it => block(above: 1em, below: 0.4em)[
+  #set text(size: heading-size(4), ..heading-text)
+  #it.body
+]
+#show heading.where(level: 5): it => block(above: 1em, below: 0.4em)[
+  #set text(size: heading-size(5), weight: "semibold", style: "italic")
+  #it.body
+]
+#show heading.where(level: 6): it => block(above: 1em, below: 0.4em)[
+  #set text(size: heading-size(6), weight: "semibold", style: "italic")
   #it.body
 ]
 
@@ -113,8 +170,26 @@ $endif$
 
 // ── Tables ────────────────────────────────────────────────────────────────────
 
-#set table(stroke: 0.5pt, inset: 6pt)
-#show table.header: set text(weight: "bold")
+// Header row: bold text on a light grey band.  Body rows: a hairline under
+// each row; no vertical rules.  Column widths are left to Typst (the filter
+// strips pandoc's markdown-derived widths).
+
+#let table-header-fill = luma(225)
+#let table-rule        = 0.5pt + luma(195)
+
+#set table(
+  inset:  (x: 7pt, y: 5pt),
+  fill:   (x, y) => if y == 0 { table-header-fill },
+  stroke: (x, y) => if y > 0 { (bottom: table-rule) },
+)
+// pandoc emits a table.hline() under the header; the grey band already marks it
+#set table.hline(stroke: none)
+#show table.cell.where(y: 0): set text(weight: "bold")
+// pandoc wraps tables in align(center); keep that for the table's placement
+// but start-align cell text (columns marked :---: in markdown stay centred).
+// Justification opens wide gaps in narrow cells, so turn it off.
+#show table: set align(start)
+#show table: set par(justify: false)
 
 // ── Horizontal rule ──────────────────────────────────────────────────────────
 
@@ -129,6 +204,29 @@ $endif$
   above: 0.8em,
   below: 0.8em,
 )[#it]
+
+// ── Admonitions (NOTE, TIP, …) ───────────────────────────────────────────────
+// Emitted by scripts/typst_filter.py for `::: note` (and tip / important /
+// warning / caution) divs, and for paragraphs that begin with "NOTE:".
+// Styled after ISO notes / AsciiDoc admonitions: a bold label above slightly
+// smaller body text in a lightly tinted, fully bordered box (a full border
+// rather than a side bar, so it reads the same in RTL and LTR paragraphs).
+
+#let admonition(label, color: luma(90), body) = block(
+  width:  100%,
+  inset:  (x: 10pt, y: 8pt),
+  radius: 3pt,
+  stroke: 0.6pt + color,
+  fill:   color.lighten(92%),
+  above:  1em,
+  below:  1em,
+  breakable: true,
+)[
+  #text(size: 0.8em, weight: "bold", fill: color, tracking: 0.08em)[#label]
+  #v(0.3em, weak: true)
+  #set text(size: 0.92em)
+  #body
+]
 
 // ── Cross-references ─────────────────────────────────────────────────────────
 // Internal markdown links ([text](#heading-id)) become links to Typst labels.
