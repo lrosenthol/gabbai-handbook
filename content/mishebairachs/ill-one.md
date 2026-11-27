@@ -1,4 +1,4 @@
-# מי שברך לחולה אחד
+# Sick Person / מי שברך לחולה אחד
 
 ## לזכר (for a male patient)
 

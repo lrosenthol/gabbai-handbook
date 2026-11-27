@@ -1,4 +1,4 @@
-# מי שברך לתושב חדש
+# New Resident / Member / מי שברך לתושב חדש
 
 ## לתושב חדש (for a new resident / member)
 

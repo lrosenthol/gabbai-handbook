@@ -1,4 +1,4 @@
-# מי שברך לחתן
+# Groom / מי שברך לחתן
 
 ## לחתן לפני חתונתו (for a groom before his wedding)
 
