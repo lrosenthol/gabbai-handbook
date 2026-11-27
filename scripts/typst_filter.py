@@ -36,6 +36,35 @@ import sys
 from pandocfilters import toJSONFilter, RawBlock, RawInline, stringify, Para
 
 
+# ── Prayer blocks ─────────────────────────────────────────────────────────────
+# Prayer text is set at PRAYER_SIZE.  The Hebrew face (Shofar) looks noticeably
+# smaller than the Latin face (Source Sans 3) at the same point size, so runs of
+# Hebrew script inside a prayer block are bumped up by PRAYER_HEBREW_BOOST to
+# keep the Hebrew (the actual prayer) visually dominant over interleaved
+# English instructions.
+#
+# Shofar's bold face (ShofarDemi-Bold.ttf) is registered as a *wider* stretch
+# (112.5%) than the regular face.  Typst matches stretch before weight, so a
+# plain weight: "bold" silently falls back to Shofar Regular.  Hebrew runs
+# therefore also request PRAYER_HEBREW_STRETCH so the bold face is selected.
+
+PRAYER_SIZE = 16                  # pt
+PRAYER_HEBREW_BOOST = 2           # pt added to Hebrew-script runs
+PRAYER_HEBREW_STRETCH = "112.5%"  # selects ShofarDemi-Bold for weight: bold
+
+
+def _prayer_wrapper(fill: str = "") -> tuple[str, str]:
+    fill_arg = f", fill: {fill}" if fill else ""
+    return (
+        "#block[\n"
+        f'  #set text(size: {PRAYER_SIZE}pt, weight: "bold"{fill_arg}, dir: rtl)\n'
+        f'  #show regex("\\p{{Hebrew}}+"): set text('
+        f'size: {PRAYER_SIZE + PRAYER_HEBREW_BOOST}pt, '
+        f'stretch: {PRAYER_HEBREW_STRETCH})\n',
+        "\n]\n",
+    )
+
+
 # ── Simple div wrappers ───────────────────────────────────────────────────────
 # Each entry: css-class → (typst_before, typst_after)
 # The inner content is converted to Typst by pandoc's writer as normal.
@@ -62,26 +91,11 @@ DIV_WRAPPERS: dict[str, tuple[str, str]] = {
         "#page(numbering: none)[\n",
         "\n]\n",
     ),
-    "prayer": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", dir: rtl)\n',
-        "\n]\n",
-    ),
-    "prayer-shabbat": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", fill: red, dir: rtl)\n',
-        "\n]\n",
-    ),
-    "prayer-chaggim": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", fill: green, dir: rtl)\n',
-        "\n]\n",
-    ),
-    "prayer-high-holidays": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", fill: yellow, dir: rtl)\n',
-        "\n]\n",
-    ),
-    "prayer-shabbat-chaggim": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", fill: purple, dir: rtl)\n',
-        "\n]\n",
-    ),
+    "prayer":                 _prayer_wrapper(),
+    "prayer-shabbat":         _prayer_wrapper("red"),
+    "prayer-chaggim":         _prayer_wrapper("green"),
+    "prayer-high-holidays":   _prayer_wrapper("yellow"),
+    "prayer-shabbat-chaggim": _prayer_wrapper("purple"),
     # Community-specific note boxes
     "note-chabad": (
         '#block(stroke: (left: 2pt + blue), inset: (left: 8pt), width: 100%)[\n'
