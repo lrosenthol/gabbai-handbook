@@ -76,7 +76,21 @@ Same as prayer, coloured green.
 ::: prayer-high-holidays
 Same as prayer, coloured yellow.
 :::
+
+::: note
+Boxed admonition with a "NOTE" label (ISO / AsciiDoc style).
+Also: tip, important, warning, caution.
+:::
 ```
+
+A paragraph that starts with `NOTE:` (or `TIP:`, `IMPORTANT:`, `WARNING:`,
+`CAUTION:`) is turned into the same admonition automatically; the prefix is
+replaced by the label.  The box itself is the `admonition` function in
+`templates/pandoc-template.typ`.
+
+Page numbers run consecutively through the book: the counter is reset once,
+at the end of the TOC, so the Introduction is page 1.  Pages created with
+`numbering: none` (cover, TOC, `typst-page-unnumbered`) have no running header.
 
 **Inline spans** — add a class to bracketed text:
 
@@ -86,6 +100,7 @@ Same as prayer, coloured yellow.
 
 **Extending the filter** — open `scripts/typst_filter.py` and add to:
 - `DIV_WRAPPERS` for a simple before/after Typst wrapper around block content
+- `ADMONITIONS` for another NOTE-style box (label + colour)
 - `DIV_HANDLERS` for a Python function with full control (like `cover-page`)
 - `SPAN_STYLES` for an inline Typst template
 
