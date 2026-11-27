@@ -63,23 +63,23 @@ DIV_WRAPPERS: dict[str, tuple[str, str]] = {
         "\n]\n",
     ),
     "prayer": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", dir: rtl)\n',
+        '#block[\n  #set text(size: prayer-size, weight: "bold", dir: rtl)\n',
         "\n]\n",
     ),
     "prayer-shabbat": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", fill: red, dir: rtl)\n',
+        '#block[\n  #set text(size: prayer-size, weight: "bold", fill: red, dir: rtl)\n',
         "\n]\n",
     ),
     "prayer-chaggim": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", fill: green, dir: rtl)\n',
+        '#block[\n  #set text(size: prayer-size, weight: "bold", fill: green, dir: rtl)\n',
         "\n]\n",
     ),
     "prayer-high-holidays": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", fill: yellow, dir: rtl)\n',
+        '#block[\n  #set text(size: prayer-size, weight: "bold", fill: yellow, dir: rtl)\n',
         "\n]\n",
     ),
     "prayer-shabbat-chaggim": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", fill: purple, dir: rtl)\n',
+        '#block[\n  #set text(size: prayer-size, weight: "bold", fill: purple, dir: rtl)\n',
         "\n]\n",
     ),
     # Community-specific note boxes
