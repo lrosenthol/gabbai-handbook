@@ -143,26 +143,32 @@ $endif$
 
 #show heading.where(level: 1): it => context block(above: heading-above(1), below: heading-below(1))[
   #set text(size: heading-size(1), ..heading-text)
+  #set par(leading: 0em)
   #it.body
 ]
 #show heading.where(level: 2): it => context block(above: heading-above(2), below: heading-below(2))[
   #set text(size: heading-size(2), ..heading-text)
+  #set par(leading: 0em)
   #it.body
 ]
 #show heading.where(level: 3): it => context block(above: heading-above(3), below: heading-below(3))[
   #set text(size: heading-size(3), ..heading-text)
+  #set par(leading: 0em)
   #it.body
 ]
 #show heading.where(level: 4): it => block(above: heading-above(4), below: heading-below(4))[
   #set text(size: heading-size(4), ..heading-text)
+  #set par(leading: 0em)
   #it.body
 ]
 #show heading.where(level: 5): it => block(above: heading-above(5), below: heading-below(5))[
   #set text(size: heading-size(5), weight: "semibold", style: "italic")
+  #set par(leading: 0em)
   #it.body
 ]
 #show heading.where(level: 6): it => block(above: heading-above(6), below: heading-below(6))[
   #set text(size: heading-size(6), weight: "semibold", style: "italic")
+  #set par(leading: 0em)
   #it.body
 ]
 
