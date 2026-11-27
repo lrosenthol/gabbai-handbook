@@ -69,6 +69,8 @@ content:
       - full.md
       - rabbis.md
       - half.md
+  - file: el-malei-rachamim.md
+    title: "El Malei Rachamim / אֵל מָלֵא רַחֲמִים"
   # Annexes: the laws behind the practical chapters.
   - file: aliyot-laws.md
     title: "Annex A: Laws of Aliyot / נִסְפָּח א: הֲלָכוֹת עֲלִיַּת הַתּוֹרָה"
