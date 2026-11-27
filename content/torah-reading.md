@@ -58,10 +58,6 @@ From the third aliyah onward, the gabbai announces the number of the aliyah:
 
 If a Kohen or Levi is called for a later aliyah (for example, *acharon* or maftir), the gabbai adds *ha-Kohen* or *ha-Levi* after his name, before the number.
 
-::: note-sephardic
-**Sephardic custom:** Many Sephardic communities use the formula *ya'amod* followed only by the person's Hebrew name, without announcing the ordinal number of the aliyah.  The aliyah number is considered already known to the congregation.  Some communities also add the phrase *v'yevarech* ("and may he bless").[^tr1]
-:::
-
 <!-- Chabad wording for calling an oleh: removed until the actual wording is verified in Sefer HaMinhagim or the siddur (the earlier Hayom Yom citation did not check out). -->
 
 ### When There Is No Kohen or Levi {#calling-no-kohen-levi}
@@ -167,7 +163,7 @@ For the text of the blessings before and after the haftarah, and which form to u
 
 ## Hagbah and Gelilah {#hagbah-gelilah}
 
-After the final aliyah (including maftir), two more people are called to the bimah.  *Hagbah* (הַגְבָּהָה) is lifting the open scroll to show it to the congregation; the person given this honour is the *magbi'ah* (מַגְבִּיהַּ).  *Gelilah* (גְּלִילָה) is rolling the scroll closed, fastening the belt (*gartel*), and putting the mantle and ornaments back on; the person given this honour is the *golel* (גּוֹלֵל).
+After the final aliyah (including maftir), two more people are called to the bimah.  *Hagbah* (הַגְבָּהָה) is lifting the open scroll to show it to the congregation; the person given this honour is the *magbi'ah* (מַגְבִּיהַּ).  *Gelilah* (גְּלִילָה) is rolling the scroll closed, fastening the belt (*gartel*), and putting the mantle and ornaments back on; the person given this honour is the *golel* (גּוֹלֵל).  A woman given this honour is a *golelet* (גּוֹלֶלֶת); as with a *bat* in *Calling an Oleh*, ask the congregation's rabbi whether women are called in your community.
 
 ::: note-sephardic
 **Sephardic custom:** In Sephardic communities (and some others) hagbah is done *before* the reading, right after the scroll is placed on the bimah, rather than after it.   The gabbai calls the honour at that point instead of after maftir, so after the maftir reading only the wrapping and the return of the scroll remain before the haftarah begins.[^tr23]
@@ -175,7 +171,7 @@ After the final aliyah (including maftir), two more people are called to the bim
 
 ### Calling the Magbi'ah and Golel {#calling-hagbah-gelilah}
 
-The gabbai calls one person for hagbah and another for gelilah:
+At the point where hagbah is done (see the Sephardic custom below), the gabbai calls one person for hagbah and another for gelilah:
 
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לְהַגְבָּהָה
 
@@ -190,6 +186,10 @@ When more than one scroll is read, each scroll has its own magbi'ah and golel (s
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לִגְלִילַת סֵפֶר תּוֹרָה שֵׁנִי
 
 For the third scroll, say שְׁלִישִׁי in place of שֵׁנִי.
+
+::: note-sephardic
+**Sephardic custom:** Many Sephardic communities use the formula *ya'amod* followed only by the person's Hebrew name, without announcing the ordinal number of the aliyah.  The aliyah number is considered already known to the congregation.  Some communities also add the phrase *v'yevarech* ("and may he bless").[^tr1]
+:::
 
 ### Hagbah (הַגְבָּהָה)
 
@@ -208,15 +208,15 @@ The magbi'ah then sits down holding the scroll, and the golel rolls it closed.
 ::: note-chabad
 **Chabad custom:** Hagbah is done after the reading, as in Ashkenazic communities, but the scroll is lifted twice: first open and then closed, so that the honour is done according to every opinion.  The magbi'ah:
 
-1. Opens the scroll a little less than three columns.  He stands with his feet together and slides the scroll toward himself until about a third of it is past the edge of the bimah.
-2. Presses down on the handles and lifts, opening it a little more in the air so that three columns show.
+1. Opens the scroll a little less than three columns.  He stands with his feet together and lowers the scroll over the front edge of the bimah until about a third of it extends beyond it.
+2. Presses down and lifts, opening it a little more in the air so that three columns show.
 3. Without moving his feet, turns the scroll to the right, to the left, and to the right again.
 4. Puts the scroll back down on the bimah and closes it.  He does **not** sit down while the scroll is still open.
-5. Lifts the closed scroll, steps back, and sits down holding it for gelilah.
+5. Steps back and sits down holding the closed scroll for gelilah.
 
-The congregation does not point at the scroll with a finger.  Following the Arizal, each person tries to look at the writing from close by and find a letter of his own name.
+The congregation does not point at the scroll with a finger.  Following the Arizal,[^tr35] each person tries to look at the writing from close by and find a letter of his own name (this and the no-pointing rule are not stated for all Ashkenazim).
 
-The gabbai should have the chair ready behind the magbi'ah while he is lifting, and should remind a guest of this order beforehand.  The Rebbe insisted on putting the scroll back on the bimah between hagbah and gelilah.[^tr34]
+The gabbai should have the chair ready behind the magbi'ah while he is lifting, and should remind a guest of this order beforehand.  The Rebbe insisted on putting the scroll back on the bimah between hagbah and gelilah.[^tr34]  Because this order leaves the scroll open at the edge of the bimah, give it only to someone strong and experienced (see above).  The usual Ashkenazic order, sitting with the open scroll, remains correct for other communities; this box does not replace it.
 :::
 
 ### Gelilah (גְּלִילָה)
@@ -306,4 +306,5 @@ An error is significant (*me'akev*) if it changes the meaning of the text.  The 
 [^tr31]: Rema, *Orach Chayyim* 282:4; *Mishnah Berurah* 147:27.
 [^tr32]: Shulchan Aruch, *Orach Chayyim* 147:8.
 [^tr33]: Shulchan Aruch, *Orach Chayyim* 142:1; *Mishnah Berurah* 142:4.
-[^tr34]: *Sefer HaMinhagim* (Chabad), p. 15; the Rebbe at the Lag BaOmer farbrengen of 5707, *Torat Menachem – Hitva'aduyot* 5683–5710, p. 103; *Igrot Kodesh* vol. 19, letter 7282, and the letter of 14 Sivan 5720, which notes that the *Aruch HaShulchan* praises this custom.  Tractate *Soferim* (ch. 14) is the earliest source for showing the writing to all sides.  See [Chabadpedia: Hagbahah](https://chabadpedia.com/index.php?title=Hagbahah).
+[^tr34]: Five-step order: the Lag BaOmer 5707 farbrengen as recorded in a *hanachah* (a student's notes, not an edited text), *Hisvaaduyos 5683–5710*, p. 103.  Lifting open and then closed, "according to every opinion", and not pointing: *Sefer HaMinhagim* (Chabad), p. 15 of the Hebrew edition (Shulchan Aruch HaRav cites it at pp. 32–33 of the English edition).  The Rebbe's insistence on returning the scroll to the table: *Igrot Kodesh* vol. 19, letter 7282 (to Rabbi Zevin, Erev Rosh Chodesh Iyar 5720), and a separate letter of 14 Sivan 5720, which notes that the *Aruch HaShulchan* praises this custom (volume and number not yet identified).  Tractate *Soferim* ch. 14 is the earliest source for showing the writing to all sides.  Secondary: Chabadpedia, "Hagbahah" ([permalink](https://chabadpedia.com/index.php?title=Hagbahah&oldid=116810)); note that Chabadpedia says 770 does not strictly follow this order.
+[^tr35]: Custom of the Arizal, as recorded in *Sefer HaMinhagim* (Chabad); sources as in the preceding note.

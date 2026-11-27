@@ -7,7 +7,7 @@ Said by the *shaliach tzibbur* to mark a transition within the service: before *
 
 **At the Torah reading**, the order depends on the day:
 
-- **Shabbat and Yom Tov morning:** half-Kaddish is said after the last required aliyah and *before* the maftir is called, so that everyone knows the maftir is not one of the required aliyot.[^kd7]  With one scroll, the maftir is read from the same scroll and *hagbah* and *gelilah* follow the maftir.  With a second scroll, half-Kaddish is said with both scrolls on the bimah, then *hagbah* and *gelilah* of the first scroll, then the maftir.[^kd8]
+- **Shabbat and Yom Tov morning:** half-Kaddish is said after the last required aliyah and *before* the maftir is called, so that everyone knows the maftir is not one of the required aliyot.[^kd7]  With one scroll, the maftir is read from the same scroll and hagbah and gelilah follow the maftir.  With a second scroll, half-Kaddish is said with both scrolls on the bimah, then hagbah and gelilah of the first scroll, then the maftir.[^kd8]
 - **Weekdays, including Chol HaMoed (the maftir is one of the counted aliyot):** half-Kaddish follows the last aliyah, once the scroll has been returned to the ark.[^kd9]
 - **Shabbat and fast-day *Mincha*:** no Kaddish is said on the bimah after the reading.  The half-Kaddish is said at the *amud*, just before the *Amidah*.[^kd10]
 
@@ -33,7 +33,7 @@ Customs differ on the exact order, so follow the practice of your congregation. 
 
 [^kd7]: *Shulchan Aruch, Orach Chayyim* 282:4 and *Rama*; *Mishnah Berurah* 282:19, 282:20, 282:26.
 
-[^kd8]: *Mishnah Berurah* 147:27 (the second scroll is placed on the bimah before the Kaddish so that it is said over both; then *hagbah* and *gelilah* of the first).  *Hagbah* after the reading is the Ashkenazic custom: *Shulchan Aruch, Orach Chayyim* 134:2, *Rama*.
+[^kd8]: *Mishnah Berurah* 147:27 (the second scroll is placed on the bimah before the Kaddish so that it is said over both; then hagbah and gelilah of the first).  Hagbah after the reading is the Ashkenazic custom: *Shulchan Aruch, Orach Chayyim* 134:2, *Rama*.
 
 [^kd9]: *Mishnah Berurah* 282:26 (on weekdays Kaddish is said after the maftir, that is, after the scroll is returned to the ark; on Chol HaMoed after the fourth aliyah).  Many congregations say it as the scroll is dressed, before it is returned.  *Mishnah Berurah* 139:21 notes that the scroll is covered while the Kaddish is said.
 
