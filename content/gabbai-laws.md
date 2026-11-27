@@ -41,7 +41,7 @@ The gabbai follows the reading and corrects the reader (*ba'al korei*) when a si
 
 The gabbai is responsible for the honour and safety of the Torah scroll during the service. He should ensure:
 
-- The scroll is dressed (*gartel*, mantle, breastplate, crown) properly before and after reading[^gb7]
+- The scroll is dressed (belt or *gartel*, mantle, breastplate, crown) properly before and after reading[^gb7]
 - The scroll is not left unattended while open[^gb8]
 - The scroll is lifted (*hagbah*) and wrapped (*gelilah*) by individuals who can perform these honours respectfully (see [Hagbah and Gelilah](#hagbah-gelilah))[^gb9]
 

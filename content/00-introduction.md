@@ -1,6 +1,6 @@
 # Introduction / מָבוֹא
 
-This handbook is a guide for synagogue officers (*gabbaim*) and those who assist in the conduct of the service.  It covers the liturgical order, the honours (*aliyot*, *hagbahah*, *gelilah*), and the practical responsibilities that fall to those who manage the Torah reading.
+This handbook is a guide for synagogue officers (*gabbaim*) and those who assist in the conduct of the service.  It covers the liturgical order, the honours (*aliyot*, *hagbah*, *gelilah*), and the practical responsibilities that fall to those who manage the Torah reading.
 
 ## Purpose of This Guide / מַטָּרַת הַמַּדְרִיךְ
 

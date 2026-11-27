@@ -36,7 +36,7 @@ NOTE: Fast Days refer to the public fasts: Tzom Gedaliah, Asarah b'Tevet, Ta'ani
 
 ## Calling an *Oleh* {#calling-an-oleh}
 
-When calling a person to the Torah, the gabbai announces him in Hebrew by his own Hebrew name and his father's Hebrew name, joined by *ben* ("son of").  Every call opens with *ya'amod* ("let him stand"); only the ending changes.  All of the calling formulas are collected in this section, and the sections that follow refer back to them.  The formulas assume a male oleh; the congregation's rabbi should be asked about the wording for a *bat* where women are called.
+When calling a person to the Torah, the gabbai announces him in Hebrew by his own Hebrew name and his father's Hebrew name, joined by *ben* ("son of").  Every call opens with *ya'amod* ("let him stand"); only the ending changes.  The formulas for calling each aliyah are collected in this section, and the sections that follow refer back to them.  The magbi'ah and golel are not olim; the wording for calling them is under [Calling the Magbi'ah and Golel](#calling-hagbah-gelilah).  The formulas assume a male oleh; the congregation's rabbi should be asked about the wording for a *bat* where women are called.
 
 <!-- Editors: the numbered formula is ya'amod … [ordinal] (e.g. שְׁלִישִׁי), deliberately without la'aliyat / לַעֲלִיָּה, which an earlier draft used. -->
 
@@ -91,24 +91,6 @@ If the maftir is a Kohen or Levi, add *ha-Kohen* or *ha-Levi* after his name, as
 For a *bar mitzvah* boy many congregations add *ha-bachur ha-bar mitzvah* before his name.  Called for maftir, he is announced:
 
 יַעֲמֹד הַבָּחוּר הַבַּר מִצְוָה [שֵׁם] בֶּן [שֵׁם הָאָב] מַפְטִיר
-
-### Hagbah and Gelilah {#calling-hagbah-gelilah}
-
-After the reading, one person is called to lift the scroll (*hagbahah*) and another to roll and dress it (*gelilah*):
-
-יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לְהַגְבָּהָה
-
-יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לִגְלִילָה
-
-The gabbai usually calls both people together, so the golel is already at the bimah when the scroll is lifted.  If the congregation recites a *mi sheberach* for them, see *Hagbah & Gelilah* in the [Mishebairach](#mi-sheberach) chapter.
-
-When more than one scroll is read, each scroll has its own pair (see [When More Than One Torah Is Read](#multiple-scrolls)).  When calling hagbah and gelilah for a second or third scroll, some gabbaim name which scroll it is so there is no confusion:
-
-יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לְהַגְבָּהַת סֵפֶר תּוֹרָה שֵׁנִי
-
-יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לִגְלִילַת סֵפֶר תּוֹרָה שֵׁנִי
-
-For the third scroll, say שְׁלִישִׁי in place of שֵׁנִי.
 
 ## When a Kohen or Levi Isn't Present {#no-kohen-or-levi}
 
@@ -179,21 +161,39 @@ A separate maftir is called on Shabbat morning, Yom Tov, Rosh Hashanah, and Yom 
 
 ### After the Maftir Reading {#after-maftir}
 
-After the maftir reading, the second (or only) scroll is lifted and wrapped (see [Hagbah and Gelilah](#hagbah-gelilah) below).  The maftir does not begin the haftarah until the wrapping is finished, so that the *golel* can also listen.[^tr22]
+After the maftir reading, the second (or only) scroll is lifted and wrapped (see [Hagbah and Gelilah](#hagbah-gelilah) below).  The maftir does not begin the haftarah until the wrapping is finished, so that the golel can also listen.[^tr22]
 
 For the text of the blessings before and after the haftarah, and which form to use on each day, see the [Haftarah Blessings](#haftarah-blessings) chapter.
 
 ## Hagbah and Gelilah {#hagbah-gelilah}
 
-After completing the final aliyah (including maftir), the torah is raised and then "redressed".  The people that do this job are called the Hagbah (the lifter) and the Golel (wrapper).  For the wording used to call them, see [Hagbah and Gelilah](#calling-hagbah-gelilah) under Calling an Oleh.
+After the final aliyah (including maftir), two more people are called to the bimah.  *Hagbah* (הַגְבָּהָה) is lifting the open scroll to show it to the congregation; the person given this honour is the *magbi'ah* (מַגְבִּיהַּ).  *Gelilah* (גְּלִילָה) is rolling the scroll closed, fastening the belt (*gartel*), and putting the mantle and ornaments back on; the person given this honour is the *golel* (גּוֹלֵל).
 
 ::: note-sephardic
-**Sephardic custom:** In Sephardic communities (and some others) hagbahah is done *before* the reading, right after the scroll is placed on the bimah, rather than after it.   The gabbai calls the honour at that point instead of after maftir, so after the maftir reading only the wrapping and the return of the scroll remain before the haftarah begins.[^tr23]
+**Sephardic custom:** In Sephardic communities (and some others) hagbah is done *before* the reading, right after the scroll is placed on the bimah, rather than after it.   The gabbai calls the honour at that point instead of after maftir, so after the maftir reading only the wrapping and the return of the scroll remain before the haftarah begins.[^tr23]
 :::
 
-### Hagbah (the lifter)
+### Calling the Magbi'ah and Golel {#calling-hagbah-gelilah}
 
-The magbiah opens the scroll about three columns wide (more if he can lift it safely).  He lifts it high and turns to his right and left, and to the front and back, so that the whole congregation can see the writing.[^tr24]  The congregation stands and says:
+The gabbai calls one person for hagbah and another for gelilah:
+
+יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לְהַגְבָּהָה
+
+יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לִגְלִילָה
+
+The gabbai usually calls both people together, so the golel is already at the bimah when the scroll is lifted.  If the congregation recites a *mi sheberach* for them, see *Hagbah & Gelilah* in the [Mishebairach](#mi-sheberach) chapter.
+
+When more than one scroll is read, each scroll has its own magbi'ah and golel (see [When More Than One Torah Is Read](#multiple-scrolls)).  When calling hagbah and gelilah for a second or third scroll, some gabbaim name which scroll it is so there is no confusion:
+
+יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לְהַגְבָּהַת סֵפֶר תּוֹרָה שֵׁנִי
+
+יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לִגְלִילַת סֵפֶר תּוֹרָה שֵׁנִי
+
+For the third scroll, say שְׁלִישִׁי in place of שֵׁנִי.
+
+### Hagbah (הַגְבָּהָה)
+
+The magbi'ah opens the scroll about three columns wide (more if he can lift it safely).  He lifts it high and turns to his right and left, and to the front and back, so that the whole congregation can see the writing.[^tr24]  The congregation stands and says:
 
 וְזֹאת הַתּוֹרָה אֲשֶׁר שָׂם מֹשֶׁה לִפְנֵי בְּנֵי יִשְׂרָאֵל עַל פִּי ה' בְּיַד מֹשֶׁה
 
@@ -203,13 +203,13 @@ Many also add:
 
 Lifting a full, open scroll takes strength and practice.  The gabbai should only give hagbah to someone who can do it safely and is comfortable doing it.  The gabbai should not give hagbah to someone whose hands shake badly, or to someone elderly or weak who would have to sit down right away instead of holding the scroll up long enough for the congregation to see it.  Such a person should also decline the honour himself.[^tr25]  When the scroll is heavy or most of the parchment is wound on one side (for example, in Bereishit or late in Devarim), the gabbai should choose someone with experience.
 
-The magbiah then sits down holding the scroll, and the golel rolls it closed.
+The magbi'ah then sits down holding the scroll, and the golel rolls it closed.
 
-### Golel (the wrapper)
+### Gelilah (גְּלִילָה)
 
-The golel rolls the scroll closed and dresses it: the binder (*gartel*), the mantle, and then the breastplate, pointer (*yad*) and crown as the community does it.  The scroll should be rolled tight and closed so that the two rollers meet at a seam between two sheets of parchment.  That way, if it ever tears, it tears at the seam.[^tr26]  The Talmud teaches that the golel receives a reward equal to that of all who read from the Torah.[^tr27]
+The golel rolls the scroll closed and dresses it: the belt (*gartel*), the mantle, and then the breastplate, pointer (*yad*) and crown as the community does it.  The scroll should be rolled tight and closed so that the two rollers meet at a seam between two sheets of parchment.  That way, if it ever tears, it tears at the seam.[^tr26]  The Talmud teaches that the golel receives a reward equal to that of all who read from the Torah.[^tr27]
 
-Today one person lifts and another rolls, so the *magbiah* is considered the main golel.[^tr28]  This is one reason many communities treat hagbah as the more important of the two honours.
+Today one person lifts and another rolls, so the magbi'ah is considered the main golel.[^tr28]  This is one reason many communities treat hagbah as the more important of the two honours.
 
 In many communities gelilah is given to a boy under bar mitzvah, to train him in mitzvot (*chinuch*).  The boy should be old enough to understand that he is handling something holy.[^tr25]  An adult should stand nearby to help, especially with a heavy scroll.
 
@@ -224,14 +224,14 @@ On some days the reading comes from two or three different places in the Torah. 
 
 Note that weekday Chol Ha-Moed **Sukkot** uses only one scroll, unlike Chol Ha-Moed Pesach.
 
-**Prepare every scroll before the service.**  Each scroll should be rolled to its reading ahead of time, and it should be clearly marked which scroll is first, second and third.  The gabbai should check this before the service, since a wrong scroll means rolling in front of the congregation.  He should also tell each magbiah and golel *before the service* which scroll is theirs.  This helps the reading go smoothly.
+**Prepare every scroll before the service.**  Each scroll should be rolled to its reading ahead of time, and it should be clearly marked which scroll is first, second and third.  The gabbai should check this before the service, since a wrong scroll means rolling in front of the congregation.  He should also tell each magbi'ah and golel *before the service* which scroll is theirs.  This helps the reading go smoothly.
 
 ### Order with two scrolls
 
 1. The main aliyot are read from the first scroll.
 2. The second scroll is brought and placed on the bimah next to the first, already rolled to its reading.  The first scroll is not taken away until the second is on the bimah, so that no one's attention is taken off the mitzvah.[^tr30]
 3. Half-kaddish is recited, with both scrolls on the bimah.[^tr31]
-4. Hagbah and gelilah of the **first** scroll.  The magbiah sits holding it.  The second scroll is not opened, and its cover is not removed, until the first has been rolled.[^tr32]
+4. Hagbah and gelilah of the **first** scroll.  The magbi'ah sits holding it.  The second scroll is not opened, and its cover is not removed, until the first has been rolled.[^tr32]
 5. Maftir (or the extra reading) is read from the second scroll.
 6. Hagbah and gelilah of the **second** scroll.  Then the haftarah, once the golel has finished (see [After the Maftir Reading](#after-maftir)).
 
