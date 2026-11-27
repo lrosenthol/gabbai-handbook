@@ -48,7 +48,7 @@ Before the first call, the gabbai begins with the form customary for the day.  C
 
 #### Weekdays
 
-When the Torah is unrolled on a weekday, the reader begins:[^tr38]
+On a weekday, the gabbai begins:[^tr38]
 
 ::: prayer
 וְתִגָּלֶה וְתֵרָאֶה מַלְכוּתוֹ עָלֵינוּ בִּזְמַן קָרוֹב וְיָחוֹן פְּלֵיטָתֵנוּ וּפְלֵיטַת עַמּוֹ בֵּית יִשְׂרָאֵל לְחֵן וּלְחֶסֶד וּלְרַחֲמִים וּלְרָצוֹן וְנֹאמַר אָמֵן.
@@ -56,7 +56,7 @@ When the Torah is unrolled on a weekday, the reader begins:[^tr38]
 
 *Ve-tigaleh ve-teraeh malkhuto aleinu bi-zman karov ve-yachon pleitateinu u-fleitat amo Beit Yisrael le-chen u-le-chesed u-le-rachamim u-li-ratzon ve-nomar Amen.*
 
-He then announces the Torah:
+The gabbai continues:
 
 ::: prayer
 הַכֹּל הָבוּ גֹּדֶל לֵאלֹהֵינוּ וּתְנוּ כָבוֹד לַתּוֹרָה.
@@ -64,7 +64,7 @@ He then announces the Torah:
 
 *Ha-kol havu godel le-Elokeinu u-tenu kavod la-Torah.*
 
-The Kohen is then called forward with *Kohen krav*; if no Kohen is present, use the local *bimkom Kohen* wording under [No Kohen Present](#no-kohen-present).
+The gabbai then calls the Kohen according to the formulas [below](#calling-numbered-aliyot).
 
 #### Shabbat Morning
 
@@ -80,7 +80,7 @@ At Shabbat morning, begin with the Shabbat opening:[^tr39]
 
 *Ve-ya'azor ve-yagen ve-yoshi'a le-chol ha-chosim bo, ve-yigaleh malkhuto aleinu bi-zman karov, ve-yishma et kol amo Yisrael ve-et tefilloteinu bi-rachamim u-li-ratzon. Ve-nomar Amen.*
 
-The reader continues:
+The gabbai continues:
 
 ::: prayer-shabbat
 הַכֹּל הָבוּ גֹּדֶל לֵאלֹהֵינוּ וּתְנוּ כָבוֹד לַתּוֹרָה.
@@ -88,13 +88,13 @@ The reader continues:
 
 *Ha-kol havu godel le-Elokeinu u-tenu kavod la-Torah.*
 
-The gabbai then calls the Kohen, Levi and Yisrael according to the formulas below.
+The gabbai then calls the Kohen according to the formulas [below](#calling-numbered-aliyot).
 
 #### Shabbat Afternoon
 
-At Shabbat *Mincha*, after the Torah is unrolled, the reader begins:[^tr40]
+At Shabbat *Mincha*, the gabbai begins:[^tr40]
 
-::: prayer
+::: prayer-shabbat
 וְתִגָּלֶה וְתֵרָאֶה מַלְכוּתוֹ עָלֵינוּ בִּזְמַן קָרוֹב.
 
 וְיָחוֹן פְּלֵיטָתֵנוּ וּפְלֵיטַת עַמּוֹ בֵּית יִשְׂרָאֵל לְחֵן וּלְחֶסֶד וּלְרַחֲמִים וּלְרָצוֹן וְנֹאמַר אָמֵן.
@@ -104,11 +104,11 @@ At Shabbat *Mincha*, after the Torah is unrolled, the reader begins:[^tr40]
 
 *Ve-tigaleh ve-teraeh malkhuto aleinu bi-zman karov. Ve-yachon pleitateinu u-fleitat amo Beit Yisrael le-chen u-le-chesed u-le-rachamim u-li-ratzon ve-nomar Amen. Ha-kol havu godel le-Elokeinu u-tenu kavod la-Torah.*
 
-He then calls the Kohen; the congregation answers *Ve-atem ha-devekim* after the gabbai's *Baruch she-natan Torah* response.
+The gabbai then calls the Kohen according to the formulas [below](#calling-numbered-aliyot).
 
 #### Festivals
 
-On Yom Tov and Chol HaMoed, Siddur Ashkenaz uses the weekday introductory reading.  It is read as the Torah is unrolled, then followed by *Havu godel* and the call for the Kohen:[^tr38][^tr41]
+On Yom Tov and Chol HaMoed, Siddur Ashkenaz uses the weekday introductory reading. [^tr38][^tr41]
 
 ::: prayer-chaggim
 וְתִגָּלֶה וְתֵרָאֶה מַלְכוּתוֹ עָלֵינוּ בִּזְמַן קָרוֹב וְיָחוֹן פְּלֵיטָתֵנוּ וּפְלֵיטַת עַמּוֹ בֵּית יִשְׂרָאֵל לְחֵן וּלְחֶסֶד וּלְרַחֲמִים וּלְרָצוֹן וְנֹאמַר אָמֵן.
@@ -118,11 +118,11 @@ On Yom Tov and Chol HaMoed, Siddur Ashkenaz uses the weekday introductory readin
 
 *Ve-tigaleh ve-teraeh malkhuto aleinu bi-zman karov ve-yachon pleitateinu u-fleitat amo Beit Yisrael le-chen u-le-chesed u-le-rachamim u-li-ratzon ve-nomar Amen. Ha-kol havu godel le-Elokeinu u-tenu kavod la-Torah.*
 
-The Mi Shebeirach for an oleh adds *li-chvod ha-regel* ("in honour of the pilgrimage festival") in the same place.  The exact holiday wording varies with Pesach, Shavuot and Sukkot; use [Aliyot / עליות](#mi-shebeirach) for the applicable line.
+The gabbai then calls the Kohen according to the formulas [below](#calling-numbered-aliyot).
 
 ### After the Call
 
-After the opening *Barchu* and Torah blessing, the gabbai says:
+After calling the oleh by name, the gabbai says:
 
 ::: prayer
 בָּרוּךְ שֶׁנָּתַן תּוֹרָה לְעַמּוֹ יִשְׂרָאֵל בִּקְדֻשָּׁתוֹ.
@@ -138,19 +138,25 @@ The congregation answers:
 
 *Ve-attem ha-devekim ba-Adonai Eloheichem chayim kulchem ha-yom.*
 
-### The Numbered Aliyot {#calling-numbered-aliyot}
+### The Aliyot {#calling-numbered-aliyot}
 
 The first aliyah is announced by the oleh's status as a Kohen, with no number:
 
+::: prayer
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] הַכֹּהֵן
+:::
 
 The second is announced by his status as a Levi:
 
+::: prayer
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] הַלֵּוִי
+:::
 
 From the third aliyah onward, the gabbai announces the number of the aliyah:
 
+::: prayer
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] [שְׁלִישִׁי / רְבִיעִי / חֲמִישִׁי / שִׁשִּׁי / שְׁבִיעִי]
+:::
 
 If a Kohen or Levi is called for a later aliyah (for example, *acharon* or maftir), the gabbai adds *ha-Kohen* or *ha-Levi* after his name, before the number.
 
@@ -168,7 +174,9 @@ When there is no Kohen, the first oleh is announced *bimkom Kohen* ("in place of
 
 The maftir is called with the word *maftir* in place of the aliyah number:
 
+::: prayer
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] מַפְטִיר
+:::
 
 If the maftir is a Kohen or Levi, add *ha-Kohen* or *ha-Levi* after his name, as for any other aliyah.
 
@@ -176,7 +184,9 @@ If the maftir is a Kohen or Levi, add *ha-Kohen* or *ha-Levi* after his name, as
 
 For a *bar mitzvah* boy many congregations add *ha-bachur ha-bar mitzvah* before his name.  Called for maftir, he is announced:
 
+::: prayer
 יַעֲמֹד הַבָּחוּר הַבַּר מִצְוָה [שֵׁם] בֶּן [שֵׁם הָאָב] מַפְטִיר
+:::
 
 ## When a Kohen or Levi Isn't Present {#no-kohen-or-levi}
 
@@ -188,11 +198,15 @@ If there is no Kohen in the synagogue, the usual order no longer applies (*nitpe
 
 A Yisrael is announced:
 
+::: prayer
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] בִּמְקוֹם כֹּהֵן
+:::
 
 A Levi is announced with *ha-Levi* after his name, as usual, followed by *bimkom Kohen*:[^tr5]
 
+::: prayer
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] הַלֵּוִי בִּמְקוֹם כֹּהֵן
+:::
 
 ::: note-sephardic
 **Sephardic custom:** The Shulchan Aruch, following the Rambam, does not call a Levi at all when there is no Kohen, not even for the first aliyah.  Calling a Levi first comes from the *Rama*'s gloss.  Communities that follow the Shulchan Aruch therefore call a Yisrael *bimkom Kohen* and do not use the Levi formula above.  Follow the established custom of the congregation.[^tr6]
@@ -206,7 +220,9 @@ Once the first aliyah has gone to someone other than a Kohen, **a Levi is not ca
 
 If a Kohen is present but there is no Levi, **the Kohen who received the first aliyah is called again for the second**, *in place of a Levi* (*bimkom Levi*).  He recites both blessings again.[^tr10]  He is announced *bimkom Levi*:[^tr11]
 
+::: prayer
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] הַכֹּהֵן בִּמְקוֹם לֵוִי
+:::
 
 A different Kohen is never called for the second aliyah, and a Yisrael is not called in place of the Levi.  Either would suggest that the first Kohen is not a proper Kohen.[^tr12]  This applies even on a fast day when the Levi who is present is not fasting.  The Kohen repeats *bimkom Levi* rather than a Yisrael being called.[^tr13]  The third aliyah onward goes to Yisraelim as usual.
 
@@ -277,17 +293,31 @@ After the final aliyah (including maftir), two more people are called to the bim
 
 At the point where hagbah is done (see the Sephardic custom below), the gabbai calls one person for hagbah and another for gelilah:
 
+::: prayer
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לְהַגְבָּהָה
 
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לִגְלִילָה
+:::
 
-The gabbai usually calls both people together, so the golel is already at the bimah when the scroll is lifted.  If the congregation recites a *Mi Shebeirach* for them, see *Hagbah & Gelilah* in the [Mi Shebeirach](#mi-shebeirach) chapter.
+The gabbai usually calls both people together, so the golel is already at the bimah when the scroll is lifted:
+
+::: prayer
+יַעַמְדוּ הַמַּגְבִּיהַ וְהַגּוֹלֵל
+:::
+
+If the congregation recites a *Mi Shebeirach* for them, see *Hagbah & Gelilah* in the [Mi Shebeirach](#mi-shebeirach) chapter.
 
 When more than one scroll is read, each scroll has its own magbi'ah and golel (see [When More Than One Torah Is Read](#multiple-scrolls)).  When calling hagbah and gelilah for a second or third scroll, some gabbaim name which scroll it is so there is no confusion:
 
+::: prayer
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לְהַגְבָּהַת סֵפֶר תּוֹרָה שֵׁנִי
 
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לִגְלִילַת סֵפֶר תּוֹרָה שֵׁנִי
+:::
+
+::: prayer
+ יַעַמְדוּ הַמַּגְבִּיהַ וְהַגּוֹלֵל סֵפֶר שֵׁנִי
+:::
 
 For the third scroll, say שְׁלִישִׁי in place of שֵׁנִי.
 
@@ -299,15 +329,15 @@ For the third scroll, say שְׁלִישִׁי in place of שֵׁנִי.
 
 The magbi'ah opens the scroll about three columns wide (more if he can lift it safely).  He lifts it high and turns to his right and left, and to the front and back, so that the whole congregation can see the writing.[^tr29]  The congregation stands and says:
 
+::: prayer
 וְזֹאת הַתּוֹרָה אֲשֶׁר שָׂם מֹשֶׁה לִפְנֵי בְּנֵי יִשְׂרָאֵל עַל פִּי ה' בְּיַד מֹשֶׁה
-
-Many also add:
-
-תּוֹרַת ה' תְּמִימָה מְשִׁיבַת נָפֶשׁ
+:::
 
 Lifting a full, open scroll takes strength and practice.  The gabbai should only give hagbah to someone who can do it safely and is comfortable doing it.  The gabbai should not give hagbah to someone whose hands shake badly, or to someone elderly or weak who would have to sit down right away instead of holding the scroll up long enough for the congregation to see it.  Such a person should also decline the honour himself.[^tr30]  When the scroll is heavy or most of the parchment is wound on one side (for example, in Bereishit or late in Devarim), the gabbai should choose someone with experience.
 
 The magbi'ah then sits down holding the scroll, and the golel rolls it closed.
+
+NOTE: The gabbai should have the chair ready behind the magbi'ah while he is lifting.  
 
 ::: note-chabad
 **Chabad custom:** Hagbah is done after the reading, as in Ashkenazic communities, but the scroll is lifted twice: first open and then closed, so that the honour is done according to every opinion.  The magbi'ah:
@@ -320,7 +350,7 @@ The magbi'ah then sits down holding the scroll, and the golel rolls it closed.
 
 The congregation does not point at the scroll with a finger.  Following the Arizal,[^tr30a] each person tries to look at the writing from close by and find a letter of his own name (this and the no-pointing rule are not stated for all Ashkenazim).
 
-The gabbai should have the chair ready behind the magbi'ah while he is lifting, and should remind a guest of this order beforehand.  The Rebbe insisted on putting the scroll back on the bimah between hagbah and gelilah.[^tr30b]  Because this order leaves the scroll open at the edge of the bimah, give it only to someone strong and experienced (see above).  The usual Ashkenazic order, sitting with the open scroll, remains correct for other communities; this box does not replace it.
+The Rebbe insisted on putting the scroll back on the bimah between hagbah and gelilah.[^tr30b]  Because this order leaves the scroll open at the edge of the bimah, give it only to someone strong and experienced (see above).  The usual Ashkenazic order, sitting with the open scroll, remains correct for other communities; this box does not replace it.
 :::
 
 ### Gelilah (גְּלִילָה)
