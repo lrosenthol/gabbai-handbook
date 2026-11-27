@@ -183,7 +183,7 @@ At the point where hagbah is done (see the Sephardic custom below), the gabbai c
 
 יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] לִגְלִילָה
 
-The gabbai usually calls both people together, so the golel is already at the bimah when the scroll is lifted.  If the congregation recites a *mi sheberach* for them, see *Hagbah & Gelilah* in the [Mishebairach](#mi-sheberach) chapter.
+The gabbai usually calls both people together, so the golel is already at the bimah when the scroll is lifted.  If the congregation recites a *Mi Shebeirach* for them, see *Hagbah & Gelilah* in the [Mi Shebeirach](#mi-shebeirach) chapter.
 
 When more than one scroll is read, each scroll has its own magbi'ah and golel (see [When More Than One Torah Is Read](#multiple-scrolls)).  When calling hagbah and gelilah for a second or third scroll, some gabbaim name which scroll it is so there is no confusion:
 

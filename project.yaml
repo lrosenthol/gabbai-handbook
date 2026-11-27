@@ -47,8 +47,8 @@ content:
   - file: haftarah-blessings.md
     title: "Haftarah Blessings / בִּרְכוֹת הַהַפְטָרָה"
   - folder: mishebairachs/
-    title: "Mishebairach / מִי שֶׁבֵּרַךְ"
-    id: mi-sheberach   # anchor for cross-references ([text](#mi-sheberach))
+    title: "Mi Shebeirach / מִי שֶׁבֵּרַךְ"
+    id: mi-shebeirach   # anchor for cross-references ([text](#mi-shebeirach))
     files:
       - aliyot.md
       - hagbah-gelilah.md
