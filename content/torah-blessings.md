@@ -7,6 +7,8 @@
 
 Every person called for an aliyah says a blessing before and after his assigned Torah reading.  The oleh opens or locates the scroll, holds both handles (*atzim*), and says the blessing aloud.  The congregation answers *Amen*; after the opening formula, it answers the opening response and the oleh repeats it.[^tgb1]
 
+The transliterations below follow a common Ashkenazic pronunciation.  Pronunciation varies among communities; follow the congregation's siddur and custom.
+
 ### Before the Reading
 
 The gabbai or congregation does not say *Barchu* instead of the opening formula; the oleh must invite the congregation:
@@ -15,11 +17,15 @@ The gabbai or congregation does not say *Barchu* instead of the opening formula;
 בָּרְכוּ אֶת ה' הַמְבֹרָךְ.
 :::
 
+*Bar'chu et Adonai ha-mevorach.*
+
 The congregation answers:
 
 ::: prayer
 בָּרוּךְ ה' הַמְבֹרָךְ לְעוֹלָם וָעֶד.
 :::
+
+*Baruch Adonai ha-mevorach le'olam va'ed.*
 
 The oleh repeats the congregation's response, then continues:
 
@@ -28,6 +34,10 @@ The oleh repeats the congregation's response, then continues:
 
 בָּרוּךְ אַתָּה ה' אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר בָּחַר־בָּנוּ מִכָּל הָעַמִּים, וְנָתַן־לָנוּ אֶת־תּוֹרָתוֹ. בָּרוּךְ אַתָּה ה', נוֹתֵן הַתּוֹרָה.
 :::
+
+*Baruch Adonai ha-mevorach le'olam va'ed.*
+
+*Baruch atah Adonai, Eloheinu melech ha'olam, asher bachar banu mikol ha'amim, ve-natan lanu et Torato. Baruch atah Adonai, noten ha-Torah.*
 
 The blessing is said only after the oleh has opened the scroll and found the place where he is to begin.  He should hold at least one handle with both hands if possible.  If he began before the scroll was positioned correctly, he does not repeat the blessing.[^tgb2]
 
@@ -38,6 +48,8 @@ After the reader or ba'al korei has completed the assigned passage and the scrol
 ::: prayer
 בָּרוּךְ אַתָּה ה' אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר נָתַן־לָנוּ תּוֹרַת אֶמֶת, וְחַיֵּי עוֹלָם נָטַע בְּתוֹכֵנוּ. בָּרוּךְ אַתָּה ה', נוֹתֵן הַתּוֹרָה.
 :::
+
+*Baruch atah Adonai, Eloheinu melech ha'olam, asher natan lanu Torat emet, ve-chayei olam nata betocheinu. Baruch atah Adonai, noten ha-Torah.*
 
 The oleh remains standing at the bimah until the next oleh has completed his opening blessing.  He should not walk away merely because his portion was read.
 
@@ -63,11 +75,15 @@ Before the Torah is read, the gabbai should make clear to the person that he wil
 בָּרוּךְ אַתָּה ה' אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, הַגּוֹמֵל לְחַיָּבִים טוֹבוֹת שֶׁגְּמָלַנִי כָּל טוֹב.
 :::
 
+*Baruch atah Adonai, Eloheinu melech ha'olam, ha-Gomel le-chayavim tovot, she-gemalani kol tov.*
+
 The congregation answers:
 
 ::: prayer
 מִי שֶׁגְּמָלְךָ טוֹב הוּא יִגְמָלְךָ טוֹב סֶלָה.
 :::
+
+*Mi she-gemalcha tov, hu yigmalcha kol tov sela.*
 
 Some say *Migomel tov* or use *kol tov* instead of *tov*, according to their siddur.  The congregation should answer at an audible volume so that the person blessing can hear the response.
 
