@@ -1,4 +1,4 @@
-# מי שברך לחיילים
+# Soldiers / מי שברך לחיילים
 
 ## לחייל יחיד (for an individual soldier)
 

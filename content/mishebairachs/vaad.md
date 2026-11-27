@@ -1,4 +1,4 @@
-# מי שברך לוועד בית הכנסת
+# Synagogue Board / מי שברך לוועד בית הכנסת
 
 ## לוועד יוצא (for the outgoing board)
 
