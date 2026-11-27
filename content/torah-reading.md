@@ -42,6 +42,102 @@ When calling a person to the Torah, the gabbai announces him in Hebrew by his ow
 
 Which name to use for a convert, or for someone whose father is unknown, is covered under [Names Used When Calling an Oleh](#names-in-announcement) in Annex A.  Learning the names before the service is one of the gabbai's duties (see [Knowing the Names](#knowing-the-names) in Annex B).
 
+### Introductory Readings {#introductory-torah-readings}
+
+Before the first call, the gabbai begins with the form customary for the day.  Congregations vary, and the following headings distinguish only the principal contexts; follow the congregation's established siddur and nusach.
+
+#### Weekdays
+
+When the Torah is unrolled on a weekday, the reader begins:[^tr38]
+
+::: prayer
+וְתִגָּלֶה וְתֵרָאֶה מַלְכוּתוֹ עָלֵינוּ בִּזְמַן קָרוֹב וְיָחוֹן פְּלֵיטָתֵנוּ וּפְלֵיטַת עַמּוֹ בֵּית יִשְׂרָאֵל לְחֵן וּלְחֶסֶד וּלְרַחֲמִים וּלְרָצוֹן וְנֹאמַר אָמֵן.
+:::
+
+*Ve-tigaleh ve-teraeh malkhuto aleinu bi-zman karov ve-yachon pleitateinu u-fleitat amo Beit Yisrael le-chen u-le-chesed u-le-rachamim u-li-ratzon ve-nomar Amen.*
+
+He then announces the Torah:
+
+::: prayer
+הַכֹּל הָבוּ גֹּדֶל לֵאלֹהֵינוּ וּתְנוּ כָבוֹד לַתּוֹרָה.
+:::
+
+*Ha-kol havu godel le-Elokeinu u-tenu kavod la-Torah.*
+
+The Kohen is then called forward with *Kohen krav*; if no Kohen is present, use the local *bimkom Kohen* wording under [No Kohen Present](#no-kohen-present).
+
+#### Shabbat Morning
+
+At Shabbat morning, begin with the Shabbat opening:[^tr39]
+
+::: prayer-shabbat
+וְיַעֲזֹר וְיָגֵן וְיוֹשִׁיעַ לְכָל הַחוֹסִים בּוֹ,
+וְיִגְלֶה מַלְכוּתוֹ עָלֵינוּ בִּזְמַן קָרוֹב,
+וְיִשְׁמַע אֶת כָּל עַמּוֹ יִשְׂרָאֵל וְאֶת תְּפִלּוֹתֵינוּ יִשְׁמַע בְּרַחֲמִים וּלְרָצוֹן.
+
+וְנֹאמַר אָמֵן.
+:::
+
+*Ve-ya'azor ve-yagen ve-yoshi'a le-chol ha-chosim bo, ve-yigaleh malkhuto aleinu bi-zman karov, ve-yishma et kol amo Yisrael ve-et tefilloteinu bi-rachamim u-li-ratzon. Ve-nomar Amen.*
+
+The reader continues:
+
+::: prayer-shabbat
+הַכֹּל הָבוּ גֹּדֶל לֵאלֹהֵינוּ וּתְנוּ כָבוֹד לַתּוֹרָה.
+:::
+
+*Ha-kol havu godel le-Elokeinu u-tenu kavod la-Torah.*
+
+The gabbai then calls the Kohen, Levi and Yisrael according to the formulas below.
+
+#### Shabbat Afternoon
+
+At Shabbat *Mincha*, after the Torah is unrolled, the reader begins:[^tr40]
+
+::: prayer
+וְתִגָּלֶה וְתֵרָאֶה מַלְכוּתוֹ עָלֵינוּ בִּזְמַן קָרוֹב.
+
+וְיָחוֹן פְּלֵיטָתֵנוּ וּפְלֵיטַת עַמּוֹ בֵּית יִשְׂרָאֵל לְחֵן וּלְחֶסֶד וּלְרַחֲמִים וּלְרָצוֹן וְנֹאמַר אָמֵן.
+
+הַכֹּל הָבוּ גֹּדֶל לֵאלֹהֵינוּ וּתְנוּ כָבוֹד לַתּוֹרָה.
+:::
+
+*Ve-tigaleh ve-teraeh malkhuto aleinu bi-zman karov. Ve-yachon pleitateinu u-fleitat amo Beit Yisrael le-chen u-le-chesed u-le-rachamim u-li-ratzon ve-nomar Amen. Ha-kol havu godel le-Elokeinu u-tenu kavod la-Torah.*
+
+He then calls the Kohen; the congregation answers *Ve-atem ha-devekim* after the gabbai's *Baruch she-natan Torah* response.
+
+#### Festivals
+
+On Yom Tov and Chol HaMoed, Siddur Ashkenaz uses the weekday introductory reading.  It is read as the Torah is unrolled, then followed by *Havu godel* and the call for the Kohen:[^tr38][^tr41]
+
+::: prayer-chaggim
+וְתִגָּלֶה וְתֵרָאֶה מַלְכוּתוֹ עָלֵינוּ בִּזְמַן קָרוֹב וְיָחוֹן פְּלֵיטָתֵנוּ וּפְלֵיטַת עַמּוֹ בֵּית יִשְׂרָאֵל לְחֵן וּלְחֶסֶד וּלְרַחֲמִים וּלְרָצוֹן וְנֹאמַר אָמֵן.
+
+הַכֹּל הָבוּ גֹּדֶל לֵאלֹהֵינוּ וּתְנוּ כָבוֹד לַתּוֹרָה.
+:::
+
+*Ve-tigaleh ve-teraeh malkhuto aleinu bi-zman karov ve-yachon pleitateinu u-fleitat amo Beit Yisrael le-chen u-le-chesed u-le-rachamim u-li-ratzon ve-nomar Amen. Ha-kol havu godel le-Elokeinu u-tenu kavod la-Torah.*
+
+The Mi Shebeirach for an oleh adds *li-chvod ha-regel* ("in honour of the pilgrimage festival") in the same place.  The exact holiday wording varies with Pesach, Shavuot and Sukkot; use [Aliyot / עליות](#mi-shebeirach) for the applicable line.
+
+### After the Call
+
+After the opening *Barchu* and Torah blessing, the gabbai says:
+
+::: prayer
+בָּרוּךְ שֶׁנָּתַן תּוֹרָה לְעַמּוֹ יִשְׂרָאֵל בִּקְדֻשָּׁתוֹ.
+:::
+
+*Baruch she-natan Torah le-amo Yisrael bi-kdushato.*
+
+The congregation answers:
+
+::: prayer
+וְאַתֶּם הַדְּבֵקִים בַּיהוה אֱלֹהֵיכֶם חַיִּים כֻּלְּכֶם הַיּוֹם.
+:::
+
+*Ve-attem ha-devekim ba-Adonai Eloheichem chayim kulchem ha-yom.*
+
 ### The Numbered Aliyot {#calling-numbered-aliyot}
 
 The first aliyah is announced by the oleh's status as a Kohen, with no number:
@@ -272,7 +368,7 @@ On Simchat Torah, the order is often different, depending on local custom (many 
 
 ## Correcting Errors {#correcting-errors}
 
-The gabbai must follow the reading carefully in a *tikkun* (a printed book with both the vowelised and unvowelised text side by side) and correct the reader (*ba'al korei*) when a significant error (*taut me'akev*) occurs.[^tr38]
+The gabbai must follow the reading carefully in a *tikkun* (a printed book with both the vowelised and unvowelised text side by side) and correct the reader (*ba'al korei*) when a significant error (*taut me'akev*) occurs.[^tr42]
 
 An error is significant (*me'akev*) if it changes the meaning of the text.  The gabbai must know the text well enough to tell such an error from a minor mispronunciation.  Minor mispronunciations that do not affect meaning need not be corrected publicly, though the gabbai may quietly guide the reader.
 
@@ -323,4 +419,8 @@ An error is significant (*me'akev*) if it changes the meaning of the text.  The 
 [^tr35]: Rema, *Orach Chayyim* 147:8; *Mishnah Berurah* 147:27.
 [^tr36]: Rema, *Orach Chayyim* 282:4; *Mishnah Berurah* 147:27.
 [^tr37]: Shulchan Aruch, *Orach Chayyim* 147:8.
-[^tr38]: Shulchan Aruch, *Orach Chayyim* 142:1; *Mishnah Berurah* 142:4.
+[^tr38]: Siddur Ashkenaz, weekday Shacharit, "Unrolling the Torah" (*Vetigaleh Veteraeh*), via Sefaria's Metsudah siddur text.  The text is also prescribed in *Shulchan Aruch, Orach Chayyim* 135.
+[^tr39]: Siddur Ashkenaz, Shabbat Shacharit, "Veyazor Veyagen," via Sefaria's Daat Siddur Ashkenaz text; compare *Shulchan Aruch, Orach Chayyim* 135.
+[^tr40]: Siddur Ashkenaz, Shabbat Minchah, "Vetigaleh Veteraeh," via Sefaria's Daat Siddur Ashkenaz text.  *Gadlu* and the congregation's response in that section precede this calling passage and are not the introductory reading for the aliyah.
+[^tr41]: The same weekday *Vetigaleh ve-teraeh* sequence is used for Yom Tov and Chol HaMoed in Ashkenaz practice; consult the congregation's siddur for any local or nusach-specific additions.
+[^tr42]: Shulchan Aruch, *Orach Chayyim* 142:1; *Mishnah Berurah* 142:4.
