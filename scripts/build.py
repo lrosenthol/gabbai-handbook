@@ -68,6 +68,7 @@ def build_front_matter(project: dict[str, Any]) -> dict[str, Any]:
         "code-font":     typo.get("code_font",   "DejaVu Sans Mono"),
         "body-size":     typo.get("body_size",   "12pt"),
         "prayer-size":   typo.get("prayer_size", "16pt"),
+        "prayer-hebrew-size": typo.get("prayer_hebrew_size", "18pt"),
         "heading-scale": typo.get("heading_scale", 1.3),
         "paper":         layout.get("paper",          "a4"),
         "top-margin":    layout.get("top_margin",    "2.5cm"),

@@ -15,7 +15,8 @@ typography:
   latin_font_serif: "Source Serif 4"
   code_font: "Source Code Pro"
   body_size: "12pt"
-  prayer_size: "16pt"  # size of ::: prayer blocks (the largest running text)
+  prayer_size: "16pt"  # base size of ::: prayer blocks (English inside them)
+  prayer_hebrew_size: "18pt"  # Hebrew-script runs inside prayer blocks
   # H3 is sized automatically so it never looks smaller than prayer text;
   # H2 and H1 step up from there.  This is the H1 : H3 ratio.
   heading_scale: 1.3

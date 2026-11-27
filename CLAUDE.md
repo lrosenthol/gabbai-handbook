@@ -62,7 +62,7 @@ Content on a page with no page number.
 :::
 
 ::: prayer
-16pt bold text (for Hebrew prayer passages).
+Bold text at `prayer_size` (16pt); Hebrew runs at `prayer_hebrew_size` (18pt).
 :::
 
 ::: prayer-shabbat
@@ -108,7 +108,7 @@ Same as prayer, coloured yellow.
 
 Boolean `rtl` (derived from `direction: rtl` in `project.yaml`) controls title-page order (Hebrew title first vs. English first) and binding side.
 
-Heading sizes: H1–H3 must never *look* smaller than any running text (H4+ may). The template measures Hebrew vs. Latin glyph heights at render time and sizes H3 from `prayer_size` (the size of `::: prayer` blocks, also used by the filter as the Typst variable `prayer-size`); `heading_scale` is the H1 : H3 ratio. Headings request `stretch: 112.5%` because Shofar's bold face is registered as expanded, and plain `weight: "bold"` otherwise picks the regular face. All other typography and layout values (`hebrew-font`, `latin-font`, `body-size`, `paper`, margins, etc.) flow directly from `project.yaml` → front matter → pandoc template substitution.
+Heading sizes: H1–H3 must never *look* smaller than any running text (H4+ may). The template measures Hebrew vs. Latin glyph heights at render time and sizes H3 from `prayer_size` and `prayer_hebrew_size` (the Latin and Hebrew sizes in `::: prayer` blocks, which the filter uses as the Typst variables `prayer-size` and `prayer-hebrew-size`); `heading_scale` is the H1 : H3 ratio. Headings and Hebrew prayer text request `stretch: 112.5%` because Shofar's bold face is registered as expanded, and plain `weight: "bold"` otherwise picks the regular face. All other typography and layout values (`hebrew-font`, `latin-font`, `body-size`, `paper`, margins, etc.) flow directly from `project.yaml` → front matter → pandoc template substitution.
 
 ## Dependencies
 

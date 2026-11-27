@@ -5,7 +5,7 @@
 // Variables set by build.py via YAML front matter:
 //   title, title-he, subtitle, author, date
 //   rtl (bool), hebrew-font, latin-font, code-font
-//   body-size, prayer-size, heading-scale, paper
+//   body-size, prayer-size, prayer-hebrew-size, heading-scale, paper
 //   top-margin, bottom-margin, right-margin, left-margin, two-sided
 
 // ── PDF document properties ──────────────────────────────────────────────────
@@ -94,8 +94,8 @@ $endif$
 // ── Headings ──────────────────────────────────────────────────────────────────
 
 // Rule: H1–H3 must never LOOK smaller than any running text.  The largest
-// running text is prayer text (prayer-size, Hebrew).  Point size alone is not
-// enough because the scripts differ: Shofar's Hebrew letters stand taller per
+// running text is prayer text (Hebrew at prayer-hebrew-size, Latin at
+// prayer-size).  Point size alone is not enough because the scripts differ: Shofar's Hebrew letters stand taller per
 // em than Source Sans lowercase.  So we measure, at render time, the ink
 // height of a Hebrew letter and of a Latin x-height in the configured fonts,
 // and size H3 so that its smallest-looking glyphs are at least as tall as the
@@ -111,6 +111,7 @@ $endif$
 // Latin fonts without an expanded face fall back to their normal width.
 
 #let prayer-size = $prayer-size$
+#let prayer-hebrew-size = $prayer-hebrew-size$
 #let heading-text = (weight: "bold", stretch: 112.5%)
 
 // Ink height (baseline to top of glyph) at 100pt.  Requires context.
@@ -123,8 +124,11 @@ $endif$
   if level >= 4 { return $body-size$ }
   let hebrew = _ink("$hebrew-font$", "ה")
   let latin  = _ink("$latin-font$", "x")
-  // Make the smallest heading glyph match the largest prayer glyph.
-  let h3 = prayer-size * (calc.max(hebrew, latin) / calc.min(hebrew, latin))
+  // Make the smallest heading glyph match the largest prayer glyph.  The
+  // ink heights are at 100pt, so scale each by its prayer size / 100pt.
+  let prayer-ink = calc.max(hebrew * (prayer-hebrew-size / 100pt),
+                            latin  * (prayer-size / 100pt))
+  let h3 = 100pt * (prayer-ink / calc.min(hebrew, latin))
   h3 * calc.pow($heading-scale$, (3 - level) / 2)
 }
 

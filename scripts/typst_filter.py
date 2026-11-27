@@ -36,6 +36,35 @@ import sys
 from pandocfilters import toJSONFilter, RawBlock, RawInline, stringify, Para
 
 
+# ── Prayer blocks ─────────────────────────────────────────────────────────────
+# Sizes come from project.yaml via Typst variables defined in the template:
+#   prayer-size         — the block's base size (English instructions, etc.)
+#   prayer-hebrew-size  — Hebrew-script runs.  Shofar looks noticeably smaller
+#                         than Source Sans 3 at the same point size, so the
+#                         Hebrew (the actual prayer) is set larger to stay
+#                         visually dominant over interleaved English.
+# The heading sizes in the template are derived from both values, so H1–H3
+# never look smaller than prayer text.
+#
+# Shofar's bold face (ShofarDemi-Bold.ttf) is registered as a *wider* stretch
+# (112.5%) than the regular face.  Typst matches stretch before weight, so a
+# plain weight: "bold" silently falls back to Shofar Regular.  Hebrew runs
+# therefore also request PRAYER_HEBREW_STRETCH so the bold face is selected.
+
+PRAYER_HEBREW_STRETCH = "112.5%"  # selects ShofarDemi-Bold for weight: bold
+
+
+def _prayer_wrapper(fill: str = "") -> tuple[str, str]:
+    fill_arg = f", fill: {fill}" if fill else ""
+    return (
+        "#block[\n"
+        f'  #set text(size: prayer-size, weight: "bold"{fill_arg}, dir: rtl)\n'
+        f'  #show regex("\\p{{Hebrew}}+"): set text('
+        f'size: prayer-hebrew-size, stretch: {PRAYER_HEBREW_STRETCH})\n',
+        "\n]\n",
+    )
+
+
 # ── Simple div wrappers ───────────────────────────────────────────────────────
 # Each entry: css-class → (typst_before, typst_after)
 # The inner content is converted to Typst by pandoc's writer as normal.
