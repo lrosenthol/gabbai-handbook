@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Main build script: Markdown → Pandoc → Typst → PDF."""
 
+import re
 import subprocess
 import sys
 import shutil
@@ -66,7 +67,9 @@ def build_front_matter(project: dict[str, Any]) -> dict[str, Any]:
         "latin-font":    typo.get("latin_font",  "TeX Gyre Pagella"),
         "code-font":     typo.get("code_font",   "DejaVu Sans Mono"),
         "body-size":     typo.get("body_size",   "12pt"),
-        "heading-scale": typo.get("heading_scale", 1.4),
+        "prayer-size":   typo.get("prayer_size", "16pt"),
+        "prayer-hebrew-size": typo.get("prayer_hebrew_size", "18pt"),
+        "heading-scale": typo.get("heading_scale", 1.3),
         "paper":         layout.get("paper",          "a4"),
         "top-margin":    layout.get("top_margin",    "2.5cm"),
         "bottom-margin": layout.get("bottom_margin", "2.5cm"),
@@ -78,6 +81,36 @@ def build_front_matter(project: dict[str, Any]) -> dict[str, Any]:
 
 
 # ── Markdown assembly ─────────────────────────────────────────────────────────
+
+_ATX_HEADING = re.compile(r"^(#{1,6})(?=\s|$)")
+_FENCE = re.compile(r"^\s{0,3}(`{3,}|~{3,})")
+
+
+def demote_headings(text: str, levels: int = 1) -> str:
+    """Push every ATX heading down *levels* levels (``#`` → ``##``, …).
+
+    Used for files inside a content folder: each file keeps its own ``#``
+    title, which becomes a sub-heading of the folder's chapter heading.
+    Fenced code blocks are left untouched; headings never exceed level 6.
+    """
+    out = []
+    fence = None
+    for line in text.split("\n"):
+        m = _FENCE.match(line)
+        if m:
+            marker = m.group(1)
+            if fence is None:
+                fence = marker
+            elif marker[0] == fence[0] and len(marker) >= len(fence):
+                fence = None
+        elif fence is None:
+            h = _ATX_HEADING.match(line)
+            if h:
+                new_level = min(len(h.group(1)) + levels, 6)
+                line = "#" * new_level + line[len(h.group(1)):]
+        out.append(line)
+    return "\n".join(out)
+
 
 def assemble_markdown(project: dict[str, Any]) -> Path:
     """Combine content files in project order into one markdown document."""
@@ -108,7 +141,7 @@ def assemble_markdown(project: dict[str, Any]) -> Path:
                     print(f"Warning: {md_path} not found — skipping.", file=sys.stderr)
                     continue
                 raw = md_path.read_text(encoding="utf-8")
-                processed = preprocess(raw, project)
+                processed = demote_headings(preprocess(raw, project))
                 parts.append("")
                 parts.append(processed)
             continue

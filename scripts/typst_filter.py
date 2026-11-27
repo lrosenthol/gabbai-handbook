@@ -36,6 +36,35 @@ import sys
 from pandocfilters import toJSONFilter, RawBlock, RawInline, stringify, Para
 
 
+# ── Prayer blocks ─────────────────────────────────────────────────────────────
+# Sizes come from project.yaml via Typst variables defined in the template:
+#   prayer-size         — the block's base size (English instructions, etc.)
+#   prayer-hebrew-size  — Hebrew-script runs.  Shofar looks noticeably smaller
+#                         than Source Sans 3 at the same point size, so the
+#                         Hebrew (the actual prayer) is set larger to stay
+#                         visually dominant over interleaved English.
+# The heading sizes in the template are derived from both values, so H1–H3
+# never look smaller than prayer text.
+#
+# Shofar's bold face (ShofarDemi-Bold.ttf) is registered as a *wider* stretch
+# (112.5%) than the regular face.  Typst matches stretch before weight, so a
+# plain weight: "bold" silently falls back to Shofar Regular.  Hebrew runs
+# therefore also request PRAYER_HEBREW_STRETCH so the bold face is selected.
+
+PRAYER_HEBREW_STRETCH = "112.5%"  # selects ShofarDemi-Bold for weight: bold
+
+
+def _prayer_wrapper(fill: str = "") -> tuple[str, str]:
+    fill_arg = f", fill: {fill}" if fill else ""
+    return (
+        "#block[\n"
+        f'  #set text(size: prayer-size, weight: "bold"{fill_arg}, dir: rtl)\n'
+        f'  #show regex("\\p{{Hebrew}}+"): set text('
+        f'size: prayer-hebrew-size, stretch: {PRAYER_HEBREW_STRETCH})\n',
+        "\n]\n",
+    )
+
+
 # ── Simple div wrappers ───────────────────────────────────────────────────────
 # Each entry: css-class → (typst_before, typst_after)
 # The inner content is converted to Typst by pandoc's writer as normal.
@@ -63,23 +92,23 @@ DIV_WRAPPERS: dict[str, tuple[str, str]] = {
         "\n]\n",
     ),
     "prayer": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", dir: rtl)\n',
+        '#block[\n  #set text(size: prayer-size, weight: "bold", dir: rtl)\n',
         "\n]\n",
     ),
     "prayer-shabbat": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", fill: red, dir: rtl)\n',
+        '#block[\n  #set text(size: prayer-size, weight: "bold", fill: red, dir: rtl)\n',
         "\n]\n",
     ),
     "prayer-chaggim": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", fill: green, dir: rtl)\n',
+        '#block[\n  #set text(size: prayer-size, weight: "bold", fill: green, dir: rtl)\n',
         "\n]\n",
     ),
     "prayer-high-holidays": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", fill: yellow, dir: rtl)\n',
+        '#block[\n  #set text(size: prayer-size, weight: "bold", fill: yellow, dir: rtl)\n',
         "\n]\n",
     ),
     "prayer-shabbat-chaggim": (
-        '#block[\n  #set text(size: 16pt, weight: "bold", fill: purple, dir: rtl)\n',
+        '#block[\n  #set text(size: prayer-size, weight: "bold", fill: purple, dir: rtl)\n',
         "\n]\n",
     ),
     # Community-specific note boxes
@@ -99,6 +128,46 @@ DIV_WRAPPERS: dict[str, tuple[str, str]] = {
         "\n]\n",
     ),
 }
+
+
+# ── Admonitions ───────────────────────────────────────────────────────────────
+# css-class → (label, Typst colour).  Rendered with the `admonition` function
+# defined in templates/pandoc-template.typ.  A paragraph that begins with one
+# of the labels followed by a colon (e.g. "NOTE: …") is converted the same way.
+
+ADMONITIONS: dict[str, tuple[str, str]] = {
+    "note":      ("NOTE",      "luma(90)"),
+    "tip":       ("TIP",       "rgb(\"#2e7d32\")"),
+    "important": ("IMPORTANT", "rgb(\"#1565c0\")"),
+    "warning":   ("WARNING",   "rgb(\"#e65100\")"),
+    "caution":   ("CAUTION",   "rgb(\"#c62828\")"),
+}
+
+for _cls, (_label, _color) in ADMONITIONS.items():
+    DIV_WRAPPERS[_cls] = (
+        f"#admonition([{_label}], color: {_color})[\n",
+        "\n]\n",
+    )
+
+_ADMONITION_PREFIXES = {f"{label}:": cls for cls, (label, _) in ADMONITIONS.items()}
+
+
+def _admonition_para(block):
+    """If `block` is a Para starting with e.g. "NOTE:", return it as an
+    admonition (list of blocks); otherwise return None."""
+    if block.get("t") != "Para":
+        return None
+    inlines = block["c"]
+    if not inlines or inlines[0].get("t") != "Str":
+        return None
+    cls = _ADMONITION_PREFIXES.get(inlines[0]["c"])
+    if cls is None:
+        return None
+    rest = inlines[1:]
+    while rest and rest[0].get("t") in ("Space", "SoftBreak"):
+        rest = rest[1:]
+    before, after = DIV_WRAPPERS[cls]
+    return [RawBlock("typst", before), Para(rest), RawBlock("typst", after)]
 
 
 # ── Span styles ───────────────────────────────────────────────────────────────
@@ -130,7 +199,7 @@ def _meta_bool(meta, key, default=False):
 
 
 def _handle_toc(blocks, classes, kvs, meta):
-    """Render a .toc div as a Typst outline page, then reset the page counter."""
+    """Render a .toc div as an unnumbered Typst outline; the page after it is page 1."""
     rtl = _meta_bool(meta, "rtl")
     title = "תוכן העניינים / Contents" if rtl else "Contents / תוכן העניינים"
     # Each outline entry is rendered as a 3-column grid (body | dots | page)
@@ -155,8 +224,12 @@ def _handle_toc(blocks, classes, kvs, meta):
         "    depth: 2,\n"
         "    indent: 1em,\n"
         "  )\n"
+        # Reset at the end of the (last) TOC page so the following page is
+        # numbered 1.  An update placed *after* the TOC would land on the
+        # next page after its header was drawn, so that header would still
+        # show the old number.
+        "  #counter(page).update(0)\n"
         "]\n"
-        "#counter(page).update(1)\n"
     )
     return [RawBlock("typst", typst)]
 
@@ -291,7 +364,8 @@ def _process_blocks(blocks, meta):
         elif block.get('t') == 'Table':
             result.append(_auto_table_widths(block['c']))
         else:
-            result.append(block)
+            converted = _admonition_para(block)
+            result.extend(converted if converted is not None else [block])
     return result
 
 
@@ -318,6 +392,9 @@ def _transform(key, value, fmt, meta):
 
     if key == "Table":
         return _auto_table_widths(value)
+
+    if key == "Para":
+        return _admonition_para({"t": key, "c": value})
 
     if key == "Span":
         attrs, inlines = value

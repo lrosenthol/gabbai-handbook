@@ -62,7 +62,7 @@ Content on a page with no page number.
 :::
 
 ::: prayer
-16pt bold text (for Hebrew prayer passages).
+Bold text at `prayer_size` (16pt); Hebrew runs at `prayer_hebrew_size` (18pt).
 :::
 
 ::: prayer-shabbat
@@ -76,7 +76,21 @@ Same as prayer, coloured green.
 ::: prayer-high-holidays
 Same as prayer, coloured yellow.
 :::
+
+::: note
+Boxed admonition with a "NOTE" label (ISO / AsciiDoc style).
+Also: tip, important, warning, caution.
+:::
 ```
+
+A paragraph that starts with `NOTE:` (or `TIP:`, `IMPORTANT:`, `WARNING:`,
+`CAUTION:`) is turned into the same admonition automatically; the prefix is
+replaced by the label.  The box itself is the `admonition` function in
+`templates/pandoc-template.typ`.
+
+Page numbers run consecutively through the book: the counter is reset once,
+at the end of the TOC, so the Introduction is page 1.  Pages created with
+`numbering: none` (cover, TOC, `typst-page-unnumbered`) have no running header.
 
 **Inline spans** — add a class to bracketed text:
 
@@ -86,6 +100,7 @@ Same as prayer, coloured yellow.
 
 **Extending the filter** — open `scripts/typst_filter.py` and add to:
 - `DIV_WRAPPERS` for a simple before/after Typst wrapper around block content
+- `ADMONITIONS` for another NOTE-style box (label + colour)
 - `DIV_HANDLERS` for a Python function with full control (like `cover-page`)
 - `SPAN_STYLES` for an inline Typst template
 
@@ -99,13 +114,16 @@ Same as prayer, coloured yellow.
 ## Content authoring
 
 - Markdown files live in `content/`, listed in order under the `content:` key in `project.yaml`.
+- A `folder:` entry in `project.yaml` produces a level-1 chapter heading from its `title`; every heading in the folder's files is demoted one level at build time (`demote_headings` in `scripts/build.py`). Files inside a folder therefore still start with `#`, which becomes a sub-heading of the chapter.
 - Write Hebrew and English naturally in the same file; `auto-bidi` detects direction per paragraph from the first strong character.
 - Images go in `images/` and are referenced as `![alt](images/foo.png)` or `![alt](../images/foo.png)` — preprocess normalises paths.
 - Fonts go in `fonts/`; names used in `project.yaml` must match the font's internal name exactly.
 
 ## Key variables passed through the template
 
-Boolean `rtl` (derived from `direction: rtl` in `project.yaml`) controls title-page order (Hebrew title first vs. English first) and binding side. All other typography and layout values (`hebrew-font`, `latin-font`, `body-size`, `paper`, margins, etc.) flow directly from `project.yaml` → front matter → pandoc template substitution.
+Boolean `rtl` (derived from `direction: rtl` in `project.yaml`) controls title-page order (Hebrew title first vs. English first) and binding side.
+
+Heading sizes: H1–H3 must never *look* smaller than any running text (H4+ may). The template measures Hebrew vs. Latin glyph heights at render time and sizes H3 from `prayer_size` and `prayer_hebrew_size` (the Latin and Hebrew sizes in `::: prayer` blocks, which the filter uses as the Typst variables `prayer-size` and `prayer-hebrew-size`); `heading_scale` is the H1 : H3 ratio. Headings and Hebrew prayer text request `stretch: 112.5%` because Shofar's bold face is registered as expanded, and plain `weight: "bold"` otherwise picks the regular face. All other typography and layout values (`hebrew-font`, `latin-font`, `body-size`, `paper`, margins, etc.) flow directly from `project.yaml` → front matter → pandoc template substitution.
 
 ## Dependencies
 
