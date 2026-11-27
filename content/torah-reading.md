@@ -205,6 +205,20 @@ Lifting a full, open scroll takes strength and practice.  The gabbai should only
 
 The magbi'ah then sits down holding the scroll, and the golel rolls it closed.
 
+::: note-chabad
+**Chabad custom:** Hagbah is done after the reading, as in Ashkenazic communities, but the scroll is lifted twice: first open and then closed, so that the honour is done according to every opinion.  The magbi'ah:
+
+1. Opens the scroll a little less than three columns.  He stands with his feet together and slides the scroll toward himself until about a third of it is past the edge of the bimah.
+2. Presses down on the handles and lifts, opening it a little more in the air so that three columns show.
+3. Without moving his feet, turns the scroll to the right, to the left, and to the right again.
+4. Puts the scroll back down on the bimah and closes it.  He does **not** sit down while the scroll is still open.
+5. Lifts the closed scroll, steps back, and sits down holding it for gelilah.
+
+The congregation does not point at the scroll with a finger.  Following the Arizal, each person tries to look at the writing from close by and find a letter of his own name.
+
+The gabbai should have the chair ready behind the magbi'ah while he is lifting, and should remind a guest of this order beforehand.  The Rebbe insisted on putting the scroll back on the bimah between hagbah and gelilah.[^tr34]
+:::
+
 ### Gelilah (גְּלִילָה)
 
 The golel rolls the scroll closed and dresses it: the belt (*gartel*), the mantle, and then the breastplate, pointer (*yad*) and crown as the community does it.  The scroll should be rolled tight and closed so that the two rollers meet at a seam between two sheets of parchment.  That way, if it ever tears, it tears at the seam.[^tr26]  The Talmud teaches that the golel receives a reward equal to that of all who read from the Torah.[^tr27]
@@ -292,3 +306,4 @@ An error is significant (*me'akev*) if it changes the meaning of the text.  The 
 [^tr31]: Rema, *Orach Chayyim* 282:4; *Mishnah Berurah* 147:27.
 [^tr32]: Shulchan Aruch, *Orach Chayyim* 147:8.
 [^tr33]: Shulchan Aruch, *Orach Chayyim* 142:1; *Mishnah Berurah* 142:4.
+[^tr34]: *Sefer HaMinhagim* (Chabad), p. 15; the Rebbe at the Lag BaOmer farbrengen of 5707, *Torat Menachem – Hitva'aduyot* 5683–5710, p. 103; *Igrot Kodesh* vol. 19, letter 7282, and the letter of 14 Sivan 5720, which notes that the *Aruch HaShulchan* praises this custom.  Tractate *Soferim* (ch. 14) is the earliest source for showing the writing to all sides.  See [Chabadpedia: Hagbahah](https://chabadpedia.com/index.php?title=Hagbahah).
