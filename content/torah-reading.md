@@ -136,7 +136,7 @@ A different Kohen is never called for the second aliyah, and a Yisrael is not ca
 
 If the only Kohen present is reciting *Keriat Shema*, its blessings, or the *Amidah*, and may not interrupt, a Yisrael is called in his place.  The gabbai does not wait for him, and does not even delay taking out the Torah.[^tr14]  If the Kohen is between paragraphs (*bein ha-perakim*) and there is no other Kohen, he may be called.[^tr15]  When a Yisrael (or a Levi) is called in place of a Kohen who is in the room, the gabbai announces him *bimkom Kohen* as usual but does not say *ein kan Kohen*, since there is a Kohen here.[^tr16]
 
-On the fasts that follow Pesach and Sukkot (the *Vayechal* fasts), a Kohen who is not fasting is not called.  A Yisrael is called instead, and ideally the Kohen leaves the room so no one wonders why he was passed over.[^tr17]  (Whether the same applies on the other public fasts is not addressed in the sources cited here.)
+On the fasts that follow Pesach and Sukkot (the *Vayechal* fasts), a Kohen who is not fasting is not called.  A Yisrael is called instead, and ideally the Kohen leaves the room so no one wonders why he was passed over.[^tr17]  On the other public fasts the rule is firmer: a Kohen who is not fasting should leave the synagogue, because everyone knows that nearly everyone fasts on those days, and people would assume that he was passed over for being disqualified.[^tr17a]  If another Kohen who is fasting is present, the first Kohen need not leave, but he should tell the *shaliach tzibbur* not to call him.[^tr17b]  A Levi who is not fasting is likewise not called; see [No Levi Present](#no-levi-present).
 
 If the gabbai wants to give the first aliyah to someone else while a Kohen is in the room, the Kohen must first waive his right or leave the room (see [Kohen, Levi, and Yisrael](#kohen-levi-yisrael) in Annex A).
 
@@ -283,6 +283,8 @@ An error is significant (*me'akev*) if it changes the meaning of the text.  The 
 [^tr15]: *Mishnah Berurah* 135:17.
 [^tr16]: *Kitzur Shulchan Aruch* 23:10.
 [^tr17]: *Rama*, *Orach Chayyim* 135:5; *Mishnah Berurah* 135:18.
+[^tr17a]: Shulchan Aruch, *Orach Chayyim* 566:6 (a Kohen who is not fasting leaves the synagogue, and a fasting Yisrael is called); *Mishnah Berurah* 566:21 (on the Vayechal fasts there is no concern if he stays, "but on the fasts written in Scripture, which everyone fasts except the sick, there is a stigma if he does not leave"); *Taz*, *Orach Chayyim* 135:5; *Kaf HaChaim*, *Orach Chayyim* 135:32 (the *Beit Yosef* is lenient only for the Vayechal fasts; on a public fast even Maran rules that he must leave). The *Mishnah Berurah* adds that if a non-fasting Kohen was called at Mincha anyway, the authorities disagree on whether he goes up (the concern being a blessing in vain), so he should be careful to be out of the room.
+[^tr17b]: *Mishnah Berurah* 135:18 and 566:21; *Kaf HaChaim*, *Orach Chayyim* 135:33.
 [^tr18]: Shulchan Aruch, *Orach Chayyim* 135:6; *Mishnah Berurah* 135:19–20.
 [^tr19]: Shulchan Aruch, *Orach Chayyim* 135:6; *Mishnah Berurah* 135:21–22.
 [^tr20]: Shulchan Aruch, *Orach Chayyim* 135:11.
