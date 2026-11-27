@@ -55,8 +55,13 @@ $endif$
 $if(two-sided)$
   binding: $if(rtl)$right$else$left$endif$,
 $endif$
+  // Page numbers run consecutively through the whole book: the counter is
+  // reset once, after the table of contents, and never per chapter.  Pages
+  // set with `numbering: none` (cover, TOC, `typst-page-unnumbered`) get no
+  // running header.  The footer is disabled so the number appears only here.
+  numbering: "1",
   header: context {
-    if counter(page).get().first() > 1 [
+    if here().page-numbering() != none [
       #set text(size: 0.85em)
       #if calc.odd(counter(page).get().first()) [
         #grid(columns: (1fr, 1fr),
@@ -85,10 +90,11 @@ $endif$
 
 // ── Paragraph style ───────────────────────────────────────────────────────────
 
+// Paragraphs are separated by vertical space only — no first-line indent.
 #set par(
   justify:           true,
   leading:           0.75em,
-  first-line-indent: 1.2em,
+  first-line-indent: 0em,
 )
 
 // ── Headings ──────────────────────────────────────────────────────────────────
@@ -129,6 +135,29 @@ $endif$
   above: 0.8em,
   below: 0.8em,
 )[#it]
+
+// ── Admonitions (NOTE, TIP, …) ───────────────────────────────────────────────
+// Emitted by scripts/typst_filter.py for `::: note` (and tip / important /
+// warning / caution) divs, and for paragraphs that begin with "NOTE:".
+// Styled after ISO notes / AsciiDoc admonitions: a bold label above slightly
+// smaller body text in a lightly tinted, fully bordered box (a full border
+// rather than a side bar, so it reads the same in RTL and LTR paragraphs).
+
+#let admonition(label, color: luma(90), body) = block(
+  width:  100%,
+  inset:  (x: 10pt, y: 8pt),
+  radius: 3pt,
+  stroke: 0.6pt + color,
+  fill:   color.lighten(92%),
+  above:  1em,
+  below:  1em,
+  breakable: true,
+)[
+  #text(size: 0.8em, weight: "bold", fill: color, tracking: 0.08em)[#label]
+  #v(0.3em, weak: true)
+  #set text(size: 0.92em)
+  #body
+]
 
 // ── Cross-references ─────────────────────────────────────────────────────────
 // Internal markdown links ([text](#heading-id)) become links to Typst labels.

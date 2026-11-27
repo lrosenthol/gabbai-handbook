@@ -101,6 +101,46 @@ DIV_WRAPPERS: dict[str, tuple[str, str]] = {
 }
 
 
+# ── Admonitions ───────────────────────────────────────────────────────────────
+# css-class → (label, Typst colour).  Rendered with the `admonition` function
+# defined in templates/pandoc-template.typ.  A paragraph that begins with one
+# of the labels followed by a colon (e.g. "NOTE: …") is converted the same way.
+
+ADMONITIONS: dict[str, tuple[str, str]] = {
+    "note":      ("NOTE",      "luma(90)"),
+    "tip":       ("TIP",       "rgb(\"#2e7d32\")"),
+    "important": ("IMPORTANT", "rgb(\"#1565c0\")"),
+    "warning":   ("WARNING",   "rgb(\"#e65100\")"),
+    "caution":   ("CAUTION",   "rgb(\"#c62828\")"),
+}
+
+for _cls, (_label, _color) in ADMONITIONS.items():
+    DIV_WRAPPERS[_cls] = (
+        f"#admonition([{_label}], color: {_color})[\n",
+        "\n]\n",
+    )
+
+_ADMONITION_PREFIXES = {f"{label}:": cls for cls, (label, _) in ADMONITIONS.items()}
+
+
+def _admonition_para(block):
+    """If `block` is a Para starting with e.g. "NOTE:", return it as an
+    admonition (list of blocks); otherwise return None."""
+    if block.get("t") != "Para":
+        return None
+    inlines = block["c"]
+    if not inlines or inlines[0].get("t") != "Str":
+        return None
+    cls = _ADMONITION_PREFIXES.get(inlines[0]["c"])
+    if cls is None:
+        return None
+    rest = inlines[1:]
+    while rest and rest[0].get("t") in ("Space", "SoftBreak"):
+        rest = rest[1:]
+    before, after = DIV_WRAPPERS[cls]
+    return [RawBlock("typst", before), Para(rest), RawBlock("typst", after)]
+
+
 # ── Span styles ───────────────────────────────────────────────────────────────
 # Each entry: css-class → Typst template  ({text} = the span's plain text)
 
@@ -130,7 +170,7 @@ def _meta_bool(meta, key, default=False):
 
 
 def _handle_toc(blocks, classes, kvs, meta):
-    """Render a .toc div as a Typst outline page, then reset the page counter."""
+    """Render a .toc div as an unnumbered Typst outline; the page after it is page 1."""
     rtl = _meta_bool(meta, "rtl")
     title = "תוכן העניינים / Contents" if rtl else "Contents / תוכן העניינים"
     # Each outline entry is rendered as a 3-column grid (body | dots | page)
@@ -155,8 +195,12 @@ def _handle_toc(blocks, classes, kvs, meta):
         "    depth: 2,\n"
         "    indent: 1em,\n"
         "  )\n"
+        # Reset at the end of the (last) TOC page so the following page is
+        # numbered 1.  An update placed *after* the TOC would land on the
+        # next page after its header was drawn, so that header would still
+        # show the old number.
+        "  #counter(page).update(0)\n"
         "]\n"
-        "#counter(page).update(1)\n"
     )
     return [RawBlock("typst", typst)]
 
@@ -276,7 +320,8 @@ def _process_blocks(blocks, meta):
             if not matched:
                 result.append(block)
         else:
-            result.append(block)
+            converted = _admonition_para(block)
+            result.extend(converted if converted is not None else [block])
     return result
 
 
@@ -300,6 +345,9 @@ def _transform(key, value, fmt, meta):
             if cls in DIV_WRAPPERS:
                 before, after = DIV_WRAPPERS[cls]
                 return [RawBlock("typst", before)] + _process_blocks(blocks, meta) + [RawBlock("typst", after)]
+
+    if key == "Para":
+        return _admonition_para({"t": key, "c": value})
 
     if key == "Span":
         attrs, inlines = value
