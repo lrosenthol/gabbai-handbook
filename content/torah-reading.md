@@ -36,7 +36,7 @@ NOTE: Fast Days refer to the public fasts: Tzom Gedaliah, Asarah b'Tevet, Ta'ani
 
 ## Calling an *Oleh* {#calling-an-oleh}
 
-When calling a person to the Torah, the gabbai announces him in Hebrew by his own Hebrew name and his father's Hebrew name, joined by *ben* ("son of").  Every call opens with *ya'amod* ("let him stand"); only the ending changes.  All of the calling formulas are collected in this section, and the sections that follow refer back to them.  The formulas assume a male oleh; the congregation's rabbi should be asked about the wording for a *bat* where women are called.
+When calling a person to the Torah, the gabbai announces him in Hebrew by his own Hebrew name and his father's Hebrew name, joined by *ben* ("son of").  Every call opens with *ya'amod* ("let him stand"); only the ending changes.  The calling formulas are collected in this section, and the sections that follow refer back to them.  The *bimkom Kohen* and *bimkom Levi* formulas are the one exception: they appear with the rules for when there is no Kohen or Levi, and are linked from here.  The formulas assume a male oleh; the congregation's rabbi should be asked about the wording for a *bat* where women are called.
 
 <!-- Editors: the numbered formula is ya'amod … [ordinal] (e.g. שְׁלִישִׁי), deliberately without la'aliyat / לַעֲלִיָּה, which an earlier draft used. -->
 
@@ -64,19 +64,9 @@ If a Kohen or Levi is called for a later aliyah (for example, *acharon* or mafti
 
 <!-- Chabad wording for calling an oleh: removed until the actual wording is verified in Sefer HaMinhagim or the siddur (the earlier Hayom Yom citation did not check out). -->
 
-### When There Is No Kohen or Levi {#calling-no-kohen-levi}
+### In Place of a Kohen or Levi (*Bimkom*)
 
-When there is no Kohen, the first oleh (a Yisrael or a Levi) is announced *in place of a Kohen* (*bimkom Kohen*):
-
-יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] בִּמְקוֹם כֹּהֵן
-
-Many gabbaim first say *ein kan Kohen* (אֵין כָּאן כֹּהֵן, "there is no Kohen here").  This is a common custom, not a requirement.  The second oleh is then a Yisrael, announced with the number *sheni* (שֵׁנִי).
-
-When there is a Kohen but no Levi, the same Kohen is called again for the second aliyah, *in place of a Levi* (*bimkom Levi*):
-
-יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] הַכֹּהֵן בִּמְקוֹם לֵוִי
-
-For when each of these applies, see [When a Kohen or Levi Isn't Present](#no-kohen-or-levi).
+When there is no Kohen, the first oleh is announced *bimkom Kohen* ("in place of a Kohen"); when there is no Levi, the Kohen is called again *bimkom Levi*.  The wording is given with the rules for each case: see [No Kohen Present](#no-kohen-present) and [No Levi Present](#no-levi-present).
 
 ### Maftir {#calling-maftir}
 
@@ -114,15 +104,29 @@ For the third scroll, say שְׁלִישִׁי in place of שֵׁנִי.
 
 Normally the first aliyah goes to a *Kohen* and the second to a *Levi* (see [Kohen, Levi, and Yisrael](#kohen-levi-yisrael) in Annex A).  Before the Torah is taken out, the gabbai should look around the room to see who is there, so the first two aliyot can be planned before the reading starts.
 
-### No Kohen Present
+### No Kohen Present {#no-kohen-present}
 
-If there is no Kohen in the synagogue, the usual order no longer applies (*nitperdah ha-chavilah*, "the bundle has come apart").  A *Yisrael* is called for the first aliyah *in place of a Kohen* (*bimkom Kohen*).[^tr3]  A Levi may be called first instead, unless a Yisrael of greater standing is present, in which case the Yisrael is called.[^tr4]  Whoever is called, the gabbai announces that he is coming up *bimkom Kohen*, so that no one mistakes him for a Kohen.[^tr5]  For the wording, see [When There Is No Kohen or Levi](#calling-no-kohen-levi).
+If there is no Kohen in the synagogue, the usual order no longer applies (*nitperdah ha-chavilah*, "the bundle has come apart").  A *Yisrael* is called for the first aliyah *in place of a Kohen* (*bimkom Kohen*).[^tr3]  A Levi may be called first instead, unless a Yisrael of greater standing is present, in which case the Yisrael is called.[^tr4]  Whoever is called, the gabbai announces that he is coming up *bimkom Kohen*, so that no one mistakes him for a Kohen.[^tr5]
 
-Once the first aliyah has gone to someone other than a Kohen, **a Levi is not called for the second aliyah**.  Otherwise people, especially anyone who arrived after the announcement, would assume the first oleh was a Kohen.  The second aliyah goes to a Yisrael and is announced as *sheni*.[^tr6]  In the same way, if a Levi was called first, another Levi must not be called second.[^tr7]  Authorities disagree about calling a Levi for a later aliyah (third or fourth) after a Yisrael was called *bimkom Kohen*.  Where the custom is to call Kohanim and Leviim only for *acharon* or *maftir*, the question doesn't come up.[^tr4]
+A Yisrael is announced:
 
-### No Levi Present
+יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] בִּמְקוֹם כֹּהֵן
 
-If a Kohen is present but there is no Levi, **the Kohen who received the first aliyah is called again for the second**, *in place of a Levi* (*bimkom Levi*).  He recites both blessings again.[^tr8]  For the wording, see [When There Is No Kohen or Levi](#calling-no-kohen-levi).
+A Levi is announced with *ha-Levi* before *bimkom Kohen*:
+
+יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] הַלֵּוִי בִּמְקוֹם כֹּהֵן
+
+<!-- TODO: source for the ein kan Kohen custom (being researched). -->
+
+Many gabbaim first say *ein kan Kohen* (אֵין כָּאן כֹּהֵן, "there is no Kohen here").  This is a common custom, not a requirement.
+
+Once the first aliyah has gone to someone other than a Kohen, **a Levi is not called for the second aliyah**.  Otherwise people, especially anyone who arrived after the announcement, would assume the first oleh was a Kohen.  The second aliyah goes to a Yisrael and is announced with the number *sheni* (שֵׁנִי).[^tr6]  In the same way, if a Levi was called first, another Levi must not be called second.[^tr7]  Authorities disagree about calling a Levi for a later aliyah (third or fourth) after a Yisrael was called *bimkom Kohen*.  Where the custom is to call Kohanim and Leviim only for *acharon* or *maftir*, the question doesn't come up.[^tr4]
+
+### No Levi Present {#no-levi-present}
+
+If a Kohen is present but there is no Levi, **the Kohen who received the first aliyah is called again for the second**, *in place of a Levi* (*bimkom Levi*).  He recites both blessings again.[^tr8]  He is announced:
+
+יַעֲמֹד [שֵׁם] בֶּן [שֵׁם הָאָב] הַכֹּהֵן בִּמְקוֹם לֵוִי
 
 A different Kohen is never called for the second aliyah, and a Yisrael is not called in place of the Levi.  Either would suggest that the first Kohen is not a proper Kohen.[^tr9]  This applies even on a fast day when the Levi who is present is not fasting.  The Kohen repeats *bimkom Levi* rather than a Yisrael being called.[^tr10]  The third aliyah onward goes to Yisraelim as usual.
 
