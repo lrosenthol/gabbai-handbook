@@ -171,6 +171,8 @@ After the maftir reading, the second (or only) scroll is lifted and wrapped (see
 
 For the text of the blessings before and after the haftarah, and which form to use on each day, see the [Haftarah Blessings](#haftarah-blessings) chapter.
 
+For the full Torah blessings said by each oleh, and for the blessing of *Birkat HaGomel*, see [Torah and Gomel Blessings](#torah-and-gomel-blessings).
+
 ## Hagbah and Gelilah {#hagbah-gelilah}
 
 After the final aliyah (including maftir), two more people are called to the bimah.  *Hagbah* (הַגְבָּהָה) is lifting the open scroll to show it to the congregation; the person given this honour is the *magbi'ah* (מַגְבִּיהַּ).  *Gelilah* (גְּלִילָה) is rolling the scroll closed, fastening the belt (*gartel*), and putting the mantle and ornaments back on; the person given this honour is the *golel* (גּוֹלֵל).
