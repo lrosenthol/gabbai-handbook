@@ -5,6 +5,8 @@
 
 Said after learning a passage of the Oral Law that includes some *aggadah* (non-legal teaching): after *Korbanot* in the morning service, after *Bameh Madlikin* on Friday night, and after a *shiur* or the learning at a *siyum* or *shiva* house.[^kd13]  Commonly said by mourners.  It adds a prayer for the welfare of the rabbis, their students, and all who study Torah.  The lines marked *Aseret Yemei Teshuvah* (in yellow) replace the line printed just above them during the Ten Days of Repentance, from Rosh Hashanah through Yom Kippur.[^kd5]
 
+**Nusach Chabad variants:** After *וְיַמְלִיךְ מַלְכוּתֵהּ* in the opening paragraph, add *וְיַצְמַח פֻּרְקָנֵהּ וִיקָרֵב מְשִׁיחֵהּ* ("may He grow the redemption and bring His anointed close").  At the close, use *עֹשֶׂה הַשָּׁלוֹם בִּמְרוֹמָיו* (instead of *עוֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו*) throughout the year, and during the Ten Days of Repentance use *לְעֵלָּא לְעֵלָּא מִכָּל בִּרְכָתָא* and *עֹשֶׂה הַשָּׁלוֹם* as the marked replacements.[^kd14]
+
 ::: prayer
 יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא. (קהל: אָמֵן)
 
