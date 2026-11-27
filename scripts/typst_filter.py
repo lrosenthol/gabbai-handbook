@@ -37,19 +37,20 @@ from pandocfilters import toJSONFilter, RawBlock, RawInline, stringify, Para
 
 
 # ── Prayer blocks ─────────────────────────────────────────────────────────────
-# Prayer text is set at PRAYER_SIZE.  The Hebrew face (Shofar) looks noticeably
-# smaller than the Latin face (Source Sans 3) at the same point size, so runs of
-# Hebrew script inside a prayer block are bumped up by PRAYER_HEBREW_BOOST to
-# keep the Hebrew (the actual prayer) visually dominant over interleaved
-# English instructions.
+# Sizes come from project.yaml via Typst variables defined in the template:
+#   prayer-size         — the block's base size (English instructions, etc.)
+#   prayer-hebrew-size  — Hebrew-script runs.  Shofar looks noticeably smaller
+#                         than Source Sans 3 at the same point size, so the
+#                         Hebrew (the actual prayer) is set larger to stay
+#                         visually dominant over interleaved English.
+# The heading sizes in the template are derived from both values, so H1–H3
+# never look smaller than prayer text.
 #
 # Shofar's bold face (ShofarDemi-Bold.ttf) is registered as a *wider* stretch
 # (112.5%) than the regular face.  Typst matches stretch before weight, so a
 # plain weight: "bold" silently falls back to Shofar Regular.  Hebrew runs
 # therefore also request PRAYER_HEBREW_STRETCH so the bold face is selected.
 
-PRAYER_SIZE = 16                  # pt
-PRAYER_HEBREW_BOOST = 2           # pt added to Hebrew-script runs
 PRAYER_HEBREW_STRETCH = "112.5%"  # selects ShofarDemi-Bold for weight: bold
 
 
@@ -57,10 +58,9 @@ def _prayer_wrapper(fill: str = "") -> tuple[str, str]:
     fill_arg = f", fill: {fill}" if fill else ""
     return (
         "#block[\n"
-        f'  #set text(size: {PRAYER_SIZE}pt, weight: "bold"{fill_arg}, dir: rtl)\n'
+        f'  #set text(size: prayer-size, weight: "bold"{fill_arg}, dir: rtl)\n'
         f'  #show regex("\\p{{Hebrew}}+"): set text('
-        f'size: {PRAYER_SIZE + PRAYER_HEBREW_BOOST}pt, '
-        f'stretch: {PRAYER_HEBREW_STRETCH})\n',
+        f'size: prayer-hebrew-size, stretch: {PRAYER_HEBREW_STRETCH})\n',
         "\n]\n",
     )
 
@@ -91,11 +91,26 @@ DIV_WRAPPERS: dict[str, tuple[str, str]] = {
         "#page(numbering: none)[\n",
         "\n]\n",
     ),
-    "prayer":                 _prayer_wrapper(),
-    "prayer-shabbat":         _prayer_wrapper("red"),
-    "prayer-chaggim":         _prayer_wrapper("green"),
-    "prayer-high-holidays":   _prayer_wrapper("yellow"),
-    "prayer-shabbat-chaggim": _prayer_wrapper("purple"),
+    "prayer": (
+        '#block[\n  #set text(size: prayer-size, weight: "bold", dir: rtl)\n',
+        "\n]\n",
+    ),
+    "prayer-shabbat": (
+        '#block[\n  #set text(size: prayer-size, weight: "bold", fill: red, dir: rtl)\n',
+        "\n]\n",
+    ),
+    "prayer-chaggim": (
+        '#block[\n  #set text(size: prayer-size, weight: "bold", fill: green, dir: rtl)\n',
+        "\n]\n",
+    ),
+    "prayer-high-holidays": (
+        '#block[\n  #set text(size: prayer-size, weight: "bold", fill: yellow, dir: rtl)\n',
+        "\n]\n",
+    ),
+    "prayer-shabbat-chaggim": (
+        '#block[\n  #set text(size: prayer-size, weight: "bold", fill: purple, dir: rtl)\n',
+        "\n]\n",
+    ),
     # Community-specific note boxes
     "note-chabad": (
         '#block(stroke: (left: 2pt + blue), inset: (left: 8pt), width: 100%)[\n'
