@@ -16,7 +16,7 @@ The number of Torah portions (*aliyot*) called varies by day. The following tabl
 <!-- TODO: when a gabbai may add aliyot beyond the standard number. -->
 
 | Day                                  | Number of *Aliyot* |
-| ------------------------------------ | ------------------ |
+| ------------------------------------ | :----------------: |
 | Monday / Thursday / Shabbat Mincha   | 3                  |
 | Shabbat Morning                      | 7 + 1              |
 | Rosh Chodesh / Chol Ha-Moed          | 4                  |
@@ -218,7 +218,7 @@ In many communities gelilah is given to a boy under bar mitzvah, to train him in
 On some days the reading comes from two or three different places in the Torah.  The scroll is not rolled from one place to another in front of the congregation, out of respect for the congregation (*kevod ha-tzibbur*).  So a separate scroll is prepared for each reading.  If the community has only one kosher scroll (for example, a small minyan, or a second scroll found to be *pasul*), the one scroll is rolled to the second reading in front of the congregation.[^tr29]  Each scroll gets its own hagbah and its own golel, so the gabbai needs to arrange **two or three pairs** of people before the service.
 
 | Number of Scrolls | Days                                                                                                                                                                                 |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| :---------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2                 | Yom Tov (Pesach, Shavuot, Sukkot, Shemini Atzeret); Rosh Hashanah; Yom Kippur morning; Shabbat Chol Ha-Moed; Chol Ha-Moed Pesach (weekdays); Shabbat Rosh Chodesh; Shabbat Chanukah; Rosh Chodesh Tevet (weekday, during Chanukah); Shabbat Zachor and Shabbat Parah; Shabbat Shekalim and Shabbat Ha-Chodesh (when not on Rosh Chodesh) |
 | 3                 | Simchat Torah; Shabbat Rosh Chodesh Tevet (Chanukah); Shekalim on Shabbat Rosh Chodesh Adar; Ha-Chodesh on Shabbat Rosh Chodesh Nissan                                                |
 

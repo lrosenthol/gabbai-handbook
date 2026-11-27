@@ -318,6 +318,19 @@ DIV_HANDLERS = {
 }
 
 
+# ── Tables ────────────────────────────────────────────────────────────────────
+# For a pipe table with any row wider than 72 characters, pandoc derives
+# relative column widths from the lengths of the `---` separator lines.  Those
+# reflect how the markdown happens to be padded, not the content (e.g. a
+# "Number of Scrolls" column squeezed to 9% of the width).  Drop them so the
+# template's table rules let Typst size each column to its content.
+
+def _auto_table_widths(value):
+    attr, caption, colspecs, head, bodies, foot = value
+    colspecs = [[align, {"t": "ColWidthDefault"}] for align, _ in colspecs]
+    return {"t": "Table", "c": [attr, caption, colspecs, head, bodies, foot]}
+
+
 # ── Recursive block processor ─────────────────────────────────────────────────
 # pandocfilters.walk does NOT call action() on dicts returned as replacements —
 # only on items encountered inside lists.  When an outer Div returns its inner
@@ -348,6 +361,8 @@ def _process_blocks(blocks, meta):
                         break
             if not matched:
                 result.append(block)
+        elif block.get('t') == 'Table':
+            result.append(_auto_table_widths(block['c']))
         else:
             converted = _admonition_para(block)
             result.extend(converted if converted is not None else [block])
@@ -374,6 +389,9 @@ def _transform(key, value, fmt, meta):
             if cls in DIV_WRAPPERS:
                 before, after = DIV_WRAPPERS[cls]
                 return [RawBlock("typst", before)] + _process_blocks(blocks, meta) + [RawBlock("typst", after)]
+
+    if key == "Table":
+        return _auto_table_widths(value)
 
     if key == "Para":
         return _admonition_para({"t": key, "c": value})
