@@ -1,7 +1,7 @@
 ::: pagebreak
 :::
 
-# Annex B: Laws of the Gabbai / נִסְפָּח ב: הֲלָכוֹת הַגַּבַּאי {#annex-b}
+# Annex B: Laws of the Gabbai   {#annex-b}
 
 This annex covers who may serve as gabbai and how he conducts himself.  The practical steps of the reading are in [Torah Reading](#torah-reading), and the laws of who is called and in what order are in [Annex A: Laws of Aliyot](#annex-a).
 

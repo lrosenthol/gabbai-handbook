@@ -9,9 +9,9 @@ The public reading of the Torah (*keriat ha-Torah*) is performed from a handwrit
 
 This chapter follows the reading in the order of the service.  The laws behind it are collected in the two annexes at the back of the book: [Annex A: Laws of Aliyot](#annex-a) and [Annex B: Laws of the Gabbai](#annex-b).
 
-## The Number of Aliyot (עֲלִיּוֹת) {#number-of-aliyot}
+## The Number of Aliyot  {#number-of-aliyot}
 
-The number of Torah portions (*aliyot*) called varies by day. The following table documents the standard number of aliyot for the day/category.  It also notes (with +1) when the extra maftir/מַפְטִיר reading is added (for the person who will read the haftarah/הַפְטָרָה). 
+The number of Torah portions (*aliyot*, עֲלִיּוֹת) called varies by day. The following table documents the standard number of aliyot for the day/category.  It also notes (with +1) when the extra maftir/מַפְטִיר reading is added (for the person who will read the haftarah/הַפְטָרָה). 
 
 <!-- TODO: when a gabbai may add aliyot beyond the standard number. -->
 
@@ -118,7 +118,7 @@ On Yom Tov and Chol HaMoed, Siddur Ashkenaz uses the weekday introductory readin
 
 *Ve-tigaleh ve-teraeh malkhuto aleinu bi-zman karov ve-yachon pleitateinu u-fleitat amo Beit Yisrael le-chen u-le-chesed u-le-rachamim u-li-ratzon ve-nomar Amen. Ha-kol havu godel le-Elokeinu u-tenu kavod la-Torah.*
 
-The Mi Shebeirach for an oleh adds *li-chvod ha-regel* ("in honour of the pilgrimage festival") in the same place.  The exact holiday wording varies with Pesach, Shavuot and Sukkot; use [Aliyot / עליות](#mi-shebeirach) for the applicable line.
+The Mi Shebeirach for an oleh adds *li-chvod ha-regel* ("in honour of the pilgrimage festival") in the same place.  The exact holiday wording varies with Pesach, Shavuot and Sukkot; use [Aliyot / עֲלִיּוֹת](#mi-shebeirach) for the applicable line.
 
 ### After the Call
 

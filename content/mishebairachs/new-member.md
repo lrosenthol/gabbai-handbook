@@ -1,6 +1,6 @@
-# New Resident / Member / מי שברך לתושב חדש
+# New Resident / Member / מִי שֶׁבֵּרַךְ לְתוֹשָׁב חָדָשׁ
 
-## לתושב חדש (for a new resident / member)
+## לְתוֹשָׁב חָדָשׁ (for a new resident / member)
 
 ::: prayer
 מִי שֶׁבֵּרַךְ אֲבוֹתֵינוּ אַבְרָהָם יִצְחָק וְיַעֲקֹב מֹשֶׁה וְאַהֲרֹן דָּוִד וּשְׁלֹמֹה,

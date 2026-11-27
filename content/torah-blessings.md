@@ -1,7 +1,7 @@
 ::: pagebreak
 :::
 
-# Torah and Gomel Blessings / בִּרְכוֹת הַתּוֹרָה וְהַגּוֹמֵל {#torah-and-gomel-blessings}
+# Torah Blessings / בִּרְכוֹת הַתּוֹרָה  {#torah-and-gomel-blessings}
 
 ## The Aliyah Blessings / בִּרְכוֹת הַעֲלִיָּה
 

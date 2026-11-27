@@ -1,12 +1,12 @@
-# Introduction / מָבוֹא
+# Introduction
 
-## Purpose of This Guide / מַטָּרַת הַמַּדְרִיךְ
+## Purpose of This Guide
 
 This handbook is for synagogue officers (*gabbaim*) and those who help them run the Torah reading.  It covers the honours (*aliyot*, *hagbah*, *gelilah*), the blessings and prayers the gabbai calls for or says, and the laws behind them.
 
 The gabbai has a central role in the service.  A well-prepared gabbai keeps the reading moving, gives out honours fairly, and corrects errors in the reading with care and without embarrassing the reader.
 
-## How to Use This Handbook / כֵּיצַד לְהִשְׁתַּמֵּשׁ בַּמַּדְרִיךְ
+## How to Use This Handbook 
 
 The practical chapters come first, in roughly the order the gabbai needs them:
 
@@ -21,7 +21,7 @@ Each topic is covered in one place.  Where a practical section depends on a law,
 
 In the prayer texts, colour marks the words added on particular days: red for Shabbat, green for the festivals, purple for words that belong to both Shabbat and the festivals, and yellow for the High Holidays and the Ten Days of Repentance.
 
-## Customs Followed / הַמִּנְהָגִים
+## Customs Followed
 
 Unless a section says otherwise, the book follows Ashkenazic custom, and the prayer texts follow *Nusach Ashkenaz*.  Where Chabad or Sephardic practice differs, a note in a box marked *Chabad* or *Sephardic* explains the difference.  Where the book and the congregation's established custom disagree, follow the congregation and ask its rabbi.
 

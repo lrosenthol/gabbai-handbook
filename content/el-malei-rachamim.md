@@ -2,7 +2,7 @@
 
 This memorial prayer may be said for an individual who has died.  The congregant is named by their given name and their mother's name.
 
-## לזכר (for a male)
+## לְזָכָר (for a male)
 
 ::: prayer
 אֵל מָלֵא רַחֲמִים שׁוֹכֵן בַּמְּרוֹמִים,
@@ -28,7 +28,7 @@ The Lord is his portion; may he rest in peace upon his resting place. And let us
 
 ---
 
-## לנקבה (for a female)
+## לִנְקֵבָה (for a female)
 
 ::: prayer
 אֵל מָלֵא רַחֲמִים שׁוֹכֵן בַּמְּרוֹמִים,
