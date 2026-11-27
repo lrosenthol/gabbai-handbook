@@ -1,4 +1,4 @@
-# El Malei Rachamim / אֵל מָלֵא רַחֲמִים
+# El Malei Rachamim / אֵל מָלֵא רַחֲמִים {#el-malei-rachamim}
 
 This memorial prayer may be said for an individual who has died.  The congregant is named by their given name and their mother's name.
 

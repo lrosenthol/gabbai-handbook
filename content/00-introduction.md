@@ -1,15 +1,28 @@
 # Introduction / מָבוֹא
 
-This handbook is a guide for synagogue officers (*gabbaim*) and those who assist in the conduct of the service.  It covers the liturgical order, the honours (*aliyot*, *hagbah*, *gelilah*), and the practical responsibilities that fall to those who manage the Torah reading.
-
 ## Purpose of This Guide / מַטָּרַת הַמַּדְרִיךְ
 
-The gabbai occupies a central position in the synagogue service.  A well-prepared gabbai ensures that the service flows smoothly, that honours are distributed appropriately, and that errors in the Torah reading are corrected with care and without embarrassment to the reader.
+This handbook is for synagogue officers (*gabbaim*) and those who help them run the Torah reading.  It covers the honours (*aliyot*, *hagbah*, *gelilah*), the blessings and prayers the gabbai calls for or says, and the laws behind them.
 
-## How to Use This Handbook
+The gabbai has a central role in the service.  A well-prepared gabbai keeps the reading moving, gives out honours fairly, and corrects errors in the reading with care and without embarrassing the reader.
 
-The handbook is in two parts.  The practical chapters come first: *Torah Reading* follows the reading in the order of the service, from the number of aliyot and the wording for calling each oleh through hagbah, gelilah and correcting errors, and *Mi Shebeirach* collects the blessings said for the olim and others.  The laws behind them are gathered at the back as annexes: *Annex A: Laws of Aliyot* (who may be called, in what order, and how the oleh conducts himself) and *Annex B: Laws of the Gabbai* (who may serve, conduct and fairness).
+## How to Use This Handbook / כֵּיצַד לְהִשְׁתַּמֵּשׁ בַּמַּדְרִיךְ
 
-Each topic is covered in one place.  Where a practical section depends on a law, or a law has a practical side, a cross-reference gives the section name and page number.  Hebrew terms are introduced alongside their English equivalents, since the practitioner will encounter both in synagogue use.
+The practical chapters come first, in roughly the order the gabbai needs them:
 
-> A gabbai who knows the *halacha* and the custom of the congregation can fulfill his role with confidence.
+- [Torah Reading](#torah-reading) follows the reading through the service: the number of aliyot, how to call each oleh, maftir, hagbah and gelilah, reading from more than one scroll, and correcting errors.
+- [Torah and Gomel Blessings](#torah-and-gomel-blessings) and [Haftarah Blessings](#haftarah-blessings) give the blessings said by the oleh and the maftir.
+- [Mi Shebeirach](#mi-shebeirach) gives the blessings said for the olim, the sick, families and other occasions.
+- [Kaddishim](#kaddishim) gives each form of Kaddish and when it is said, and [El Malei Rachamim](#el-malei-rachamim) gives the memorial prayer.
+
+The laws are in two annexes at the back of the book: [Annex A: Laws of Aliyot](#annex-a) (who may be called, in what order, and how the oleh conducts himself) and [Annex B: Laws of the Gabbai](#annex-b) (who may serve, his duties, and fairness in giving out honours).
+
+Each topic is covered in one place.  Where a practical section depends on a law, or a law has a practical side, a cross-reference gives the section name and its page number.  Hebrew terms are given next to their English equivalents, because the gabbai will hear both in the synagogue.
+
+In the prayer texts, colour marks the words added on particular days: red for Shabbat, green for the festivals, purple for words that belong to both Shabbat and the festivals, and yellow for the High Holidays and the Ten Days of Repentance.
+
+## Customs Followed / הַמִּנְהָגִים
+
+Unless a section says otherwise, the book follows Ashkenazic custom, and the prayer texts follow *Nusach Ashkenaz*.  Where Chabad or Sephardic practice differs, a note in a box marked *Chabad* or *Sephardic* explains the difference.  Where the book and the congregation's established custom disagree, follow the congregation and ask its rabbi.
+
+A gabbai who knows the *halacha* and the custom of his congregation can do his job with confidence.
