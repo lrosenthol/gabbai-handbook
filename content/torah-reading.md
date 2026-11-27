@@ -163,7 +163,7 @@ For the text of the blessings before and after the haftarah, and which form to u
 
 ## Hagbah and Gelilah {#hagbah-gelilah}
 
-After the final aliyah (including maftir), two more people are called to the bimah.  *Hagbah* (הַגְבָּהָה) is lifting the open scroll to show it to the congregation; the person given this honour is the *magbi'ah* (מַגְבִּיהַּ).  *Gelilah* (גְּלִילָה) is rolling the scroll closed, fastening the belt (*gartel*), and putting the mantle and ornaments back on; the person given this honour is the *golel* (גּוֹלֵל).  A woman given this honour is a *golelet* (גּוֹלֶלֶת); as with a *bat* in *Calling an Oleh*, ask the congregation's rabbi whether women are called in your community.
+After the final aliyah (including maftir), two more people are called to the bimah.  *Hagbah* (הַגְבָּהָה) is lifting the open scroll to show it to the congregation; the person given this honour is the *magbi'ah* (מַגְבִּיהַּ).  *Gelilah* (גְּלִילָה) is rolling the scroll closed, fastening the belt (*gartel*), and putting the mantle and ornaments back on; the person given this honour is the *golel* (גּוֹלֵל).
 
 ::: note-sephardic
 **Sephardic custom:** In Sephardic communities (and some others) hagbah is done *before* the reading, right after the scroll is placed on the bimah, rather than after it.   The gabbai calls the honour at that point instead of after maftir, so after the maftir reading only the wrapping and the return of the scroll remain before the haftarah begins.[^tr23]
@@ -223,7 +223,7 @@ The gabbai should have the chair ready behind the magbi'ah while he is lifting, 
 
 The golel rolls the scroll closed and dresses it: the belt (*gartel*), the mantle, and then the breastplate, pointer (*yad*) and crown as the community does it.  The scroll should be rolled tight and closed so that the two rollers meet at a seam between two sheets of parchment.  That way, if it ever tears, it tears at the seam.[^tr26]  The Talmud teaches that the golel receives a reward equal to that of all who read from the Torah.[^tr27]
 
-Today one person lifts and another rolls, so the magbi'ah is considered the main golel.[^tr28]  This is one reason many communities treat hagbah as the more important of the two honours.
+NOTE: Today one person lifts and another rolls, so the magbi'ah is considered the main golel.[^tr28]  This is one reason many communities treat hagbah as the more important of the two honours.
 
 In many communities gelilah is given to a boy under bar mitzvah, to train him in mitzvot (*chinuch*).  The boy should be old enough to understand that he is handling something holy.[^tr25]  An adult should stand nearby to help, especially with a heavy scroll.
 
