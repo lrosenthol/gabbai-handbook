@@ -113,8 +113,26 @@ $endif$
 
 // ── Tables ────────────────────────────────────────────────────────────────────
 
-#set table(stroke: 0.5pt, inset: 6pt)
-#show table.header: set text(weight: "bold")
+// Header row: bold text on a light grey band.  Body rows: a hairline under
+// each row; no vertical rules.  Column widths are left to Typst (the filter
+// strips pandoc's markdown-derived widths).
+
+#let table-header-fill = luma(225)
+#let table-rule        = 0.5pt + luma(195)
+
+#set table(
+  inset:  (x: 7pt, y: 5pt),
+  fill:   (x, y) => if y == 0 { table-header-fill },
+  stroke: (x, y) => if y > 0 { (bottom: table-rule) },
+)
+// pandoc emits a table.hline() under the header; the grey band already marks it
+#set table.hline(stroke: none)
+#show table.cell.where(y: 0): set text(weight: "bold")
+// pandoc wraps tables in align(center); keep that for the table's placement
+// but start-align cell text (columns marked :---: in markdown stay centred).
+// Justification opens wide gaps in narrow cells, so turn it off.
+#show table: set align(start)
+#show table: set par(justify: false)
 
 // ── Horizontal rule ──────────────────────────────────────────────────────────
 
